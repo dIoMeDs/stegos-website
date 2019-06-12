@@ -28,3 +28,6 @@ publishDir = "docs"
   [languages.zn]
     languageName = "中文"
     weight = 2
+  [languages.ru]
+    languageName = "ru"
+    weight = 2

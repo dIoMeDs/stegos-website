@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on </title>
+    <link>https://stegos.com/ru/team/</link>
+    <description>Recent content in Teams on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://stegos.com/ru/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://stegos.com/ru/team/p_david/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stegos.com/ru/team/p_david/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stegos.com/ru/team/p_eugene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stegos.com/ru/team/p_eugene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stegos.com/ru/team/p_joel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stegos.com/ru/team/p_joel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stegos.com/ru/team/p_roman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stegos.com/ru/team/p_roman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stegos.com/ru/team/p_vl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stegos.com/ru/team/p_vl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stegos.com/ru/team/p_vol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stegos.com/ru/team/p_vol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

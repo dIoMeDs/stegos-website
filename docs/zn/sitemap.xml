@@ -217,6 +217,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://stegos.com/zn/"
                 />
@@ -230,6 +235,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://stegos.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -278,6 +288,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://stegos.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -447,6 +462,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/p_david/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://stegos.com/zn/team/p_david/"
                 />
@@ -460,6 +480,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://stegos.com/team/p_eugene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/p_eugene/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -479,6 +504,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/p_joel/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://stegos.com/zn/team/p_joel/"
                 />
@@ -492,6 +522,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://stegos.com/team/p_roman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/p_roman/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -511,6 +546,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/p_vl/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://stegos.com/zn/team/p_vl/"
                 />
@@ -527,6 +567,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/p_vol/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://stegos.com/zn/team/p_vol/"
                 />
@@ -539,6 +584,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://stegos.com/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://stegos.com/ru/team/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,0 +1,189 @@
+#
+# Home page translateion for template index.html
+#
+
+[whitepaper]
+other = "Whitepaper"
+
+[whitepaper_pdf]
+other = "stegos-whitepaper-ru.pdf"
+
+[news]
+other = "Новости"
+
+[main_header_title]
+other = "Платформа для приватных<br> приложений"
+
+[main_header_info]
+other = "Stegos обеспечивает абсолютно приватный<br> и безопасный базис для создания<br> децентрализованный мобильных приложений"
+
+[main_header_form_title]
+other = "Запускаемся в самое ближайшее время"
+
+[your_email_address]
+other = "Ваш e-mail"
+
+[learn_more]
+other = "Узнать больше"
+
+[why_stegos]
+other = "Почему именно Stegos?"
+
+[absolutely_private]
+other = "Абсолютная<br>приватность"
+
+[confidential_transactions]
+other = "Конфиденциальные транзакции"
+
+[stealth_addresses]
+other = "Скрытые адреса"
+
+[zero_knowledge_proofs]
+other = "Доказательства с нулевым разглашением"
+
+[snowball_our_own]
+other = "Снежный ком, наша собственная<br>имплементация<br>ValueShuffle"
+
+[unlinkable_and_untraceable]
+other = "Несвязываемый и<br>неотслеживаемый"
+
+[scalable_and_powerful]
+other = "Масштабируемый и<br>эффективный"
+
+[horizontal_scalability]
+other = "Горизонтальная масштабируемость"
+
+[state_and_transactional]
+other = "Сегментирование состояний<br>и транзакций"
+
+[thousands_of_transactions]
+other = "Тысячи<br>транзакций<br>в секунду"
+
+[original_r_and_d]
+other = "Оригинальная<br>разработка"
+
+[fast_and_compact]
+other = "Быстрый и<br>компактный"
+
+[transaction_confirmation]
+other = "Подтверждение<br>транзакций<br>за несколько секунд"
+
+[old_data_and_transactions]
+other = "Старые данные и<br>транзакции<br>безопасно удаляются"
+
+[small_enough_to_fit]
+other = "Достаточно мал, чтобы<br>поместиться на смартфоне"
+
+[mobile_all_the_way]
+other = "Полностью<br>мобильный"
+
+[run_a_full_blockchain]
+other = "Запустите полную ноду<br>в своем смартфоне<br>и зарабатывайте токены<br>прямо в кармане"
+
+[fair_gamified]
+other = "Распределение gamified PoS<br>позволяет выиграть много даже<br>если вы не крипто кит!"
+
+[no_messing_around]
+other = "Не возитесь с небезопасными<br>удаленными серверами.<br>Безопасная мобильная<br>виртуальная машина для<br>запуска HTML/CSS/<br>JavaScript приложений"
+
+[an_incredibly_easy]
+other = "Невероятно простой<br>и безопасный способ совершать<br>платежи и отправлять данные"
+
+[the_stegos_app_integrates]
+other = "Приложение Stegosа объединяет кошелек и мессенджер с чатом"
+
+[create_custom_airdrops]
+other = "Создание пользовательских рассылок токенов, на которые может претендовать любой, у кого есть QR-код. Красные пакеты - это сюрприз (в китайской традиции), который вы можете отправить кому угодно"
+
+[a_secure_mobile_vm]
+other = "Безопасная мобильная виртуальная машина для запуска приложений, написанных на HTML, CSS и JavaScript. Простой API для обмена сообщениями, полностью независимый от базового блокчейна"
+
+[run_a_node_on_the_smartphone]
+other = "Запусти ноду на смартфоне в своем кармане и зарабатывай токены, помогая поддерживать сеть Stegosа"
+
+[watch_video]
+other = "Смотреть видео"
+
+[more_news]
+other = "Все новости"
+
+[the_project]
+other = "Проект"
+
+[source_code]
+other = "Исходный код"
+
+[community]
+other = "Сообщество"
+
+[team]
+other = "Команда"
+
+[roadmap]
+other = "Дорожная карта"
+
+[mainnet_and_native_token]
+other = "Основная сеть и нативный токен"
+
+[exchange_sale]
+other = "Листинг на бирже"
+
+[sharding]
+other = "Сегментирование"
+
+[mobile_staking]
+other = "Мобильный staking"
+
+[app_store_private]
+other = "Магазин приложений (App Store) Dandelion"
+
+[pruning_with_no_bootstrap]
+other = "Компактизация без использования выделенных (bootstrap) нод zk-STARKs"
+
+[partners]
+other = "Партнеры"
+
+[subscribe_to_our_newsletter]
+other = "Подписаться на нашу рассылку"
+
+[subscribe]
+other = "Подписаться"
+
+[join]
+other = "Присоединиться"
+
+[still_have_questions]
+other = "Остались вопросы?"
+
+[join_our_community]
+other = "Присоединиться к нашему Телеграм-сообществу"
+
+[back_to_news]
+other = "Вернуться к новостям"
+
+[next]
+other = "Следующая"
+
+[previous]
+other = "Предыдущая"
+
+[stegos_app]
+other = "Приложения Stegos"
+
+[home_title]
+other = "Stegos: платформа для приватных приложений"
+
+[home_description]
+other = "Платформа конфиденциальности Stegos сочетает в себе уникальный блокчейн и конструкцию токенов для реализации первой криптовалюты, которая является полностью приватной, безопасной, эффективной и при этом не вредит экологии"
+
+[team_title]
+other = "Руководство блокчейн-команды Stegos"
+
+[team_description]
+other = "Команда с большим опытом из сфер финансов, аэрокосмической промышленности и криптографии"
+
+[news_title]
+other = "Новости приватной платформы Stegos"
+
+[news_description]
+other = "Новости о Stegos: абсолютно анонимной и безопасносной платформе для создания децентрализованных мобильных приложений"
