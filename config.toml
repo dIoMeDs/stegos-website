@@ -3,6 +3,8 @@ baseURL = "https://diomeds.github.io/stegos-website/"
 languageCode = "en-us"
 theme = "hugo-theme"
 
+canonifyURLs = true
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
