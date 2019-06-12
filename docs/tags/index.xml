@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://stegos.com/tags/</link>
+    <link>https://diomeds.github.io/stegos-website/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stegos.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>report</title>
-      <link>https://stegos.com/tags/report/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/report/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/tags/report/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/report/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stegos</title>
-      <link>https://stegos.com/tags/stegos/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/stegos/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/tags/stegos/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/stegos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>https://stegos.com/tags/technology/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/technology/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/tags/technology/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blockchain</title>
-      <link>https://stegos.com/tags/blockchain/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/blockchain/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/tags/blockchain/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile</title>
-      <link>https://stegos.com/tags/mobile/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/mobile/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/tags/mobile/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://stegos.com/tags/design/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/design/</link>
       <pubDate>Fri, 22 Feb 2019 12:05:29 +0100</pubDate>
       
-      <guid>https://stegos.com/tags/design/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>smartcontracts</title>
-      <link>https://stegos.com/tags/smartcontracts/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/smartcontracts/</link>
       <pubDate>Fri, 22 Feb 2019 12:05:29 +0100</pubDate>
       
-      <guid>https://stegos.com/tags/smartcontracts/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/smartcontracts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>competition</title>
-      <link>https://stegos.com/tags/competition/</link>
+      <link>https://diomeds.github.io/stegos-website/tags/competition/</link>
       <pubDate>Mon, 11 Feb 2019 21:02:22 +0600</pubDate>
       
-      <guid>https://stegos.com/tags/competition/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/competition/</guid>
       <description></description>
     </item>
     

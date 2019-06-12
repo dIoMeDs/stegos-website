@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://stegos.com/categories/</link>
+    <link>https://diomeds.github.io/stegos-website/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stegos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DEVELOPMENT</title>
-      <link>https://stegos.com/categories/development/</link>
+      <link>https://diomeds.github.io/stegos-website/categories/development/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/categories/development/</guid>
+      <guid>https://diomeds.github.io/stegos-website/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVERVIEW</title>
-      <link>https://stegos.com/categories/overview/</link>
+      <link>https://diomeds.github.io/stegos-website/categories/overview/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/categories/overview/</guid>
+      <guid>https://diomeds.github.io/stegos-website/categories/overview/</guid>
       <description></description>
     </item>
     

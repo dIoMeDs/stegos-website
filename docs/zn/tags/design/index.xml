@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design on </title>
-    <link>https://stegos.com/zn/tags/design/</link>
+    <link>https://diomeds.github.io/stegos-website/zn/tags/design/</link>
     <description>Recent content in design on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Feb 2019 12:05:29 +0100</lastBuildDate>
     
-	<atom:link href="https://stegos.com/zn/tags/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/zn/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart Contracts Are Useless</title>
-      <link>https://stegos.com/zn/news/2019/02/smart-contract-are-useless/</link>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/02/smart-contract-are-useless/</link>
       <pubDate>Fri, 22 Feb 2019 12:05:29 +0100</pubDate>
       
-      <guid>https://stegos.com/zn/news/2019/02/smart-contract-are-useless/</guid>
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/02/smart-contract-are-useless/</guid>
       <description>The ideas behind smart contracts are over twenty years old, but smart contracts only became a major talking point in the past five years, with the release of Ethereum and its Solidity programming language.
 For much of 2017, you couldn’t move for ICOs promising to use smart contracts to revolutionize the way we transact and do business, and the cryptosphere is still awash with articles explaining the coming smart contract revolution, how smart contracts are going to disrupt everything from logistics to real estate, will put lawyers everywhere out of jobs, and render thousands of years of developments in human contract law obsolete.</description>
     </item>
     
     <item>
       <title>Towards a crypto thaw: Using incentives to drive adoption</title>
-      <link>https://stegos.com/zn/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</link>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</link>
       <pubDate>Mon, 11 Feb 2019 21:02:22 +0600</pubDate>
       
-      <guid>https://stegos.com/zn/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</guid>
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</guid>
       <description>As the crypto winter stretches past the twelve-month mark, many people are asking what went wrong and when (or indeed if) it’s going to end.
 But the diagnosis isn’t mysterious. And neither is the cure.
 Fostering breathless excitement about price and moon lambos was always unsustainable. Yes, ICOs injected a lot of tokens into the ecosystem, but that’s not how you bootstrap. Cryptocurrencies only have value if they’re useful, so we need people to use them.</description>
@@ -34,10 +34,10 @@ Fostering breathless excitement about price and moon lambos was always unsustain
     
     <item>
       <title>Stegos：比ZCash更无信任，比Monero更具可扩展性，比MimbleWimble更加用户友好</title>
-      <link>https://stegos.com/zn/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</link>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</link>
       <pubDate>Fri, 08 Feb 2019 00:50:05 +0600</pubDate>
       
-      <guid>https://stegos.com/zn/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</guid>
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</guid>
       <description>我们生活在一个前所未有的时代，国家监督和打击交易自由，表达自由甚至思想自由。但隐私是一项普遍的人权，我们必须为保护隐私权而斗争。有各种各样的工具可以确保您的隐私，例如加密的电子邮件和消息传递应用程序，但这些工具留下了非常明显的线索，关于您是谁以及您正在与谁交谈。
 Stegos Privacy Blockchain是保护您的数据、交易和通信的最佳方式。与传统的电子邮件和在线消息服务不同，它是完全分散式的、安全加密的以及在公开场合没有留下可见的线索。想要窥视到你的信息发送给谁和信息来源是谁是不可能的，或者甚至无法窥视到你是如何连接到Stegos区块链的。除了收件人之外，没有人可以看到您发送的内容，并且没有任何内容可以将信息或通信关联到您的真实身份。
 现有隐私区块链实施的问题 已经有几个隐私区块链，包括Verge，Dash，ZCash，Monero，Grin和Beam，它们都提供不同程度的隐私和机密性。不幸的是，所有这些区块链也有缺点。例如，Verge提供的隐私很少，没有什么独特之处，Dash并不是真正的私密，ZCash要求你信任它，Monero很难扩展。基于MimbleWimble技术的Grin和Beam要求发送方和接收方都在线完成交易，这对于现代全球通信和业务需求是不切实际的。此外，Grin / Beam网络上的任何节点都可以监听并跟踪正在交换的硬币，因此它们的硬币不可替代并且很容易被标记为非法资产。最后但并非最不重要的是，上述区块链都没有提供构建隐私应用程序的平台，大大降低了它们的实用性和可访问性。

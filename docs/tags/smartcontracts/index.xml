@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>smartcontracts on </title>
-    <link>https://stegos.com/tags/smartcontracts/</link>
+    <link>https://diomeds.github.io/stegos-website/tags/smartcontracts/</link>
     <description>Recent content in smartcontracts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Feb 2019 12:05:29 +0100</lastBuildDate>
     
-	<atom:link href="https://stegos.com/tags/smartcontracts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/tags/smartcontracts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart Contracts Are Useless</title>
-      <link>https://stegos.com/news/2019/02/smart-contract-are-useless/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/02/smart-contract-are-useless/</link>
       <pubDate>Fri, 22 Feb 2019 12:05:29 +0100</pubDate>
       
-      <guid>https://stegos.com/news/2019/02/smart-contract-are-useless/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/02/smart-contract-are-useless/</guid>
       <description>The ideas behind smart contracts are over twenty years old, but smart contracts only became a major talking point in the past five years, with the release of Ethereum and its Solidity programming language.
 For much of 2017, you couldn’t move for ICOs promising to use smart contracts to revolutionize the way we transact and do business, and the cryptosphere is still awash with articles explaining the coming smart contract revolution, how smart contracts are going to disrupt everything from logistics to real estate, will put lawyers everywhere out of jobs, and render thousands of years of developments in human contract law obsolete.</description>
     </item>

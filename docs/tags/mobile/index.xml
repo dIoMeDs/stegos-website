@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mobile on </title>
-    <link>https://stegos.com/tags/mobile/</link>
+    <link>https://diomeds.github.io/stegos-website/tags/mobile/</link>
     <description>Recent content in mobile on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stegos.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mobile Blockchain - The Holy Grail</title>
-      <link>https://stegos.com/news/2019/04/mobile-blockchain-the-holy-grail/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/04/mobile-blockchain-the-holy-grail/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/</guid>
       <description>The Holy Grail
 Mobile blockchain is the crypto Holy Grail. If we&amp;rsquo;re creating a global decentralized network of millions of users, we&amp;rsquo;ll want it to run on the simplest devices possible. But this has often been dismissed as too difficult, so developers either treat smartphone support as a long-term goal (which they never get to), completely neuter the capabilities of their mobile nodes, or ignore them entirely.
 But that’s completely the wrong approach.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on </title>
-    <link>https://stegos.com/news/</link>
+    <link>https://diomeds.github.io/stegos-website/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stegos.com/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mainnet Preview 1</title>
-      <link>https://stegos.com/news/2019/06/mainnet-1-release/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/06/mainnet-1-release/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/</guid>
       <description>Stegos Mainnet Preview 1 Release Notes Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
 This is a first preview release of upcoming Stegos mainnet. This preview version is considered mostly feature-complete. All core features have been implemented, yet some improvements and bug fixes need to be made for the final release.
 New in Stegos v0.8:  Created an innovative blockchain compression technology to remove intermediate intra-epoch blocks after reaching the final pBFT consensus in validators group.</description>
@@ -24,10 +24,10 @@ New in Stegos v0.8:  Created an innovative blockchain compression technology to 
     
     <item>
       <title>Testnet 7 Release</title>
-      <link>https://stegos.com/news/2019/05/testnet-7-release/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/05/testnet-7-release/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/</guid>
       <description>Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
 This is the seventh testnet release of the Stegos blockchain. Changes since Testnet 6:
  New StakeUTXO, Core Blockchain, StakeUTXOs with BLS signatures Public payment UTXO, Core Blockchain, UTXO with uncloaked recipient pubkey and amount Adding time locks to all UTXO types, Core Blockchain, allow UTXOs to be time-locked Introducing micro and macro blocks, Core Blockchain, adding more security to microblocks Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals Stabilize ValueShuffle facilitating in the event of epoch change, ValueShuffle, fine-tuning of the Facilitator code Change PBC keys: network, Network, support for changing node’s pbc (validator) keys on the go Check for stale connections, Network, check if some neighbor connections are stale and re-connect Stress Testing: Deploy TxGenerator, Testing, transaction generator deployment support for devnets Use AONT (All or Nothing) for all serialized representation of secrets, Security, additional security for in-memory representations of secrets Implement WAU (Wipe After Use) for all secrets, Security, additional security for in-memory representations of secrets  Breaking changes:</description>
@@ -35,10 +35,10 @@ This is the seventh testnet release of the Stegos blockchain. Changes since Test
     
     <item>
       <title>Tech Report May, 6th - May, 17th</title>
-      <link>https://stegos.com/news/2019/05/tech-report-may-6th-may-17th/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/05/tech-report-may-6th-may-17th/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/</guid>
       <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
 Here is what we accomplished in the period May, 6th — May, 17th:
 Done in Sprint 16
@@ -47,10 +47,10 @@ Done in Sprint 16
     
     <item>
       <title>Testnet 6 Release</title>
-      <link>https://stegos.com/news/2019/05/testnet-6-release/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/05/testnet-6-release/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/</guid>
       <description>Stegos Testnet 6 Release Notes
 Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
 This is the sixth Testnet release of the Stegos blockchain. Changes since Testnet 5:
@@ -59,10 +59,10 @@ This is the sixth Testnet release of the Stegos blockchain. Changes since Testne
     
     <item>
       <title>Tech Report May, 20th - May, 31st</title>
-      <link>https://stegos.com/news/2019/05/tech-report-may-20th-may-31st/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-20th-may-31st/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/05/tech-report-may-20th-may-31st/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-20th-may-31st/</guid>
       <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
 Here is what we accomplished in the period May, 20th — May, 31st:
 Done in Sprint 17  Speed-up node bootstrap and re-synchronization, Node, fine-tuning bootstrap constants
@@ -72,10 +72,10 @@ Done in Sprint 17  Speed-up node bootstrap and re-synchronization, Node, fine-tu
     
     <item>
       <title>Tech Report Apr, 22nd - May, 3rd </title>
-      <link>https://stegos.com/news/2019/05/tech-report-apr-22nd-may-3rd/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/05/tech-report-apr-22nd-may-3rd/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/05/tech-report-apr-22nd-may-3rd/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/05/tech-report-apr-22nd-may-3rd/</guid>
       <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
 Here is what we accomplished in the period April, 22nd — May, 3rd:
 Done
@@ -84,10 +84,10 @@ Done
     
     <item>
       <title>Tech Report Apr, 8th - Apr, 19th</title>
-      <link>https://stegos.com/news/2019/04/tech-report-apr-8th-apr-19th/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/04/tech-report-apr-8th-apr-19th/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/04/tech-report-apr-8th-apr-19th/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/04/tech-report-apr-8th-apr-19th/</guid>
       <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
 The following tasks were completed in the period April,8th — April, 19th:
 Done
@@ -96,10 +96,10 @@ Done
     
     <item>
       <title>Testnet 5 Release</title>
-      <link>https://stegos.com/news/2019/04/testnet-5-release/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/04/testnet-5-release/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/04/testnet-5-release/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/04/testnet-5-release/</guid>
       <description>Stegos Testnet 5 Release Notes
 Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
 This is the fifth testnet release of the Stegos blockchain. Changes since Testnet 4:
@@ -108,10 +108,10 @@ This is the fifth testnet release of the Stegos blockchain. Changes since Testne
     
     <item>
       <title>Mobile Blockchain - The Holy Grail</title>
-      <link>https://stegos.com/news/2019/04/mobile-blockchain-the-holy-grail/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/04/mobile-blockchain-the-holy-grail/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/</guid>
       <description>The Holy Grail
 Mobile blockchain is the crypto Holy Grail. If we&amp;rsquo;re creating a global decentralized network of millions of users, we&amp;rsquo;ll want it to run on the simplest devices possible. But this has often been dismissed as too difficult, so developers either treat smartphone support as a long-term goal (which they never get to), completely neuter the capabilities of their mobile nodes, or ignore them entirely.
 But that’s completely the wrong approach.</description>
@@ -119,10 +119,10 @@ But that’s completely the wrong approach.</description>
     
     <item>
       <title>“Tech Report Mar, 25th - Apr, 5th”</title>
-      <link>https://stegos.com/news/2019/04/tech-report-mar-25th-apr-5th/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/04/tech-report-mar-25th-apr-5th/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/04/tech-report-mar-25th-apr-5th/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/04/tech-report-mar-25th-apr-5th/</guid>
       <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
 The following tasks were completed in the period April, 2nd — April, 15th:
  Investigate packet loss in libp2p, Network, fixing a bug with lost packets related to the usage of Cuckoo-filters View Changes for Micro Blocks, Consensus, view change is an essential part of the consensus protocol View Changes for Key Blocks, Consensus`, view change is an essential part of the consensus protocol Determine Epoch Length &amp;amp;&amp;amp; Block Time, Consensus, epoch length and block time are important parameters of the consensus protocol HashCash Algorithm, Network, nodes have to solve HashCash puzzles in order to join the network to prevent Sybil attacks Unicast Messages Encryption, Network, unicast messages traveling over Kademlia DHT network have to be encrypted Test cases for block validation, Core Blockchain, part of the functional testing harness RaptorQ Encoder/Decoder, Network, required to create optimized protocol for transmission of blocks/other large messages  In-progress:</description>
@@ -130,20 +130,20 @@ The following tasks were completed in the period April, 2nd — April, 15th:
     
     <item>
       <title>Smart Contracts Are Useless</title>
-      <link>https://stegos.com/news/2019/02/smart-contract-are-useless/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/02/smart-contract-are-useless/</link>
       <pubDate>Fri, 22 Feb 2019 12:05:29 +0100</pubDate>
       
-      <guid>https://stegos.com/news/2019/02/smart-contract-are-useless/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/02/smart-contract-are-useless/</guid>
       <description>The ideas behind smart contracts are over twenty years old, but smart contracts only became a major talking point in the past five years, with the release of Ethereum and its Solidity programming language.
 For much of 2017, you couldn’t move for ICOs promising to use smart contracts to revolutionize the way we transact and do business, and the cryptosphere is still awash with articles explaining the coming smart contract revolution, how smart contracts are going to disrupt everything from logistics to real estate, will put lawyers everywhere out of jobs, and render thousands of years of developments in human contract law obsolete.</description>
     </item>
     
     <item>
       <title>Tech report Jan, 29th - Feb, 8th</title>
-      <link>https://stegos.com/news/2019/02/tech-report-jan-29th-feb-8th/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/02/tech-report-jan-29th-feb-8th/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/02/tech-report-jan-29th-feb-8th/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/02/tech-report-jan-29th-feb-8th/</guid>
       <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
 The following tasks were completed in the period January, 29th — February, 8th:
  Core: Blockchain persistency. Blocks are stored on disk now but no transaction pruning is applied. Core: Node bootstrap. A new node can connect to any Stegos nodes to download the blockchain. Core: The special Data UTXO type has been removed and data functionality has been rolled into the payment UTXO.</description>
@@ -151,10 +151,10 @@ The following tasks were completed in the period January, 29th — February, 8th
     
     <item>
       <title>Towards a crypto thaw: Using incentives to drive adoption</title>
-      <link>https://stegos.com/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</link>
       <pubDate>Mon, 11 Feb 2019 21:02:22 +0600</pubDate>
       
-      <guid>https://stegos.com/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/02/towards-a-ctypto-thaw-using-incentives-to-drive-adoption/</guid>
       <description>As the crypto winter stretches past the twelve-month mark, many people are asking what went wrong and when (or indeed if) it’s going to end.
 But the diagnosis isn’t mysterious. And neither is the cure.
 Fostering breathless excitement about price and moon lambos was always unsustainable. Yes, ICOs injected a lot of tokens into the ecosystem, but that’s not how you bootstrap. Cryptocurrencies only have value if they’re useful, so we need people to use them.</description>
@@ -162,20 +162,20 @@ Fostering breathless excitement about price and moon lambos was always unsustain
     
     <item>
       <title>Stegos: More trustless than ZCash, more scalable than Monero, more user-friendly than MimbleWimble</title>
-      <link>https://stegos.com/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/01/stegos-more-trustless-than-zcash-more-scalable-than-monero-more-user-friendly-than-mimblewimble/</guid>
       <description>We live in an era of unprecedented state surveillance and crackdowns on freedom of transactions, expression, and even thought. But privacy is a universal human right that we must fight to preserve. There are various tools available which promise to ensure your privacy, such as encrypted email and messaging applications, but these leave highly visible clues about who you are and who you are talking to.
 Stegos Privacy Blockchain is the best way to secure your data, transactions and communications.</description>
     </item>
     
     <item>
       <title>Tech report Dec,31st - Jan, 27th</title>
-      <link>https://stegos.com/news/2019/01/tech-report-dec31st-jan-27th/</link>
+      <link>https://diomeds.github.io/stegos-website/news/2019/01/tech-report-dec31st-jan-27th/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://stegos.com/news/2019/01/tech-report-dec31st-jan-27th/</guid>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/01/tech-report-dec31st-jan-27th/</guid>
       <description>Dec,31st - Jan,13th, the Stegos development team has released the blockchain prototype (MVP). The MVP release containts the following base features:
  Nodes can select a group of validators among them Nodes can elect a leader of the consensus Nodes can verify incoming transactions The leader of consensus can create and propose blocks Validators can verify proposed blocks and co-sign them with their BLS signature The leader can form the final BLS multi-signature and broadcast sealed block to the network Nodes can verify and process incoming sealed blocks by pruning spent UTXOs out of the UTXO set  There is no disk persistance in the MVP release, as well as new nodes cannot connect and bootstrap from the living nodes.</description>
     </item>
