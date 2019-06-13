@@ -6,9 +6,37 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>stegos</title>
+      <link>https://diomeds.github.io/stegos-website/ru/tags/stegos/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/tags/stegos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>отчет</title>
+      <link>https://diomeds.github.io/stegos-website/ru/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>технология</title>
+      <link>https://diomeds.github.io/stegos-website/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

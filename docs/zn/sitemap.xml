@@ -14,6 +14,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/"
                 />
@@ -31,6 +36,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/"
                 />
@@ -45,6 +55,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-apr-22nd-may-3rd/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -259,6 +274,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/categories/development/"
                 />
@@ -272,6 +292,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -325,6 +350,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/stegos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/stegos/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -3,7 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-apr-22nd-may-3rd/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/ru/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,6 +87,123 @@
                 hreflang="ru"
                 href="https://diomeds.github.io/stegos-website/ru/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/categories/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/categories/development/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/categories/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/news/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/tags/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/tags/stegos/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/stegos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/stegos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/stegos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -145,46 +329,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://diomeds.github.io/stegos-website/ru/team/p_vol/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/ru/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/ru/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/"
                 />
   </url>
   

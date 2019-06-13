@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://diomeds.github.io/stegos-website/ru/</link>
-    <description>Recent content on </description>
+    <title>stegos on </title>
+    <link>https://diomeds.github.io/stegos-website/ru/tags/stegos/</link>
+    <description>Recent content in stegos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://diomeds.github.io/stegos-website/ru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diomeds.github.io/stegos-website/ru/tags/stegos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,60 +45,6 @@ Stegos создает передовые технологии, которые з
 Сделанное за период 22 апреля — 3 мая:
 Сделано
  Завершена интеграция HashCash, сеть, необходимая для предотвращения DoS-атак Проведено стресс-тестирование: сгенерирована транзакционная нагрузка, проверено состояние сети, протестированы проводки Определены основные константы блокчейна: максимальное количество \&amp;ldquo;выходов\&amp;rdquo; (UTXO) на блок, Epoch Length и время блока, консенсус, остальные важные параметры протокола Процедура восстановления кошелька, сам кошелек, необходимый для восстановления ключей с помощью фразы восстановления из 24 слов Шифрование ключей на диске, кошелек, безопасное хранение ключей Доказательство конструкции UTXO, внедрена функция, позволяющая доказать, что конкретная транзакция имела место в прошлом  В процессе работы</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diomeds.github.io/stegos-website/ru/team/p_david/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/team/p_david/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diomeds.github.io/stegos-website/ru/team/p_eugene/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/team/p_eugene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diomeds.github.io/stegos-website/ru/team/p_joel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/team/p_joel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diomeds.github.io/stegos-website/ru/team/p_roman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/team/p_roman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diomeds.github.io/stegos-website/ru/team/p_vl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/team/p_vl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diomeds.github.io/stegos-website/ru/team/p_vol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/team/p_vol/</guid>
-      <description></description>
     </item>
     
   </channel>
