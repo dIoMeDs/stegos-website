@@ -6,6 +6,8 @@ infoFull: "Дэвид - настоящий ученый-ракетчик. Зан
 link: "#p_david"
 id: "p_david"
 photo: "photo_david"
+socialLink: "https://www.linkedin.com/in/david-mcclain-685669155/"
+socialIcon: <i class="fab fa-linkedin-in"></i>
 sort: "3"
 draft: false
 ---

@@ -6,6 +6,8 @@ infoFull: "Владимир — молодой и энергичный спец�
 link: "#p_vol"
 id: "p_vol"
 photo: "photo_vol"
+socialLink: "https://linkedin.com/in/vldm"
+socialIcon: <i class="fab fa-linkedin-in"></i>
 sort: "6"
 draft: false
 ---

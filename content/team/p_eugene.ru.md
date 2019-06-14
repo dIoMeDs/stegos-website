@@ -6,6 +6,8 @@ infoFull: "Евгений отвечает за надежность работ�
 link: "#p_eugene"
 id: "p_eugene"
 photo: "photo_eugene"
+socialLink: "https://www.linkedin.com/in/eugenechupriyanov/"
+socialIcon: <i class="fab fa-linkedin-in"></i>
 sort: "5"
 draft: false
 ---

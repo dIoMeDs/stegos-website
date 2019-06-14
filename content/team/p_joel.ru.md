@@ -6,6 +6,8 @@ infoFull: "Джоэль - опытный it-специалист и \"пионе
 link: "#p_joel"
 id: "p_joel"
 photo: "photo_joel"
+socialLink: "https://twitter.com/joelreymont"
+socialIcon: <i class="fab fa-twitter"></i>
 sort: "1"
 draft: false
 ---

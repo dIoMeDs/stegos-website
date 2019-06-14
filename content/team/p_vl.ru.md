@@ -6,6 +6,8 @@ infoFull: "Владимир имеет более чем двадцатипят�
 link: "#p_vl"
 id: "p_vl"
 photo: "photo_vl"
+socialLink: "https://linkedin.com/in/vlebedev"
+socialIcon: <i class="fab fa-linkedin-in"></i>
 sort: "2"
 draft: false
 ---

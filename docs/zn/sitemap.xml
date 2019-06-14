@@ -80,6 +80,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-apr-8th-apr-19th/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-apr-8th-apr-19th/"
                 />
@@ -94,6 +99,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/04/testnet-5-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/04/testnet-5-release/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -114,6 +124,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/04/mobile-blockchain-the-holy-grail/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/04/mobile-blockchain-the-holy-grail/"
                 />
@@ -128,6 +143,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/04/tech-report-mar-25th-apr-5th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-mar-25th-apr-5th/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -337,6 +357,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/report/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/report/"
                 />
@@ -374,6 +399,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/technology/"
                 />
@@ -387,6 +417,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/categories/overview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/categories/overview/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -406,6 +441,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/blockchain/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/blockchain/"
                 />
@@ -419,6 +459,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/mobile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/mobile/"
                 />
     <xhtml:link
                 rel="alternate"
