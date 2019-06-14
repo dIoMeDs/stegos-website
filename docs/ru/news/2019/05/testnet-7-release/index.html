@@ -14,12 +14,12 @@
 
     
 
-    <title>Технический отчет, 6 мая - 17 мая | Stegos</title>
-    <meta name="description" content="" />
+    <title>Тестовая сеть, релиз 7 | Stegos</title>
+    <meta name="description" content="test" />
 
-    <meta property="og:title" content="" />
-    <meta property="og:description" content="" />
-    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/" />
+    <meta property="og:title" content="test" />
+    <meta property="og:description" content="test" />
+    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/" />
     <meta property="og:image" content="https://diomeds.github.io/stegos-website/images/stegos-logo.png" />
 
     <link rel="stylesheet" href="https://diomeds.github.io/stegos-website/css/all.min.css">
@@ -114,12 +114,8 @@
                 <div class="inner_lang_block">
                     
                     
-                    <a href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
+                    <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/" class="m_h_lang_btn base_button">
                         <div class="b_b_text">en</div>
-                    </a>
-                    
-                    <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
-                        <div class="b_b_text">中文</div>
                     </a>
                     
                     
@@ -149,12 +145,8 @@
         <div class="inner_lang_block">
             
             
-            <a href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
+            <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/" class="m_h_lang_btn base_button">
                 <div class="b_b_text">en</div>
-            </a>
-            
-            <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
-                <div class="b_b_text">中文</div>
             </a>
             
             
@@ -187,12 +179,8 @@
             <div class="inner_lang_block">
                 
                 
-                <a href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
+                <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/" class="m_h_lang_btn base_button">
                     <div class="b_b_text">en</div>
-                </a>
-                
-                <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
-                    <div class="b_b_text">中文</div>
                 </a>
                 
                 
@@ -226,18 +214,18 @@
                     <span class="m_s_ld"></span>
                 </div>
             </a>
-            <div class="data_field">May 22, 2019</div>
+            <div class="data_field">May 30, 2019</div>
         </div>
 
         <div class="one_news_block">
 
-            <h1 class="news_title">Технический отчет, 6 мая - 17 мая</h1>
+            <h1 class="news_title">Тестовая сеть, релиз 7</h1>
 
-            <p>В течение последних двух недель наша команда разработчиков тщательно дорабатывала основные функции предстоящего выпуска тестовой сети Stegos.</p>
+            
 
-<p>Сделанное за период <strong>6 мая — 17 мая</strong>:</p>
+<p>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.</p>
 
-<p>Сделано за отчетный период №16</p>
+<p>Это седьмой тестовый выпуск блокчейна Stegos. Изменения произведенные после <a href="https://github.com/stegos/stegos/releases/tag/v0.6">Testnet 6</a>:</p>
 
 <ul>
 <li>Новый StakeUTXO, StakeUTXOs с подписями BLS</li>
@@ -254,27 +242,34 @@
 <li>Имплементация WAU (вытирание после использования) для всех секретных сообщений, обеспечивает дополнительную безопасность от считывания секретной информации из памяти</li>
 </ul>
 
-<p>Планы на следующий отчетный период №17</p>
+<p><strong>Критическое изменение:</strong></p>
 
-<ul>
-<li>Ускорение загрузки узла и повторной синхронизация, точная настройка констант загрузки</li>
-<li>Служебные вознаграждения, необходимые для создания стимула для валидаторов быть в сети</li>
-<li>Сжатие микроблоков в макроблоки, удаление микроблоков последней \&ldquo;эпохи\&ldquo;, перемещение их данных в один макроблок</li>
-<li>Оптимизация bulletproofs, обеспечение проверки bulletproofs быстрее чем текущие 23 мс, используя распараллеливание (до тех пор пока нет процессорных оптимизаций)</li>
-<li>HashCash: исправления ошибок протокола</li>
-<li>Разрешение проблемы \&ldquo;вилки\&rdquo;: исправление ошибок, в том числе в механизме решения \&ldquo;вилки\&rdquo; для микроблоков</li>
-<li>UTXO Timestamp Locking, реализация блокировки конкретных выходов</li>
-<li>PublicPaymentUTXO: дополнительные правила проверки tx, внедрение дополнительных правил проверки транзакций для транзакций с участием публичных платежей UTXOs</li>
-<li>PublicPaymentUTXO: реализация поддержки использования публичных платежей UTXOs в кошельке</li>
-<li>Введение переменных комиссий в транзакциях: введение возможности устанавливать произвольную сумму комиссии за транзакцию, в целях увеличения шанса транзакции быть включенной в ближайший блок</li>
-<li>Защита от DDoS: черный список и ограничение скорости, реализация ограничения скорости и черного списка в качестве начального механизма защиты от DDoS на сетевом уровне</li>
-<li>Изменение ключей PBC: поддержка изменения ключей PBC узла (валидатора) \&ldquo;на лету\&rdquo;</li>
-<li>Сохранение истории платежей в кошельке</li>
-<li>Обеспечение отсутствия требования секретного ключа кошелька для узлов валидатора, в целях обеспечения безопасности, поскольку при их отсутствии у злоумышленника не будет шансов завладеть ими</li>
-<li>LRU кэш для распаковки UTXO, узел UTXO оптимизации базы данных</li>
-<li>Стресс-тестирование: задержка и потеря пакета, испытание, проведение некоторых тестов</li>
-<li>Стресс-тестирование: большое количество узлов, тестирование</li>
-</ul>
+<p>Выпуск тестовой сети в 7 релизе не полностью совместим с выпуском 6 релиза. Пожалуйста, сбросьте локальную базу данных, если вы обновляете предыдущую версию:</p>
+
+<pre><code>rm -rf database/
+</code></pre>
+
+<p>Проверьте <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint16">the project plan</a> для получения дополнительной информации.</p>
+
+<p>Пожалуйста, вступите в нашу группу <a href="https://t.me/stegos4privacy">Telegram</a>, чтобы получить тестовые токены и дайте нам обратную связь.</p>
+
+<h3 id="установка-узла-тестовой-сети">Установка узла тестовой сети</h3>
+
+<h4 id="linux-64-bit">Linux 64-bit:</h4>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.7/stegos-linux-x64 -o stegos
+chmod a+x stegos
+./stegos
+</code></pre>
+
+<h4 id="macos-64-bit">macOS 64-bit:</h4>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.7/stegos-macos-x64 -o stegos
+chmod a+x stegos
+./stegos
+</code></pre>
+
+<p>Сразу после запуска узел будет печатать много информационных сообщений с отладочной информацией относительно начальной загрузки вашего узла. Нажмите Enter, чтобы получить stegos. Для получения справки введите команду help в командной строке.</p>
 
 
         </div>
@@ -288,13 +283,13 @@
 
         <div class="toggles_block">
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/" class="pages_toggle">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/" class="pages_toggle">
                 <div class="c__item_btn"><span class="c__item_arrow_more">←</span></div>
                 <div class="arrow_name">Предыдущая</div>
             </a>
             
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/" class="pages_toggle arrow_next">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/" class="pages_toggle arrow_next">
                 <div class="arrow_name">Следующая</div>
                 <div class="c__item_btn"><span class="c__item_arrow_more">→</span></div>
             </a>

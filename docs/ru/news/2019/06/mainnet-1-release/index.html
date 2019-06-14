@@ -14,12 +14,12 @@
 
     
 
-    <title>Технический отчет, 6 мая - 17 мая | Stegos</title>
-    <meta name="description" content="" />
+    <title>Основная сеть, предварительный релиз 1 | Stegos</title>
+    <meta name="description" content="Первый предварительный релиз предстоящих этапов основной сети Stegos." />
 
-    <meta property="og:title" content="" />
-    <meta property="og:description" content="" />
-    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/" />
+    <meta property="og:title" content="Mainnet Preview 1" />
+    <meta property="og:description" content="Первый предварительный релиз предстоящих этапов основной сети Stegos." />
+    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/" />
     <meta property="og:image" content="https://diomeds.github.io/stegos-website/images/stegos-logo.png" />
 
     <link rel="stylesheet" href="https://diomeds.github.io/stegos-website/css/all.min.css">
@@ -114,12 +114,8 @@
                 <div class="inner_lang_block">
                     
                     
-                    <a href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
+                    <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/" class="m_h_lang_btn base_button">
                         <div class="b_b_text">en</div>
-                    </a>
-                    
-                    <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
-                        <div class="b_b_text">中文</div>
                     </a>
                     
                     
@@ -149,12 +145,8 @@
         <div class="inner_lang_block">
             
             
-            <a href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
+            <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/" class="m_h_lang_btn base_button">
                 <div class="b_b_text">en</div>
-            </a>
-            
-            <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
-                <div class="b_b_text">中文</div>
             </a>
             
             
@@ -187,12 +179,8 @@
             <div class="inner_lang_block">
                 
                 
-                <a href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
+                <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/" class="m_h_lang_btn base_button">
                     <div class="b_b_text">en</div>
-                </a>
-                
-                <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/" class="m_h_lang_btn base_button">
-                    <div class="b_b_text">中文</div>
                 </a>
                 
                 
@@ -226,55 +214,64 @@
                     <span class="m_s_ld"></span>
                 </div>
             </a>
-            <div class="data_field">May 22, 2019</div>
+            <div class="data_field">Jun 10, 2019</div>
         </div>
 
         <div class="one_news_block">
 
-            <h1 class="news_title">Технический отчет, 6 мая - 17 мая</h1>
+            <h1 class="news_title">Основная сеть, предварительный релиз 1</h1>
 
-            <p>В течение последних двух недель наша команда разработчиков тщательно дорабатывала основные функции предстоящего выпуска тестовой сети Stegos.</p>
+            
 
-<p>Сделанное за период <strong>6 мая — 17 мая</strong>:</p>
+<h2 id="примечания-к-выпуску-основной-сети-stegos-предварительный-релиз-1-mainnet-preview-1">Примечания к выпуску основной сети Stegos, предварительный релиз 1 Mainnet Preview 1</h2>
 
-<p>Сделано за отчетный период №16</p>
+<p>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.</p>
 
-<ul>
-<li>Новый StakeUTXO, StakeUTXOs с подписями BLS</li>
-<li>Публичный платеж, UTXO с открытым ключом получателя и суммой</li>
-<li>Добавление временных блокировок для всех типов UTXO позволяет UTXOs быть заблокированным по времени</li>
-<li>Введение микро-и макроблоков, добавление большей безопасности к микроблокам</li>
-<li>Обрезка блокчейна и наказание владельца слота за одновременную публикацию двух разных блоков</li>
-<li>Re-Staking, достижение консенсуса и изменение ключей валидаторов в заданных интервалах</li>
-<li>Стабилизация ValueShuffle в случае epoch change, тонкая настройка кода фасилитатора</li>
-<li>Изменение ключей PBC: поддержка изменения ключей PBC узла (валидатора) \&ldquo;на лету\&rdquo;</li>
-<li>Проверка устаревших соединений, установка повторного подключения в случае таковых</li>
-<li>Стресс-тестирование: развертывание TxGenerator, тестирование, поддержка развертывания генератора транзакций для devnets</li>
-<li>Использование AONT (все или ничего) для всех сериализованных представлений секретов, обеспечение дополнительной безопасности для их представлений в памяти</li>
-<li>Имплементация WAU (вытирание после использования) для всех секретных сообщений, обеспечивает дополнительную безопасность от считывания секретной информации из памяти</li>
-</ul>
+<p>Это первый предварительный релиз основной сети Stegos. Эта предварительная версия в целом полнофункциональна. Все основные функции уже реализованы, но некоторые улучшения и исправления должны быть сделаны для окончательного релиза.</p>
 
-<p>Планы на следующий отчетный период №17</p>
+<h3 id="новое-в-stegos-v0-8">Новое в Stegos v0.8:</h3>
 
 <ul>
-<li>Ускорение загрузки узла и повторной синхронизация, точная настройка констант загрузки</li>
-<li>Служебные вознаграждения, необходимые для создания стимула для валидаторов быть в сети</li>
-<li>Сжатие микроблоков в макроблоки, удаление микроблоков последней \&ldquo;эпохи\&ldquo;, перемещение их данных в один макроблок</li>
-<li>Оптимизация bulletproofs, обеспечение проверки bulletproofs быстрее чем текущие 23 мс, используя распараллеливание (до тех пор пока нет процессорных оптимизаций)</li>
-<li>HashCash: исправления ошибок протокола</li>
-<li>Разрешение проблемы \&ldquo;вилки\&rdquo;: исправление ошибок, в том числе в механизме решения \&ldquo;вилки\&rdquo; для микроблоков</li>
-<li>UTXO Timestamp Locking, реализация блокировки конкретных выходов</li>
-<li>PublicPaymentUTXO: дополнительные правила проверки tx, внедрение дополнительных правил проверки транзакций для транзакций с участием публичных платежей UTXOs</li>
-<li>PublicPaymentUTXO: реализация поддержки использования публичных платежей UTXOs в кошельке</li>
-<li>Введение переменных комиссий в транзакциях: введение возможности устанавливать произвольную сумму комиссии за транзакцию, в целях увеличения шанса транзакции быть включенной в ближайший блок</li>
-<li>Защита от DDoS: черный список и ограничение скорости, реализация ограничения скорости и черного списка в качестве начального механизма защиты от DDoS на сетевом уровне</li>
-<li>Изменение ключей PBC: поддержка изменения ключей PBC узла (валидатора) \&ldquo;на лету\&rdquo;</li>
-<li>Сохранение истории платежей в кошельке</li>
-<li>Обеспечение отсутствия требования секретного ключа кошелька для узлов валидатора, в целях обеспечения безопасности, поскольку при их отсутствии у злоумышленника не будет шансов завладеть ими</li>
-<li>LRU кэш для распаковки UTXO, узел UTXO оптимизации базы данных</li>
-<li>Стресс-тестирование: задержка и потеря пакета, испытание, проведение некоторых тестов</li>
-<li>Стресс-тестирование: большое количество узлов, тестирование</li>
+<li>Создана инновационная технология сжатия блокчейна для удаления промежуточных блоков внутри эпохи после достижения окончательного консенсуса pBFT в группе валидаторов. Вместе с технологией обрезки блокчейна это делает Stegos самым компактным блокчейном.</li>
+<li>Добавлены награды за услуги, введен новый стимул для валидаторов оставаться в сети. Каждый блок вносит <sup>1</sup>&frasl;<sub>3</sub> своего вознаграждения в специальный фонд, который периодически присуждается произвольному валидатору, который постоянно находился в сети с момента последнего распределения.</li>
+<li>Достигнуто 10-кратное повышение производительности при Bulletproof-валидации. Одна Bulletproof-валидация теперь составляет всего 10 миллисекунд.</li>
+<li>Повышена производительность синхронизации узлов и записи на диск с 200 до 6000 эпох в час. Мы продолжаем работать над оптимизацией базовых криптопримитивов, чтобы ускорить синхронизацию узлов.</li>
+<li>Точно настроены константы блокчейна, для достижения компромисса между временем завершения и временем синхронизации узла.</li>
+<li>Исправлены некоторый ошибки протокола HashCash.</li>
+<li>Исправлены ошибки механизма разрешения &ldquo;вилки&rdquo; для микроблоков.</li>
+<li>Введена блокировка метки времени UTXO.</li>
+<li>PublicPaymentUTXOs: введены дополнительные правила проверки tx и реализована поддержка использования utxos для публичных платежей в кошельке.</li>
 </ul>
+
+<p>Смотрите предыдущий <a href="https://github.com/stegos/stegos/releases">релиз</a> и <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint17">план проекта</a> для получения дополнительной информации.</p>
+
+<h3 id="установка">Установка</h3>
+
+<p>Если Вы обновляетесь с предыдущего релиза, пожалуйста, сначала удалите ваш предыдущий блокчейн:</p>
+
+<pre><code>rm -rf database/
+</code></pre>
+
+<h4 id="linux-64-bit">Linux 64-bit:</h4>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.8/stegos-linux-x64 -o stegos
+chmod a+x stegos
+./stegos
+</code></pre>
+
+<h4 id="macos-64-bit">macOS 64-bit:</h4>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.8/stegos-macos-x64 -o stegos
+chmod a+x stegos
+./stegos
+</code></pre>
+
+<p>Сразу после запуска узел будет печатать много информационных сообщений с отладочной информацией относительно начальной загрузки вашего узла. Нажмите Enter, чтобы получить stegos. Для получения справки введите команду help в командной строке.</p>
+
+<h3 id="обратная-связь">Обратная связь</h3>
+
+<p>Пожалуйста, вступайте к нам в <a href="https://t.me/stegos4privacy">Telegram чат</a>, получайте тестовые токены и дайте нам обратную связь.
+Подписывайтесь на наш официальный <a href="https://t.me/stegos4privacy_official">Telegram канал</a>, чтобы получать последние новости.</p>
 
 
         </div>
@@ -288,16 +285,11 @@
 
         <div class="toggles_block">
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/" class="pages_toggle">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/" class="pages_toggle">
                 <div class="c__item_btn"><span class="c__item_arrow_more">←</span></div>
                 <div class="arrow_name">Предыдущая</div>
             </a>
             
-            
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/" class="pages_toggle arrow_next">
-                <div class="arrow_name">Следующая</div>
-                <div class="c__item_btn"><span class="c__item_arrow_more">→</span></div>
-            </a>
             
         </div>
 

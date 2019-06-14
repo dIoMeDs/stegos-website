@@ -6,7 +6,7 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,9 @@
     <item>
       <title>DEVELOPMENT</title>
       <link>https://diomeds.github.io/stegos-website/ru/categories/development/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/ru/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OVERVIEW</title>
-      <link>https://diomeds.github.io/stegos-website/ru/categories/overview/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/categories/overview/</guid>
       <description></description>
     </item>
     

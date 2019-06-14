@@ -1,35 +1,34 @@
 ---
-author: "Vladimir Lebedev"
+author: "Владимир Лебедев"
 date: 2019-04-24
 linktitle: Testnet 5 Release 20190424
-title: "Testnet 5 Release"
-description: "This is the fifth Testnet release of the Stegos blockchain."
+title: "Тестовая сеть, релиз 5"
+description: "Пятая версия тестового блокчейна Stegos"
 metaTitle: ""
 metaDescription: ""
 categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
+tags: ["stegos", "отчет", "технология"]
 weight: 8
 draft: false
 ---
 
-Stegos Testnet 5 Release Notes
+Примечания к релизу 5 тестовой сети Stegos
 
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
+Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.
 
-This is the fifth testnet release of the Stegos blockchain. Changes since [Testnet 4](https://github.com/stegos
-/stegos/releases/tag/v0.4):
+Это пятая версия тестовой сети блокчейна Stegos. Изменения произведенные после [Testnet 4](https://github.com/stegos/stegos/releases/tag/v0.4):
 
- - Added a fork resolution mechanism to consensus and improved handling of network partitions.
- - Implemented basic cheating detection of malicious validators in consensus (without punishment for now).
- - Significantly reduced the time of full sync with the network.
- - Switched to real peer-to-peer unicast messaging with NAT traversal support.
- - Extended WebSocket API to support notifications about blockchain status.
- - Fixed bugs and improved stability of consensus and network subsystems.
+ - Добавлен механизм разрешения случаев разветвления (т.н. "вилки") консенсуса и улучшена обработка сетевых разделов.
+ - Реализовано базовое обнаружение обмана со стороны вредоносных валидаторов в консенсусе (без наказания на данный момент).
+ - Значительно сокращено время полной синхронизации с сетью.
+ - Произведено переключение на реальную одноранговую одноадресную рассылку сообщений с поддержкой обхода NAT.
+ - Реализован расширенный WebSocket API для поддержки уведомлений о статусе блокчейна.
+ - Исправлены ошибки и улучшена стабильность консенсуса и сетевых подсистем.
 
 
-Breaking changes:
+Критическое изменение:
 
-TestNet-5 release is not fully compatible with TestNet-4 release. Please reset your local database if you upgrading from the previous release:
+Выпуск тестовой сети в 5 релизе не полностью совместим с выпуском 4 релиза. Пожалуйста, сбросьте локальную базу данных, если вы обновляете предыдущую версию:
 
 rm -rf database/
 
@@ -53,4 +52,4 @@ curl -L https://github.com/stegos/stegos/releases/download/v0.5/stegos-macos-x64
 chmod a+x stegos
 ./stegos
 
-Right after the start the node will print a lot of INFO messages with debugging information regarding bootstrapping your node. Press Enter to get stegos> prompt. To get help enter help command at the prompt.
+Сразу после запуска узел будет печатать много информационных сообщений с отладочной информацией относительно начальной загрузки вашего узла. Нажмите Enter, чтобы получить stegos. Для получения справки введите команду help в командной строке.

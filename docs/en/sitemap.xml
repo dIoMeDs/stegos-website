@@ -7,6 +7,16 @@
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/"
+                />
   </url>
   
   <url>
@@ -14,6 +24,16 @@
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/"
+                />
   </url>
   
   <url>
@@ -145,11 +165,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/news/2019/04/mobile-blockchain-the-holy-grail/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/"
                 />
@@ -164,11 +179,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-mar-25th-apr-5th/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -378,11 +388,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/report/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/report/"
                 />
@@ -420,11 +425,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/technology/"
                 />
@@ -438,11 +438,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/categories/overview/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/categories/overview/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -462,11 +457,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/blockchain/"
                 />
@@ -480,11 +470,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/mobile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/mobile/"
                 />
     <xhtml:link
                 rel="alternate"

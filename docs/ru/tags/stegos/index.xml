@@ -6,10 +6,32 @@
     <description>Recent content in stegos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/ru/tags/stegos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Основная сеть, предварительный релиз 1</title>
+      <link>https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/</guid>
+      <description>Примечания к выпуску основной сети Stegos, предварительный релиз 1 Mainnet Preview 1 Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.
+Это первый предварительный релиз основной сети Stegos. Эта предварительная версия в целом полнофункциональна. Все основные функции уже реализованы, но некоторые улучшения и исправления должны быть сделаны для окончательного релиза.
+Новое в Stegos v0.8:  Создана инновационная технология сжатия блокчейна для удаления промежуточных блоков внутри эпохи после достижения окончательного консенсуса pBFT в группе валидаторов.</description>
+    </item>
+    
+    <item>
+      <title>Тестовая сеть, релиз 7</title>
+      <link>https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/</guid>
+      <description>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.
+Это седьмой тестовый выпуск блокчейна Stegos. Изменения произведенные после Testnet 6:
+ Новый StakeUTXO, StakeUTXOs с подписями BLS Публичный платеж, UTXO с открытым ключом получателя и суммой Добавление временных блокировок для всех типов UTXO позволяет UTXOs быть заблокированным по времени Введение микро-и макроблоков, добавление большей безопасности к микроблокам Обрезка блокчейна и наказание владельца слота за одновременную публикацию двух разных блоков Re-Staking, достижение консенсуса и изменение ключей валидаторов в заданных интервалах Стабилизация ValueShuffle в случае epoch change, тонкая настройка кода фасилитатора Изменение ключей PBC: поддержка изменения ключей PBC узла (валидатора) \&amp;ldquo;на лету\&amp;rdquo; Проверка устаревших соединений, установка повторного подключения в случае таковых Стресс-тестирование: развертывание TxGenerator, тестирование, поддержка развертывания генератора транзакций для devnets Использование AONT (все или ничего) для всех сериализованных представлений секретов, обеспечение дополнительной безопасности для их представлений в памяти Имплементация WAU (вытирание после использования) для всех секретных сообщений, обеспечивает дополнительную безопасность от считывания секретной информации из памяти  Критическое изменение:</description>
+    </item>
     
     <item>
       <title>Технический отчет, 6 мая - 17 мая</title>
@@ -29,7 +51,7 @@
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/</guid>
-      <description>Примечания релизу 6 тестовой сети Stegos
+      <description>Примечания к релизу 6 тестовой сети Stegos
 Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.
 Это шестой тестовый выпуск блокчейна Stegos. Изменения произведенные после Testnet 5:
  Добавлен вызов HashCash в протокол PubSub для ограничения атак типа &amp;ldquo;отказ в обслуживании&amp;rdquo; Реализована упрощенная повторная ставка для отслеживания онлайн-статуса валидаторов Реализовано восстановление кошелька с использованием фразы восстановления из 24 слов Реализована защита кошелька паролем и шифрование ключей, хранящихся на диске Обеспечено разделение 1 STG на 1 000 000 microSTG Ограничено количество UTXO в транзакциях и блоках  Критическое изменение:</description>
@@ -48,49 +70,27 @@ Stegos создает передовые технологии, которые з
     </item>
     
     <item>
-      <title>Tech Report Apr, 8th - Apr, 19th</title>
+      <title>Технический отчет, 8 апреля - 19 апреля</title>
       <link>https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-apr-8th-apr-19th/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-apr-8th-apr-19th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-The following tasks were completed in the period April,8th — April, 19th:
-Done
- Kademlia DHT-based routing, Network, base networking functionality for unicast messages Research xPIR, Experimental, research the possibility of using private information retrieval protocols to secure light nodes Websocket Wallet API Enhancements Fork Resolution, Consensus, this is an essential part of the consensus protocol Rollback of Payment Transactions in Wallet, Wallet, this mechanism is needed due to fork resolution Limit the Number of Outputs in a Block, Core Blockchain, required to prevent traffic jams in the network Stabilize Network, Network, testing and bug fixing Stabilize Consensus, Consensus, testing and bug fixing Split 1 STG to 1 000 000 Units (microSTG), Core Blockchain, required to have fractional STG units  Plans for Sprint 15</description>
+      <description>На протяжении последних двух недель наша команда разработчиков упорно работала, чтобы завершить ключевые особенности предстоящего тестового релиза блокчейна Stegos.
+Сделанное за период 8 апреля — 19 апреля:
+Сделано
+ Реализована маршрутизация на основе Kademlia DHT, базовая сетевая функциональность для одноадресных сообщений Проводилось исследование xPIR, как экспериментальное исследование возможности использования приватных протоколов поиска информации для защиты легких узлов Проведены улучшения WebSocket Wallet API Описана Форк-резолюция (способ разрешения развилок в блокчейне), что является неотъемлемой частью консенсусного протокола Обеспечена возможность откат платежных операций в кошельке, что необходимо для разрешения форков Ограничено количество выходов в блоке, что необходимо для предотвращения торможения в сети Стабилизирована сеть, сеть протестирована и ошибки исправлены Стабилизирован консенсус, проведено тестирование и исправление ошибок Каждый STG разделен на 1 000 000 единиц (microSTG), что необходимый для работы с дробными единицами  Планы на следующий период</description>
     </item>
     
     <item>
-      <title>Testnet 5 Release</title>
+      <title>Тестовая сеть, релиз 5</title>
       <link>https://diomeds.github.io/stegos-website/ru/news/2019/04/testnet-5-release/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/ru/news/2019/04/testnet-5-release/</guid>
-      <description>Stegos Testnet 5 Release Notes
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
-This is the fifth testnet release of the Stegos blockchain. Changes since Testnet 4:
- Added a fork resolution mechanism to consensus and improved handling of network partitions. Implemented basic cheating detection of malicious validators in consensus (without punishment for now). Significantly reduced the time of full sync with the network.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Blockchain - The Holy Grail</title>
-      <link>https://diomeds.github.io/stegos-website/ru/news/2019/04/mobile-blockchain-the-holy-grail/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/04/mobile-blockchain-the-holy-grail/</guid>
-      <description>The Holy Grail
-Mobile blockchain is the crypto Holy Grail. If we&amp;rsquo;re creating a global decentralized network of millions of users, we&amp;rsquo;ll want it to run on the simplest devices possible. But this has often been dismissed as too difficult, so developers either treat smartphone support as a long-term goal (which they never get to), completely neuter the capabilities of their mobile nodes, or ignore them entirely.
-But that’s completely the wrong approach.</description>
-    </item>
-    
-    <item>
-      <title>“Tech Report Mar, 25th - Apr, 5th”</title>
-      <link>https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-mar-25th-apr-5th/</link>
-      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/04/tech-report-mar-25th-apr-5th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-The following tasks were completed in the period April, 2nd — April, 15th:
- Investigate packet loss in libp2p, Network, fixing a bug with lost packets related to the usage of Cuckoo-filters View Changes for Micro Blocks, Consensus, view change is an essential part of the consensus protocol View Changes for Key Blocks, Consensus`, view change is an essential part of the consensus protocol Determine Epoch Length &amp;amp;&amp;amp; Block Time, Consensus, epoch length and block time are important parameters of the consensus protocol HashCash Algorithm, Network, nodes have to solve HashCash puzzles in order to join the network to prevent Sybil attacks Unicast Messages Encryption, Network, unicast messages traveling over Kademlia DHT network have to be encrypted Test cases for block validation, Core Blockchain, part of the functional testing harness RaptorQ Encoder/Decoder, Network, required to create optimized protocol for transmission of blocks/other large messages  In-progress:</description>
+      <description>Примечания к релизу 5 тестовой сети Stegos
+Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.
+Это пятая версия тестовой сети блокчейна Stegos. Изменения произведенные после Testnet 4:
+ Добавлен механизм разрешения случаев разветвления (т.н. &amp;ldquo;вилки&amp;rdquo;) консенсуса и улучшена обработка сетевых разделов. Реализовано базовое обнаружение обмана со стороны вредоносных валидаторов в консенсусе (без наказания на данный момент). Значительно сокращено время полной синхронизации с сетью.</description>
     </item>
     
   </channel>

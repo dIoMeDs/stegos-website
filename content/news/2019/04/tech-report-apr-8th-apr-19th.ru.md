@@ -1,43 +1,42 @@
 ---
-author: "Vladimir Lebedev"
+author: "Владимир Лебедев"
 date: 2019-04-24
 linktitle: Tech Report 20190424
-title: "Tech Report Apr, 8th - Apr, 19th"
-description: "Development team reports past sprint results and is announcing an upcoming first testnet release."
+title: "Технический отчет, 8 апреля - 19 апреля"
+description: "Сообщение команды разработчиков о достигнутых результатах с прошлого отчета и анонсирование планов на следующий период."
 metaTitle: ""
 metaDescription: ""
 categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
+tags: ["stegos", "отчет", "технология"]
 weight: 8
 draft: false
 ---
 
-During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
+На протяжении последних двух недель наша команда разработчиков упорно работала, чтобы завершить ключевые особенности предстоящего тестового релиза блокчейна Stegos.
 
-The following tasks were completed in the period **April,8th — April, 19th**:
+Сделанное за период **8 апреля — 19 апреля**:
 
-Done
+Сделано
 
- - Kademlia DHT-based routing, Network, base networking functionality for unicast messages
- - Research xPIR, Experimental, research the possibility of using private information retrieval protocols to secure light nodes
- - Websocket Wallet API Enhancements
- - Fork Resolution, Consensus, this is an essential part of the consensus protocol
- - Rollback of Payment Transactions in Wallet, Wallet, this mechanism is needed due to fork resolution
- - Limit the Number of Outputs in a Block, Core Blockchain, required to prevent traffic jams in the network
- - Stabilize Network, Network, testing and bug fixing
- - Stabilize Consensus, Consensus, testing and bug fixing
- - Split 1 STG to 1 000 000 Units (microSTG), Core Blockchain, required to have fractional STG units
+ - Реализована маршрутизация на основе Kademlia DHT, базовая сетевая функциональность для одноадресных сообщений
+ - Проводилось исследование xPIR, как экспериментальное исследование возможности использования приватных протоколов поиска информации для защиты легких узлов
+ - Проведены улучшения WebSocket Wallet API
+ - Описана Форк-резолюция (способ разрешения развилок в блокчейне), что является неотъемлемой частью консенсусного протокола
+ - Обеспечена возможность откат платежных операций в кошельке, что необходимо для разрешения форков
+ - Ограничено количество выходов в блоке, что необходимо для предотвращения торможения в сети
+ - Стабилизирована сеть, сеть протестирована и ошибки исправлены
+ - Стабилизирован консенсус, проведено тестирование и исправление ошибок
+ - Каждый STG разделен на 1 000 000 единиц (microSTG), что необходимый для работы с дробными единицами
 
+Планы на следующий период
 
-Plans for Sprint 15
-
- - Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height
- - Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals
- - Service Awards, Core Blockchain, required to create an incentive for validators to be online
- - Key Encryption on the Disk, Wallet, implement safe storage of keys on disk
- - Finalize HashCash integration, Network, required to prevent DoS-attacks
- - Determine major blockchain constants: Maximum UTXOs per Block, Epoch Length & Block Time, Consensus, those are important parameters of the consensus protocol
- - Stress Testing: Transactional Load Generator, Testing, the part of test harness
- - Stress Testing: Multiple Regions, Network, launch nodes in multiple AWS regions to test consensus with real-life latencies
- - ValueShuffle: Bots, ValueShuffle, required to facilitate VS transactions in absence of enough VS transactions intents
- - Proof of UTXO Construction, Wallet, a feature allowing to prove that a particular transaction has taken place in the past
+ - Обрезка блокчейна и наказание владельца слота за одновременную публикацию двух разных блоков
+ - Re-Staking, достижение консенсуса и изменение ключей валидаторов в заданных интервалах
+ - Служебные вознаграждения, необходимые для создания стимула для валидаторов находиться в сети
+ - Шифрование ключей на диске, их безопасное хранение
+ - Завершить интеграцию HashCash, необходимую для предотвращения DoS-атак
+ - Определить основные константы блокчейна: максимальный UTXOs на блок, продолжительность эпохи и время блока, другие параметры консенсусного протокола
+ - Стресс-тестирование: генератор транзакционной нагрузки, тестирование
+ - Стресс-тестирование: запуск в нескольких регионах для тестирования консенсуса с задержками реальной жизни
+ - ValueShuffle: проработать собственную модификацию
+ - Доказательство конструкции UTXO, внедрена функция, позволяющая доказать, что конкретная транзакция имела место в прошлом
