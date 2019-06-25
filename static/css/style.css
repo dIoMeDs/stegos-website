@@ -118,7 +118,7 @@ main {
   position: relative;
 }
 .main_menu .lang_block {
-  z-index: 101;
+  z-index: 110;
 }
 .lang_block .inner_lang_block{
   position: absolute;
@@ -129,6 +129,7 @@ main {
   -ms-transition:  opacity 0.5s, visibility 0s linear 0.5s;
   -o-transition:  opacity 0.5s, visibility 0s linear 0.5s;
   transition:  opacity 0.5s, visibility 0s linear 0.5s;
+  z-index: 101;
 }
 .lang_block .inner_lang_block a{
   margin-top: 15px;
@@ -137,11 +138,13 @@ main {
   opacity: 1;
   visibility: visible;
   transition-delay: 0s;
+  z-index: 101;
 }
 .inner_lang_block:hover {
   opacity: 1;
   visibility: visible;
   transition-delay: 0s;
+  z-index: 101;
 }
 .inner_lang_block.visible {
   opacity: 1;
@@ -1462,33 +1465,27 @@ main {
     background: url("../images/icons/lab_c.png") center no-repeat;
     background-size: contain; }
   .partners_block .m_s_content_block .c__item_icon:nth-of-type(2) a {
-    background: url("../images/icons/coin_b.png") center no-repeat;
-    background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(2) a:hover {
-    background: url("../images/icons/coin_c.png") center no-repeat;
-    background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(3) a {
     background: url("../images/icons/sfm_b.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(3) a:hover {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(2) a:hover {
     background: url("../images/icons/sfm_c.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(4) a {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(3) a {
     background: url("../images/icons/ico_b.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(4) a:hover {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(3) a:hover {
     background: url("../images/icons/ico_c.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(5) a {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(4) a {
     background: url("../images/icons/t_b.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(5) a:hover {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(4) a:hover {
     background: url("../images/icons/t_c.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(6) a {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(5) a {
     background: url("../images/icons/hc_b.png") center no-repeat;
     background-size: contain; }
-  .partners_block .m_s_content_block .c__item_icon:nth-of-type(6) a:hover {
+  .partners_block .m_s_content_block .c__item_icon:nth-of-type(5) a:hover {
     background: url("../images/icons/hc_c.png") center no-repeat;
     background-size: contain; }
   .partners_block .m_s_content_block .c__item_icon a {

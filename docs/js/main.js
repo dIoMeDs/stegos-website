@@ -120,14 +120,26 @@ $(document).ready(function () {
 
 //_______________________________________________________________________________________
 
-    $('.lang_block').on('click', toggleLangBlock);
+    $('.main_menu .lang_block').on('click', toggleLangBlockMainMenu);
 
-    function toggleLangBlock() {
-        $('.inner_lang_block').toggleClass('visible');
+    function toggleLangBlockMainMenu() {
+        console.log('asdasdas');
+        $('.main_menu .inner_lang_block').toggleClass('visible');
     }
     
     $('body').on('click', function (e) {
-       if (!e.target.closest('.lang_block')) $('.inner_lang_block').removeClass('visible');
+       if (!e.target.closest('.lang_block')) $('.main_menu .inner_lang_block').removeClass('visible');
+    });
+
+
+    $('#main_header .lang_block').on('click', toggleLangBlockMainHeader);
+
+    function toggleLangBlockMainHeader() {
+        $('#main_header .inner_lang_block').toggleClass('visible');
+    }
+
+    $('body').on('click', function (e) {
+        if (!e.target.closest('.lang_block')) $('#main_header .inner_lang_block').removeClass('visible');
     });
 
 //_______________________________________________________________________________________
