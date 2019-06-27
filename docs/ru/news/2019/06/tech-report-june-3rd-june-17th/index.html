@@ -14,12 +14,12 @@
 
     
 
-    <title>Тестовая сеть, релиз 6 | Stegos</title>
-    <meta name="description" content="test" />
+    <title>Технический отчет, 3 июня - 17 июня | Stegos</title>
+    <meta name="description" content="Сообщение команды разработчиков о результатах за прошлый спринт и о запланированных действиях на следующий." />
 
-    <meta property="og:title" content="test" />
-    <meta property="og:description" content="test" />
-    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/" />
+    <meta property="og:title" content="Технический отчет, 3 июня - 17 июня" />
+    <meta property="og:description" content="Сообщение команды разработчиков о результатах за прошлый спринт и о запланированных действиях на следующий." />
+    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-3rd-june-17th/" />
     <meta property="og:image" content="https://diomeds.github.io/stegos-website/images/stegos-logo.png" />
 
     <link rel="stylesheet" href="https://diomeds.github.io/stegos-website/css/all.min.css">
@@ -114,12 +114,8 @@
                 <div class="inner_lang_block">
                     
                     
-                    <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
+                    <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/" class="m_h_lang_btn base_button">
                         <div class="b_b_text">en</div>
-                    </a>
-                    
-                    <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
-                        <div class="b_b_text">中文</div>
                     </a>
                     
                     
@@ -149,12 +145,8 @@
         <div class="inner_lang_block">
             
             
-            <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
+            <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/" class="m_h_lang_btn base_button">
                 <div class="b_b_text">en</div>
-            </a>
-            
-            <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
-                <div class="b_b_text">中文</div>
             </a>
             
             
@@ -187,12 +179,8 @@
             <div class="inner_lang_block">
                 
                 
-                <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
+                <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/" class="m_h_lang_btn base_button">
                     <div class="b_b_text">en</div>
-                </a>
-                
-                <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
-                    <div class="b_b_text">中文</div>
                 </a>
                 
                 
@@ -226,53 +214,36 @@
                     <span class="m_s_ld"></span>
                 </div>
             </a>
-            <div class="data_field">May 7, 2019</div>
+            <div class="data_field">Jun 18, 2019</div>
         </div>
 
         <div class="one_news_block">
 
-            <h1 class="news_title">Тестовая сеть, релиз 6</h1>
+            <h1 class="news_title">Технический отчет, 3 июня - 17 июня</h1>
 
-            <p>Примечания к релизу 6 тестовой сети Stegos</p>
+            
 
-<p>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.</p>
-
-<p>Это шестой тестовый выпуск блокчейна Stegos. Изменения произведенные после <a href="https://github.com/stegos/stegos/releases/tag/v0.5">Testnet 5</a>:</p>
+<h2 id="сделано-за-спринт-18">Сделано за Спринт 18</h2>
 
 <ul>
-<li>Добавлен вызов HashCash в протокол PubSub для ограничения атак типа &ldquo;отказ в обслуживании&rdquo;</li>
-<li>Реализована упрощенная повторная ставка для отслеживания онлайн-статуса валидаторов</li>
-<li>Реализовано восстановление кошелька с использованием фразы восстановления из 24 слов</li>
-<li>Реализована защита кошелька паролем и шифрование ключей, хранящихся на диске</li>
-<li>Обеспечено разделение 1 STG на 1 000 000 microSTG</li>
-<li>Ограничено количество UTXO в транзакциях и блоках</li>
+<li>Реализована базовая функциональность приложения для десктопа с графическим пользовательским интерфейсом: реализация визуализации начальной загрузки, счетов и платежей</li>
+<li>Создана история платежей и платежные сертификаты в кошельке, необходимые для поддержки отображения истории платежей в кошельке</li>
+<li>Повышена безопасность Docker image</li>
+<li>Введены переменные комиссии в транзакциях, установлена возможность устанавливать произвольную сумму комиссии за транзакцию, в целях увеличения шансов транзакции быть включенной в ближайший блок</li>
+<li>Внедрено использование Base58 для внешнего представления открытых ключей кошелька (адресов), что обеспечивает более удобное кодирование адресов</li>
+<li>Реализованы вебсокеты авторизации в API</li>
+<li>Обеспечена возможность изменения пароля кошелька самому пользователю</li>
+<li>Проведено стресс-тестирование на большом количестве узлов</li>
+<li>Разделен выход журнала и CLI: приложение CLI отделено от двоичного узла</li>
+<li>Ускорены подписи BLS: время проверки подписи BLS было уменьшено с 200 мс до 5 мс за подпись</li>
 </ul>
 
-<p>Критическое изменение:</p>
+<h2 id="планы-на-спринт-19">Планы на Спринт 19</h2>
 
-<p>Выпуск тестовой сети в 6 релизе не полностью совместим с выпуском 5 релиза. Пожалуйста, сбросьте локальную базу данных, если вы обновляете предыдущую версию:</p>
-
-<p>rm -rf database/</p>
-
-<p>Изучите план проекта для получения дополнительной информации: <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint15">https://github.com/stegos/stegos/wiki/project-plan#sprint15</a> .</p>
-
-<p>Пожалуйста, присоединяйтесь к нам в Telegram, чтобы получить тестовые токены и дайте нам обратную связь: <a href="https://t.me/stegos4privacy">https://t.me/stegos4privacy</a> .</p>
-
-<p>Установка узла тестовой сети</p>
-
-<p>64-разрядная версия Linux:</p>
-
-<p>curl -L <a href="https://github.com/stegos/stegos/releases/download/v0.6/stegos-linux-x64">https://github.com/stegos/stegos/releases/download/v0.6/stegos-linux-x64</a> -o stegos
-chmod a+x stegos
-./stegos</p>
-
-<p>macOS 64-bit:</p>
-
-<p>curl -L <a href="https://github.com/stegos/stegos/releases/download/v0.6/stegos-macos-x64">https://github.com/stegos/stegos/releases/download/v0.6/stegos-macos-x64</a> -o stegos
-chmod a+x stegos
-./stegos</p>
-
-<p>Сразу после запуска узел будет печатать много информационных сообщений с отладочной информацией относительно начальной загрузки вашего узла. Нажмите Enter, чтобы получить stegos. Для получения справки введите команду help в командной строке.</p>
+<ul>
+<li>Стресс-тестирование: задержка и потеря пакетов</li>
+<li>Стресс-тестирование: блокчейн, консенсус, сервисные премии, обрезка (Slashing), ValueShuffle, стресс-тестирование других жизненно важных подсистем с использованием транзакционных нагрузок от генератора транзакций</li>
+</ul>
 
 
         </div>
@@ -286,13 +257,13 @@ chmod a+x stegos
 
         <div class="toggles_block">
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-20th-may-31st/" class="pages_toggle">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/" class="pages_toggle">
                 <div class="c__item_btn"><span class="c__item_arrow_more">←</span></div>
                 <div class="arrow_name">Предыдущая</div>
             </a>
             
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/" class="pages_toggle arrow_next">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/" class="pages_toggle arrow_next">
                 <div class="arrow_name">Следующая</div>
                 <div class="c__item_btn"><span class="c__item_arrow_more">→</span></div>
             </a>

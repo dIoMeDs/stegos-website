@@ -6,10 +6,30 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mainnet Preview 2</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/</guid>
+      <description>Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
+This is a second Preview release of upcoming Stegos mainnet. We declare the feature freeze with this release - no new features are planned until the upcoming mainnet release. Of course, some minor improvements and bug fixes will be made until the final mainnet release.
+New in Stegos v0.9:  Node has been split into two binaries: a full node daemon (stegosd) and a command-line client (stegos).</description>
+    </item>
+    
+    <item>
+      <title>Tech Report June, 3rd - June, 17th</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/</guid>
+      <description> Done in Sprint 18  Base functionality of GUI Wallet desktop application, Wallet, implementing bootstrapping visualisation, accounts and payments Persist Payment History and Payment Certificates in Wallet, Wallet, required to support showing the payment history in wallet Improve security of Docker image, Security, strengthen the security of the node&amp;rsquo;s docker image Introduce variable fees in transactions, Core Blockchain, Wallet, introduce the ability to set arbitrary fee amount for transaction in order to increase chances of transaction to be included in the nearest block Use Base58 for external representation of wallet public keys (addresses), Core Blockchain, provide more user-friendly encoding of addresses Implement WebSocket API Authorization, Security, introduce API tokens for authorizing WebSockets API usage, even on localhost Support changing the wallet password, Security, provide the ability for the user to change wallet password Stress Testing: Large Number of Nodes, Testing, part of test harness Split log output and CLI, Node CLI, separating CLI application from node binary Introduce variable fees in transactions, Core Blockchain, Wallet, introduce the ability to set arbitrary fee amount for transaction in order to increase chances of transaction to be included in the nearest block Speed up BLS signatures, Core Blockchain, BLS signature verification time has been improved from 200ms down to 5ms per signature  Plans for Sprint 19  Stress Testing: Packet Delay and Loss, Testing, part of test harness Stress Testing: Blockchain, Consensus, Service Awards, Slashing, ValueShuffle, Testing, stress testing the vital subsystems using transactional loads from transaction generator  </description>
+    </item>
     
     <item>
       <title>Mainnet Preview 1</title>

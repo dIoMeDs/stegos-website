@@ -3,6 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-3rd-june-17th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -85,6 +119,16 @@
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-20th-may-31st/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-20th-may-31st/"
+                />
   </url>
   
   <url>
@@ -274,7 +318,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -295,7 +339,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/categories/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -316,7 +360,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/categories/development/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -337,7 +381,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/news/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -358,7 +402,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -379,7 +423,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/report/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -395,7 +439,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/stegos/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -416,7 +460,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/technology/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

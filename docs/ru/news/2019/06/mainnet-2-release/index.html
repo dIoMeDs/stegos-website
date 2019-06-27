@@ -14,12 +14,12 @@
 
     
 
-    <title>Тестовая сеть, релиз 6 | Stegos</title>
-    <meta name="description" content="test" />
+    <title>Основная сеть, предварительный релиз 2 | Stegos</title>
+    <meta name="description" content="Второй предварительный релиз основной сети Stegos." />
 
-    <meta property="og:title" content="test" />
-    <meta property="og:description" content="test" />
-    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-6-release/" />
+    <meta property="og:title" content="Основная сеть, предварительный релиз 2" />
+    <meta property="og:description" content="Второй предварительный релиз основной сети Stegos." />
+    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/" />
     <meta property="og:image" content="https://diomeds.github.io/stegos-website/images/stegos-logo.png" />
 
     <link rel="stylesheet" href="https://diomeds.github.io/stegos-website/css/all.min.css">
@@ -114,12 +114,8 @@
                 <div class="inner_lang_block">
                     
                     
-                    <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
+                    <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/" class="m_h_lang_btn base_button">
                         <div class="b_b_text">en</div>
-                    </a>
-                    
-                    <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
-                        <div class="b_b_text">中文</div>
                     </a>
                     
                     
@@ -149,12 +145,8 @@
         <div class="inner_lang_block">
             
             
-            <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
+            <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/" class="m_h_lang_btn base_button">
                 <div class="b_b_text">en</div>
-            </a>
-            
-            <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
-                <div class="b_b_text">中文</div>
             </a>
             
             
@@ -187,12 +179,8 @@
             <div class="inner_lang_block">
                 
                 
-                <a href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
+                <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/" class="m_h_lang_btn base_button">
                     <div class="b_b_text">en</div>
-                </a>
-                
-                <a href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/" class="m_h_lang_btn base_button">
-                    <div class="b_b_text">中文</div>
                 </a>
                 
                 
@@ -226,53 +214,103 @@
                     <span class="m_s_ld"></span>
                 </div>
             </a>
-            <div class="data_field">May 7, 2019</div>
+            <div class="data_field">Jun 19, 2019</div>
         </div>
 
         <div class="one_news_block">
 
-            <h1 class="news_title">Тестовая сеть, релиз 6</h1>
+            <h1 class="news_title">Основная сеть, предварительный релиз 2</h1>
 
-            <p>Примечания к релизу 6 тестовой сети Stegos</p>
+            
 
 <p>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.</p>
 
-<p>Это шестой тестовый выпуск блокчейна Stegos. Изменения произведенные после <a href="https://github.com/stegos/stegos/releases/tag/v0.5">Testnet 5</a>:</p>
+<p>Это второй предварительный релиз предстоящего выпуска основной сети Stegos. Мы объявляем, что до запуска основной сети никаких новых функций вводить не планируется. Мы сосредоточимся на отладке и исправлении ошибок, которые необходимо сделать до финального релиза основной сети.</p>
+
+<h3 id="новое-в-stegos-v0-9">Новое в Stegos v0.9:</h3>
 
 <ul>
-<li>Добавлен вызов HashCash в протокол PubSub для ограничения атак типа &ldquo;отказ в обслуживании&rdquo;</li>
-<li>Реализована упрощенная повторная ставка для отслеживания онлайн-статуса валидаторов</li>
-<li>Реализовано восстановление кошелька с использованием фразы восстановления из 24 слов</li>
-<li>Реализована защита кошелька паролем и шифрование ключей, хранящихся на диске</li>
-<li>Обеспечено разделение 1 STG на 1 000 000 microSTG</li>
-<li>Ограничено количество UTXO в транзакциях и блоках</li>
+<li>Единый процесс ноды был разделен на два компонента: собственно полный узел сети (<code>stegosd</code>), и клиент командной строки (<code>stegos</code>), взаимодействующий с узлом через шифрованный Websocket API.</li>
+<li>В кошелек добавлена постоянная история транзакций (см. &ldquo;Показать историю&rdquo;).</li>
+<li>Платежные сертификаты были введены в кошелек - необязательный для отправителя способ доказать произвольным третьим лицам, что он сделал конкретный платеж.</li>
+<li>Внешнее представление открытых ключей кошелька (адресов) переключено на Base58 в целях обеспечения более удобного кодирования адресов.</li>
+<li>Введена возможность устанавливать произвольную сумму комиссии за транзакции, чтобы увеличить шансы транзакции быть включенной в ближайший блок.</li>
+<li>Введены маркеры API для авторизации использования API WebSockets, в том числе для localhost.</li>
+<li>Предусмотрена возможность для пользователя сменить пароль кошелька.</li>
+<li>Усилена безопасность образа докера узла (node&rsquo;s docker).</li>
 </ul>
 
-<p>Критическое изменение:</p>
+<p>См. предыдущие <a href="https://github.com/stegos/stegos/releases">релизы</a> и <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint18">план проекта</a> для получения дополнительной информации.</p>
 
-<p>Выпуск тестовой сети в 6 релизе не полностью совместим с выпуском 5 релиза. Пожалуйста, сбросьте локальную базу данных, если вы обновляете предыдущую версию:</p>
+<p>Обновление с Mainnet Preview 1 не поддерживается, пожалуйста, очистите каталог от старых баз данных и ключей.</p>
 
-<p>rm -rf database/</p>
+<h3 id="установка">Установка</h3>
 
-<p>Изучите план проекта для получения дополнительной информации: <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint15">https://github.com/stegos/stegos/wiki/project-plan#sprint15</a> .</p>
+<p>Начиная с этого релиза, предоставляются два компонента платформы Stegos:</p>
 
-<p>Пожалуйста, присоединяйтесь к нам в Telegram, чтобы получить тестовые токены и дайте нам обратную связь: <a href="https://t.me/stegos4privacy">https://t.me/stegos4privacy</a> .</p>
+<ul>
+<li><code>stegosd</code> - Stegos Full Node Daemon.</li>
+<li><code>stegos</code> - Stegos Command-Line Client.</li>
+</ul>
 
-<p>Установка узла тестовой сети</p>
+<h4 id="запуск-ноды">Запуск ноды</h4>
 
-<p>64-разрядная версия Linux:</p>
+<p>Скачайте и запустите ноду Stegos.</p>
 
-<p>curl -L <a href="https://github.com/stegos/stegos/releases/download/v0.6/stegos-linux-x64">https://github.com/stegos/stegos/releases/download/v0.6/stegos-linux-x64</a> -o stegos
+<p><strong>Linux 64-bit:</strong></p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegosd-linux-x64 -o stegosd
+chmod a+x stegosd
+./stegosd
+</code></pre>
+
+<p><strong>macOS 64-bit:</strong></p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegosd-macos-x64 -o stegosd
+chmod a+x stegosd
+./stegosd
+</code></pre>
+
+<p>При первом запуске нода создаст новый кошелек. Пожалуйста, создайте надежный пароль и сохраните его в безопасном месте. Этот пароль используется локально для шифрования данных на диске. Механизм восстановления пароля отсутствует.</p>
+
+<p>Будут созданы следующие файлы и каталоги:</p>
+
+<ul>
+<li><code>wallet.pkey</code> - Wallet Public Key (Address) in Base58 format</li>
+<li><code>wallet.skey</code> - Wallet Secret Key.</li>
+<li><code>network.pkey</code> - Network Public Key in HEX format</li>
+<li><code>network.skey</code> - Network Secret Key.</li>
+<li><code>data/chain/</code> - Blockchain Database.</li>
+<li><code>data/wallet/</code> - Wallet Database.</li>
+<li><code>api_token.txt</code> - API Token need to connect to Node API.</li>
+</ul>
+
+<p>После создания нового кошелька узел начнет синхронизацию с сетью и напечатает множество информационных сообщений <code>INFO</code> с информацией о состоянии синхронизации.</p>
+
+<h4 id="подключение-к-узлу">Подключение к узлу</h4>
+
+<p>Скачайте и установите клиент командной строки (command-line client).</p>
+
+<p><strong>Linux 64-bit:</strong></p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegos-linux-x64 -o stegos
 chmod a+x stegos
-./stegos</p>
+./stegos
+</code></pre>
 
-<p>macOS 64-bit:</p>
+<p><strong>macOS 64-bit</strong>:</p>
 
-<p>curl -L <a href="https://github.com/stegos/stegos/releases/download/v0.6/stegos-macos-x64">https://github.com/stegos/stegos/releases/download/v0.6/stegos-macos-x64</a> -o stegos
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegos-macos-x64 -o stegos
 chmod a+x stegos
-./stegos</p>
+./stegos
+</code></pre>
 
-<p>Сразу после запуска узел будет печатать много информационных сообщений с отладочной информацией относительно начальной загрузки вашего узла. Нажмите Enter, чтобы получить stegos. Для получения справки введите команду help в командной строке.</p>
+<p>Клиент командной строки попытается подключиться к локальному узлу и напечатать приглашение вида &ldquo;stegos&gt;&rdquo;. Для получения справки введите команду &ldquo;help&rdquo; в командной строке. По умолчанию клиент считывает маркер API из файла api_token.txt в текущем каталоге и пытается подключиться к адресу узла (по умолчанию <code>127.0.0.1:3145</code>). Пожалуйста, обратите на это внимание, команда <code>stegos --help</code> поможет переопределить эти параметры.</p>
+
+<h3 id="обратная-связь">Обратная связь</h3>
+
+<p>Пожалуйста, вступайте к нам в <a href="https://t.me/stegos4privacy">Telegram чат</a>, получайте тестовые токены и дайте нам обратную связь.
+Подписывайтесь на наш официальный <a href="https://t.me/stegos4privacy_official">Telegram канал</a>, чтобы получать последние новости.</p>
 
 
         </div>
@@ -286,16 +324,11 @@ chmod a+x stegos
 
         <div class="toggles_block">
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-20th-may-31st/" class="pages_toggle">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-3rd-june-17th/" class="pages_toggle">
                 <div class="c__item_btn"><span class="c__item_arrow_more">←</span></div>
                 <div class="arrow_name">Предыдущая</div>
             </a>
             
-            
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-6th-may-17th/" class="pages_toggle arrow_next">
-                <div class="arrow_name">Следующая</div>
-                <div class="c__item_btn"><span class="c__item_arrow_more">→</span></div>
-            </a>
             
         </div>
 
