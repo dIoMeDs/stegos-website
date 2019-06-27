@@ -121,33 +121,13 @@
             </div>
 
             <div class="m_links_icons_block desktop_display">
-                <a href="https://t.me/stegos4privacy" class="icon_link">
-                    <i class="fab fa-telegram-plane"></i>
+                {{ $data := index .Site.Data (printf "links_%s" .Site.Language.Lang ) }}
+                {{ range $data}}
+                <a href={{ .linkURL | safeHTML }} class="icon_link">
+                    <i class="fab {{ .linkIcon }}"></i>
                 </a>
-                <a href="https://twitter.com/stegos4privacy" class="icon_link">
-                    <i class="fab fa-twitter"></i>
-                </a>
+                {{ end }}
 
-                <a href="https://www.youtube.com/channel/UCeYp3J_rqsTvfliowTHvfDQ?view_as=subscriber" class="icon_link">
-                    <i class="fab fa-youtube"></i>
-                </a>
-
-                <a href="https://www.reddit.com/r/stegos4privacy/" class="icon_link">
-                    <i class="fab fa-reddit-alien"></i>
-                </a>
-                <a href="https://medium.com/stegos4privacy" class="icon_link">
-                    <i class="fab fa-medium"></i>
-                </a>
-                <a href="https://www.facebook.com/stegos4privacy" class="icon_link">
-                    <i class="fab fa-facebook-square" aria-hidden="true"></i>
-                </a>
-                <a href="https://github.com/stegos/stegos" class="icon_link">
-                    <i class="fab fa-github"></i>
-                </a>
-
-                <a href="https://bitcointalk.org/index.php?topic=5132686.new#new" class="icon_link">
-                    <i class="fab fa-bitcoin"></i>
-                </a>
                 <a class="icon_link code_link">
                     <i class="fab fa-weixin"></i>
                     <div class="code_link_box">
@@ -165,8 +145,10 @@
                 <a href="mailto:team@stegos.com" class="icon_link">
                     <i class="far fa-envelope"></i>
                 </a>
+
             </div>
         </div>
+
 
         <div class="bg">
             <span class="bg_img"></span>
