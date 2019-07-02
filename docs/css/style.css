@@ -201,12 +201,12 @@ main {
     left: 1000px;
     top: -62px; }
   .code_link .code_link_wechat {
-    background: url("../images/qrcode.png") center no-repeat;
+    background: url("../images/WechatIMG.png") center no-repeat;
     background-size: contain;
     width: inherit;
     height: inherit; }
   .code_link .code_link_qq {
-    background: url("../images/WechatIMG.png") center no-repeat;
+    background: url("../images/qrcode.png") center no-repeat;
     background-size: contain;
     width: inherit;
     height: inherit; }
