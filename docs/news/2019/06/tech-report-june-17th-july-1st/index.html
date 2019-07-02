@@ -14,12 +14,12 @@
 
     
 
-    <title>Mainnet Preview 2 | Stegos</title>
-    <meta name="description" content="This is a second Preview release of upcoming Stegos mainnet." />
+    <title>Tech Report June, 17th - July, 1st | Stegos</title>
+    <meta name="description" content="Development team reports past sprint results and is announcing plans for the next sprint." />
 
-    <meta property="og:title" content="Mainnet Preview 2" />
-    <meta property="og:description" content="This is a second Preview release of upcoming Stegos mainnet." />
-    <meta property="og:url" content="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/" />
+    <meta property="og:title" content="Tech Report June, 17th - July, 1st" />
+    <meta property="og:description" content="Development team reports past sprint results and is announcing plans for the next sprint." />
+    <meta property="og:url" content="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/" />
     <meta property="og:image" content="https://diomeds.github.io/stegos-website/images/stegos-logo.png" />
 
     <link rel="stylesheet" href="https://diomeds.github.io/stegos-website/css/all.min.css">
@@ -114,7 +114,7 @@
                 <div class="inner_lang_block">
                     
                     
-                    <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/" class="m_h_lang_btn base_button">
+                    <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/" class="m_h_lang_btn base_button">
                         <div class="b_b_text">ru</div>
                     </a>
                     
@@ -145,7 +145,7 @@
         <div class="inner_lang_block">
             
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/" class="m_h_lang_btn base_button">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/" class="m_h_lang_btn base_button">
                 <div class="b_b_text">ru</div>
             </a>
             
@@ -179,7 +179,7 @@
             <div class="inner_lang_block">
                 
                 
-                <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/" class="m_h_lang_btn base_button">
+                <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/" class="m_h_lang_btn base_button">
                     <div class="b_b_text">ru</div>
                 </a>
                 
@@ -214,103 +214,36 @@
                     <span class="m_s_ld"></span>
                 </div>
             </a>
-            <div class="data_field">Jun 19, 2019</div>
+            <div class="data_field">Jul 1, 2019</div>
         </div>
 
         <div class="one_news_block">
 
-            <h1 class="news_title">Mainnet Preview 2</h1>
+            <h1 class="news_title">Tech Report June, 17th - July, 1st</h1>
 
             
 
-<p>Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.</p>
-
-<p>This is a second Preview release of upcoming Stegos mainnet. We declare the feature freeze with this release - no new features are planned until the upcoming mainnet release. Of course, some minor improvements and bug fixes will be made until the final mainnet release.</p>
-
-<h3 id="new-in-stegos-v0-9">New in Stegos v0.9:</h3>
+<h2 id="done-in-sprint-19">Done in Sprint 19</h2>
 
 <ul>
-<li>Node has been split into two binaries: a full node daemon (<code>stegosd</code>) and a command-line client (<code>stegos</code>).</li>
-<li>Persistent history of transactions has been added to wallet (see <code>show history</code> command).</li>
-<li>Payment Certificates have been introduced in wallet - an (optional) way for a sender to prove to arbitrary third-parties that he made a particular payment.</li>
-<li>Switched to Base58 for external representation of wallet public keys (addresses) to provide more user-friendly encoding of addresses.</li>
-<li>Introduced the ability to set arbitrary fee amount for transactions, to increase chances of transaction to be included in the nearest block.</li>
-<li>Introduced API tokens for authorizing WebSockets API usage, even for localhost.</li>
-<li>Provided the ability for the user to change wallet password.</li>
-<li>Strengthen the security of the node&rsquo;s docker image.</li>
+<li>Switched to new pairing-based crypto implementation based on <em>BLS12-381</em> curve, <strong>[Crypto]</strong>, 40x improvement in BLS signature verification time</li>
+<li>Switched to Dalek <em>Curve25519</em> implementation for single curve crypto, <strong>[Crypto]</strong>, 10x improvement in Bulletproof verification time, future compatibility with iOS CryptoKit</li>
+<li>Implemented of Payment Certificates in CLI Wallet, <strong>[Wallet]</strong>, payment certificates are needed if you have to proof that you send a particular amount of tokens to somebody<br /></li>
+<li>Switched to using Base58 for wallet keys on the disk, <strong>[Wallet]</strong>, more user-friendly external representation of keys saved on disk</li>
+<li>Stress Testing: Packet Delay and Loss, <strong>[Testing]</strong>, part of test harness</li>
+<li>Stress Testing: Blockchain, Consensus, Service Awards, Slashing, ValueShuffle, <strong>[Testing]</strong>, stress testing the vital subsystems using transactional loads from transaction generator</li>
 </ul>
 
-<p>See previous <a href="https://github.com/stegos/stegos/releases">releases</a> and <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint18">the project plan</a> for additional information.</p>
-
-<p>Upgrading from Mainnet Preview 1 is not supported - please start from a clean directory without old databases and keys.</p>
-
-<h3 id="installation">Installation</h3>
-
-<p>Starting from this release, two components of Stegos Platform are provided:</p>
+<h2 id="plans-for-sprint-20">Plans for Sprint 20</h2>
 
 <ul>
-<li><code>stegosd</code> - Stegos Full Node Daemon.</li>
-<li><code>stegos</code> - Stegos Command-Line Client.</li>
+<li>Implement Accounts API, <strong>[Wallet]</strong>,  to support multiple accounts per Wallet application</li>
+<li>Transaction status tracking in Account API and Transaction History, <strong>[Wallet]</strong>, to enable more user-friendly transaction status reporting</li>
+<li>Introducing VDFs and Kalman filter for stabilizing the block time, <strong>[Core]</strong>, making block time predictable in order to stabilize annual inflation</li>
+<li>More Stress Testing: Blockchain, Consensus, Service Awards, Slashing, ValueShuffle, <strong>[Testing]</strong>, stress testing the vital subsystems using transactional loads from transaction generator</li>
+<li>Finish GUI Wallet,  <strong>[Wallet]</strong>, user-friendly Wallet application based on Electron</li>
+<li><strong>RELEASE THE MAINNET!</strong></li>
 </ul>
-
-<h4 id="running-node">Running Node</h4>
-
-<p>Download and run Stegos Node.</p>
-
-<p><strong>Linux 64-bit:</strong></p>
-
-<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegosd-linux-x64 -o stegosd
-chmod a+x stegosd
-./stegosd
-</code></pre>
-
-<p><strong>macOS 64-bit:</strong></p>
-
-<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegosd-macos-x64 -o stegosd
-chmod a+x stegosd
-./stegosd
-</code></pre>
-
-<p>On the first start, the node will create a new wallet. Please create a strong password and save it in a safe place. This password is used locally to encrypt your data on the disk. There is no password recovery mechanism.</p>
-
-<p>The following files and directories will be created:</p>
-
-<ul>
-<li><code>wallet.pkey</code> - Wallet Public Key (Address) in Base58 format</li>
-<li><code>wallet.skey</code> - Wallet Secret Key.</li>
-<li><code>network.pkey</code> - Network Public Key in HEX format</li>
-<li><code>network.skey</code> - Network Secret Key.</li>
-<li><code>data/chain/</code> - Blockchain Database.</li>
-<li><code>data/wallet/</code> - Wallet Database.</li>
-<li><code>api_token.txt</code> - API Token need to connect to Node API.</li>
-</ul>
-
-<p>After creation of a new wallet, the node will start synchronizing with the network and print a lot of <code>INFO</code> messages with debugging information regarding synchronization status.</p>
-
-<h4 id="connecting-to-node">Connecting to Node</h4>
-
-<p>Download and run a command-line client.</p>
-
-<p><strong>Linux 64-bit:</strong></p>
-
-<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegos-linux-x64 -o stegos
-chmod a+x stegos
-./stegos
-</code></pre>
-
-<p><strong>macOS 64-bit</strong>:</p>
-
-<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.9/stegos-macos-x64 -o stegos
-chmod a+x stegos
-./stegos
-</code></pre>
-
-<p>The command-line client will try to connect to local node and print <code>stegos&gt;</code> prompt. To get help enter <code>help</code> command at the prompt. By default, the client reads API token from <code>api_token.txt</code> file in the current directory and tries to connect to default (<code>127.0.0.1:3145</code>) Node address. Please see <code>stegos --help</code> to override these options.</p>
-
-<h3 id="feedback">Feedback</h3>
-
-<p>Please join us on <a href="https://t.me/stegos4privacy">Telegram Chat</a> to get test tokens and let us know your thoughts.
-Subscribe to official <a href="https://t.me/stegos4privacy_official">Telegram Channel</a> for the latest news.</p>
 
 
         </div>
@@ -324,16 +257,11 @@ Subscribe to official <a href="https://t.me/stegos4privacy_official">Telegram Ch
 
         <div class="toggles_block">
             
-            <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/" class="pages_toggle">
+            <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/" class="pages_toggle">
                 <div class="c__item_btn"><span class="c__item_arrow_more">←</span></div>
                 <div class="arrow_name">Previous</div>
             </a>
             
-            
-            <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/" class="pages_toggle arrow_next">
-                <div class="arrow_name">Next</div>
-                <div class="c__item_btn"><span class="c__item_arrow_more">→</span></div>
-            </a>
             
         </div>
 

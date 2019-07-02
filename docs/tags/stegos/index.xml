@@ -6,10 +6,19 @@
     <description>Recent content in stegos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/tags/stegos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech Report June, 17th - July, 1st</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/</guid>
+      <description>Done in Sprint 19  Switched to new pairing-based crypto implementation based on BLS12-381 curve, [Crypto], 40x improvement in BLS signature verification time Switched to Dalek Curve25519 implementation for single curve crypto, [Crypto], 10x improvement in Bulletproof verification time, future compatibility with iOS CryptoKit Implemented of Payment Certificates in CLI Wallet, [Wallet], payment certificates are needed if you have to proof that you send a particular amount of tokens to somebody</description>
+    </item>
     
     <item>
       <title>Mainnet Preview 2</title>
