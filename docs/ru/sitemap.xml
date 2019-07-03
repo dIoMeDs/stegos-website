@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-3-release/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-3-release/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -216,7 +233,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -237,7 +254,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/categories/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -258,7 +275,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/categories/development/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -279,7 +296,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/news/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -300,7 +317,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/tags/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -321,7 +338,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/tags/stegos/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -342,13 +359,13 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -14,12 +14,12 @@
 
     
 
-    <title>Технический отчет, 17 июня - 1 июля | Stegos</title>
-    <meta name="description" content="Сообщение команды разработчиков о результатах за прошлый спринт и о запланированных действиях на следующий." />
+    <title>Основная сеть, предварительный релиз 3 | Stegos</title>
+    <meta name="description" content="Третий предварительный релиз основной сети Stegos" />
 
-    <meta property="og:title" content="Технический отчет, 17 июня - 1 июля" />
-    <meta property="og:description" content="Сообщение команды разработчиков о результатах за прошлый спринт и о запланированных действиях на следующий." />
-    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/" />
+    <meta property="og:title" content="Основная сеть, предварительный релиз 3" />
+    <meta property="og:description" content="Третий предварительный релиз основной сети Stegos" />
+    <meta property="og:url" content="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-3-release/" />
     <meta property="og:image" content="https://diomeds.github.io/stegos-website/images/stegos-logo.png" />
 
     <link rel="stylesheet" href="https://diomeds.github.io/stegos-website/css/all.min.css">
@@ -114,7 +114,7 @@
                 <div class="inner_lang_block">
                     
                     
-                    <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/" class="m_h_lang_btn base_button">
+                    <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/" class="m_h_lang_btn base_button">
                         <div class="b_b_text">en</div>
                     </a>
                     
@@ -145,7 +145,7 @@
         <div class="inner_lang_block">
             
             
-            <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/" class="m_h_lang_btn base_button">
+            <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/" class="m_h_lang_btn base_button">
                 <div class="b_b_text">en</div>
             </a>
             
@@ -179,7 +179,7 @@
             <div class="inner_lang_block">
                 
                 
-                <a href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/" class="m_h_lang_btn base_button">
+                <a href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/" class="m_h_lang_btn base_button">
                     <div class="b_b_text">en</div>
                 </a>
                 
@@ -214,36 +214,99 @@
                     <span class="m_s_ld"></span>
                 </div>
             </a>
-            <div class="data_field">Jul 1, 2019</div>
+            <div class="data_field">Jul 2, 2019</div>
         </div>
 
         <div class="one_news_block">
 
-            <h1 class="news_title">Технический отчет, 17 июня - 1 июля</h1>
+            <h1 class="news_title">Основная сеть, предварительный релиз 3</h1>
 
             
 
-<h2 id="сделано-в-спринте-19">Сделано в спринте 19</h2>
+<p>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.</p>
+
+<p>Это третий предварительный релиз предстоящего выпуска основной сети Stegos. В целях улучшения синхронизации узлов и производительности начальной загрузки мы переключились на новую криптографическую реализацию на основе BLS12-381, что позволило в 40 раз сократить время проверки подписи BLS. Другим важным достижением было переключение single curve crypto с Curve1174 на Curve25519 для увеличения производительности Bulletproofs и обеспечения совместимости с iOS CryptoKit.</p>
+
+<h3 id="новое-в-stegos-v0-10">Новое в Stegos v0.10:</h3>
 
 <ul>
 <li>Произведено переключение на новую криптографическую реализацию на основе кривых <em>BLS12-381</em>, в 40 раз сокращено время проверки подписи BLS</li>
 <li>Сделано переключение на Dalek <em>Curve25519</em> в реализации для single curve crypto, реализовано десятикратное улучшение времени проверки Bulletproof, обеспечена будущая совместимость с iOS CryptoKit</li>
 <li>Реализовано применение платежных сертификатов в Clip Wallet, что будет необходимо, если вам понадобятся доказательства отправки определенного количества токенов кому-либо</li>
 <li>Переключение на использование Base58 для ключей кошелька на диске позволяет обеспечить более удобное внешнее представление ключей, сохраненных на диске</li>
-<li>Стресс-тестирование задержки и потери пакетов</li>
-<li>Стресс-тестирование: блокчейн, консенсус, служебные вознаграждения, Slashing, ValueShuffle, тестирование других жизненно важных подсистем с использованием транзакционных нагрузок от генератора транзакций</li>
 </ul>
 
-<h2 id="запланировано-на-спринт-20">Запланировано на спринт 20</h2>
+<p>Смотрите предыдущие <a href="https://github.com/stegos/stegos/releases">релизы</a> и <a href="https://github.com/stegos/stegos/wiki/project-plan#sprint19">план проекта</a> для получения дополнительной информации.</p>
+
+<p>Обновление с Mainnet Preview 2 не поддерживается, пожалуйста, очистите каталог от старых баз данных и ключей.</p>
+
+<h3 id="установка">Установка</h3>
+
+<p>Начиная второго предварительного релиза основной сети, предоставляются два компонента платформы Stegos:</p>
 
 <ul>
-<li>Реализация API для поддержки нескольких учетных записей в приложении кошелька</li>
-<li>Отслеживание состояния транзакции в API учетной записи и истории транзакций, для обеспечения более удобного отчета о состоянии транзакции</li>
-<li>Введение VDFs и фильтра Кальмана для стабилизации времени блока в целях стабилизации годовой инфляции</li>
-<li>Большое количество стресс-тестов блокчейна, консенсуса, служебных вознаграждений, Slashing, ValueShuffle, тестирование других жизненно важных подсистем с использованием транзакционных нагрузок от генератора транзакций</li>
-<li>Доработка пользовательского интерфейса кошелька на основе Electron</li>
-<li><strong>ЗАПУСК ОСНОВНОЙ СЕТИ!</strong></li>
+<li><code>stegosd</code> - Stegos Full Node Daemon.</li>
+<li><code>stegos</code> - Stegos Command-Line Client.</li>
 </ul>
+
+<h4 id="running-node">Running Node</h4>
+
+<p>Скачайте и запустите ноду Stegos.</p>
+
+<p><strong>Linux 64-bit:</strong></p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.10/stegosd-linux-x64 -o stegosd
+chmod a+x stegosd
+./stegosd
+</code></pre>
+
+<p><strong>macOS 64-bit:</strong></p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.10/stegosd-macos-x64 -o stegosd
+chmod a+x stegosd
+./stegosd
+</code></pre>
+
+<p>При первом запуске нода создаст новый кошелек. Пожалуйста, создайте надежный пароль и сохраните его в безопасном месте. Этот пароль используется локально для шифрования данных на диске. Механизм восстановления пароля отсутствует.</p>
+
+<p>Будут созданы следующие файлы и каталоги:</p>
+
+<ul>
+<li><code>wallet.pkey</code> - Wallet Public Key (Address) in Base58 format</li>
+<li><code>wallet.skey</code> - Wallet Secret Key.</li>
+<li><code>network.pkey</code> - Network Public Key in HEX format</li>
+<li><code>network.skey</code> - Network Secret Key.</li>
+<li><code>data/chain/</code> - Blockchain Database.</li>
+<li><code>data/wallet/</code> - Wallet Database.</li>
+<li><code>api_token.txt</code> - API Token need to connect to Node API.</li>
+</ul>
+
+<p>После создания нового кошелька узел начнет синхронизацию с сетью и напечатает множество информационных сообщений <code>INFO</code> с информацией о состоянии синхронизации.</p>
+
+<h4 id="подключение-к-узлу">Подключение к узлу</h4>
+
+<p>Скачайте и запустите клиент командной строки (command-line client).</p>
+
+<p><strong>Linux 64-bit:</strong></p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.10/stegos-linux-x64 -o stegos
+chmod a+x stegos
+./stegos
+</code></pre>
+
+<p><strong>macOS 64-bit</strong>:</p>
+
+<pre><code class="language-bash">curl -L https://github.com/stegos/stegos/releases/download/v0.10/stegos-macos-x64 -o stegos
+chmod a+x stegos
+./stegos
+</code></pre>
+
+<p>Клиент командной строки попытается подключиться к локальному узлу и напечатать приглашение вида &ldquo;stegos&gt;&rdquo;. Для получения справки введите команду <code>help</code> в командной строке. По умолчанию клиент считывает маркер API из файла <code>api_token.txt</code> в текущем каталоге и пытается подключиться к адресу узла (по умолчанию <code>127.0.0.1:3145</code>). Пожалуйста, обратите на это внимание, команда <code>stegos --help</code> поможет переопределить эти параметры.</p>
+
+<h3 id="обратная-связь">Обратная связь</h3>
+
+<p>Пожалуйста, вступайте к нам в <a href="https://t.me/stegos4privacy">Telegram чат</a>, получайте тестовые токены и дайте нам обратную связь.
+Подписывайтесь на наш официальный <a href="https://t.me/stegos4privacy_official">Telegram канал</a>, чтобы получать последние новости.</p>
 
 
         </div>
@@ -257,16 +320,11 @@
 
         <div class="toggles_block">
             
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/" class="pages_toggle">
+            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/" class="pages_toggle">
                 <div class="c__item_btn"><span class="c__item_arrow_more">←</span></div>
                 <div class="arrow_name">Предыдущая</div>
             </a>
             
-            
-            <a href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-3-release/" class="pages_toggle arrow_next">
-                <div class="arrow_name">Следующая</div>
-                <div class="c__item_btn"><span class="c__item_arrow_more">→</span></div>
-            </a>
             
         </div>
 

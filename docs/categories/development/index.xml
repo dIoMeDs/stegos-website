@@ -6,10 +6,20 @@
     <description>Recent content in DEVELOPMENT on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mainnet Preview 3</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/</guid>
+      <description>Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
+This is a third Preview release of upcoming Stegos mainnet. In order to boost node synchronization and bootstrap performance we have switched to the new pairing curve, BLS12-381, reducing BLS signature verification by the factor of 40. Another major achievement was switching single curve crypto from Curve1174 to Curve25519 in order to increase Bulletproofs performance and provide a compatibility to iOS13 CryptoKit.</description>
+    </item>
     
     <item>
       <title>Tech Report June, 17th - July, 1st</title>
