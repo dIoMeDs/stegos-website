@@ -1,57 +1,55 @@
 ---
 author: "Vladimir Lebedev"
 date: 2019-05-22
-linktitle: Tech Report 20190501
-title: "Tech Report May, 6th - May, 17th"
-description: "Development team reports past sprint results and is announcing an upcoming first testnet release."
-metaTitle: ""
-metaDescription: ""
-categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
+linktitle: 技术双周报 20190501
+title: "技术双周报 5月6日 - 5月17日"
+description: "开发团队报告了过去的sprint成果，并宣布即将发布的新版测试网。"
+metaTitle: "技术双周报 5月6日 - 5月17日"
+metaDescription: "开发团队报告了过去的sprint成果，并宣布即将发布的新版测试网。"
+categories: [ "开发" ]
+tags: ["stegos", "周报", "技术"]
 weight: 7
 draft: false
 ---
 
-During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
+在过去两周内，我们的开发团队一直在努力完成即将推出的testnet版本的主要功能。
 
-Here is what we accomplished in the period **May, 6th — May, 17th**:
-
-
-Done in Sprint 16
-
-
- - New StakeUTXO, Core Blockchain, StakeUTXOs with BLS signatures
- - Public payment UTXO, Core Blockchain, UTXO with uncloaked recipient pubkey and amount
- - Adding time locks to all UTXO types, Core Blockchain, allow UTXOs to be time-locked
- - Introducing micro and macro blocks, Core Blockchain, adding more security to microblocks
- - Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height
- - Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals
- - Stabilize ValueShuffle facilitating in the event of epoch change, ValueShuffle, fine-tuning of the Facilitator code
- - Change PBC keys: network, Network, support for changing node’s pbc (validator) keys on the go
- - Check for stale connections, Network, check if some neighbor connections are stale and re-connect
- - Stress Testing: Deploy TxGenerator, Testing, transaction generator deployment support for devnets
- - Use AONT (All or Nothing) for all serialized representation of secrets, Security, additional security for in-memory representations of secrets
- - Implement WAU (Wipe After Use) for all secrets, Security, additional security for in-memory representations of secrets
+以下是我们在**5月6日 - 5月17日**期间所取得的成果：
+Sprint 16的结果
+- [核心区块链] 新的StakeUTXO，带有BLS签名的StakeUTXO
+- [核心区块链] 公共支付UTXO，UTXO与未开发的收件人pubkey和金额
+- [核心区块链] 向所有UTXO类型添加时间锁，允许UTXO进行时间锁定
+- [核心区块链] 引入微块和宏块，为微块添加更多安全性的=
+- [共识] 区块削减，惩罚作弊节点在同一高度上发布两个不同的区块
+- [共识] 重新抵押，以预定间隔更改验证者与staking硬币相关的PBC密钥
+- [ValueShuffle] 在发生时代变化时稳定ValueShuffle，微调辅助器代码
+- [网络] 更改PBC密钥：网络，支持在旅途中更改节点的pbc（验证器）密钥
+- [测试] 压力测试：部署TxGenerator，对devnet的事务生成器部署支持
+- [安全] 使用AONT（全部或全部）进行秘密的所有序列化表示，内存中秘密表示的附加安全性
+- [安全] 为所有机密实施WAU（擦除使用后），内存中秘密表示的附加安全性
 
 
+- [共识] 削减，惩罚作弊老板在同一高度上发布两个不同的区块
+- [共识] 重新抵押，以预定间隔更改验证者与赌注令牌相关的PBC密钥
+- [核心区块链] 服务奖励，需要激励验证者在线
+- [ValueShuffle] 稳定ValueShuffle以促进在状态变迁情况下的隐私，微调辅助器代码
+- [节点] 加速节点引导和重新同步，微调引导常量
 
-Plans for Sprint 17
-
-
- - Speed-up node bootstrap and re-synchronization, Node, fine-tuning bootstrap constants
- - Service Awards, Core Blockchain, required to create an incentive for validators to be always online
- - Compress Micro Blocks to Macro Blocks, Consensus, remove last epoch’s micro blocks by moving their data to a single macro block
- - Optimize bulletproofs, Crypto, make bulletproofs verification faster than current 23 ms using parallelization (no processor-dependent optimizations yet)
- - HashCash: more bug-fixing, Network, bug fixing of HashCash protocol
- - Fork Resolution: more bug-fixing, Consensus, bug fixing of fork resolution mechanism for micro blocks
- - UTXO Timestamp Locking, Core Blockchain, implement locking of UTXOs
- - PublicPaymentUTXO: additional tx validation rules, Core Blockchain, implement additional transaction verification rules for transactions involving public payment UTXOs
- - PublicPaymentUTXO: support in wallet, Wallet, implement support for public payment UTXOs usage in wallet
- - Introduce variable fees in transactions, Core Blockchain, Wallet, introduce the ability to set arbitrary fee amount for transaction in order to increase chances of transaction to be included in the nearest block
- - DDoS Protection: blacklisting and rate-limiting, Network, implement rate-limiting and blacklisting as initial network-level DDoS protection mechanism
- - Change PBC keys: wallet, node, Node, support for changing node’s pbc (validator) keys on the go
- - Persist Payment History in Wallet, Wallet, required to support showing the payment history in wallet
- - Don't require wallet secret key for validator nodes, Security, reduce chances for an attacker to get hold of private wallet keys on hosted validator nodes by simply not requiring them to be present
- - LRU cache for unpacked UTXO, Node, node UTXO database optimization
- - Stress Testing: Packet Delay and Loss, Testing, part of test harness
- - Stress Testing: Large Number of Nodes, Testing, part of test harness
+Sprint 17的计划
+- [节点] 加速节点引导和重新同步，微调引导常量
+- [核心区块链] 服务奖励，需要激励验证者始终在线
+- [共识] 压缩微块到宏块，通过将其数据移动到单个宏块来删除上一个时期的微块
+- [加密] 优化防弹，使用并行化使当前23毫秒的防弹验证更快（尚未依赖处理器的优化）
+- [网络] HashCash：更多的bug修复，HashCash协议的bug修复
+- [共识] Fork解决方案：更多错误修复，修复微块的fork解析机制
+- [核心区块链] UTXO时间戳锁定，核心区块链，实现UTXO的锁定
+- [核心区块链] PublicPaymentUTXO: 额外的tx验证规则，为涉及公共支付UTXO的交易实施其他交易验证规则
+- [钱包] PublicPaymentUTXO：钱包中的支持，实现钱包中公共支付UTXO的支持
+- [核心区块链] [钱包] 在交易中引入可变费用，引入为交易设置任意费用金额的能力，以增加交易被打包入最新区块中的机会
+- [网络] DDoS保护：黑名单和限速机制，实施速率限制和黑名单作为初始网络级DDoS保护机制
+- [钱包] 更改PBC密钥：钱包，节点。支持在go中更改节点的pbc（验证器）密钥
+- [钱包] 在电子钱包中保留付款历史记录，需要支持在钱包中显示付款历史记录
+- [安全性] 不需要钱包密钥用于验证器节点，通过简单地不要求它们存在来减少攻击者获取托管验证器节点上的私有钱包密钥的机会
+- [节点] LRU缓存用于解压缩的UTXO，节点UTXO数据库优化
+- [测试] 压力测试：数据包延迟和丢失，测试工具的一部分
+- [测试] 压力测试：大量节点，测试线束的一部分

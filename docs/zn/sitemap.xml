@@ -3,6 +3,160 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/06/mainnet-3-release/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-3-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-3-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/06/mainnet-3-release/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/06/tech-report-june-17th-july-1st/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-17th-july-1st/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-17th-july-1st/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/06/tech-report-june-17th-july-1st/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/06/mainnet-2-release/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-2-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-2-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/06/mainnet-2-release/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/06/tech-report-june-3rd-june-17th/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/tech-report-june-3rd-june-17th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/tech-report-june-3rd-june-17th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/06/tech-report-june-3rd-june-17th/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/06/mainnet-1-release/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/06/mainnet-1-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/06/mainnet-1-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/06/mainnet-1-release/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-20th-may-31st/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-may-20th-may-31st/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-may-20th-may-31st/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-20th-may-31st/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-7-release/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-7-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/testnet-7-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-7-release/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -43,28 +197,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-apr-22nd-may-3rd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-apr-22nd-may-3rd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/"
                 />
   </url>
   
@@ -113,23 +245,6 @@
   </url>
   
   <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/04/mobile-blockchain-the-holy-grail/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/news/2019/04/mobile-blockchain-the-holy-grail/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/</loc>
     <lastmod>2019-04-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -143,6 +258,45 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/04/mobile-blockchain-the-holy-grail/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/04/mobile-blockchain-the-holy-grail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/04/mobile-blockchain-the-holy-grail/"
                 />
   </url>
   
@@ -233,7 +387,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/zn/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -254,7 +408,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/zn/categories/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -274,29 +428,8 @@
   </url>
   
   <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/categories/development/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/categories/development/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/news/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -317,7 +450,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/zn/tags/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -337,24 +470,8 @@
   </url>
   
   <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/tags/report/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/tags/report/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/tags/report/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/tags/stegos/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -374,18 +491,47 @@
   </url>
   
   <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/tags/technology/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/categories/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/categories/development/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diomeds.github.io/stegos-website/tags/technology/"
+                href="https://diomeds.github.io/stegos-website/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/tags/technology/"
+                href="https://diomeds.github.io/stegos-website/zn/categories/development/"
                 />
   </url>
   
@@ -438,6 +584,22 @@
   </url>
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/technology/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/technology/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/tags/design/</loc>
     <lastmod>2019-02-22T12:05:29+01:00</lastmod>
     <priority>0</priority>
@@ -473,6 +635,22 @@
     <loc>https://diomeds.github.io/stegos-website/zn/tags/chinese/</loc>
     <lastmod>2019-02-18T14:03:09+06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/report/</loc>
+    <lastmod>2019-02-18T14:03:09+06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/report/"
+                />
   </url>
   
   <url>

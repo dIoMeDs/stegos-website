@@ -96,5 +96,5 @@ The command-line client will try to connect to local node and print `stegos>` pr
 
 ### Feedback
 
-Please join us on [Telegram Chat](https://t.me/stegos4privacy) to get test tokens and let us know your thoughts.
-Subscribe to official [Telegram Channel](https://t.me/stegos4privacy_official) for the latest news.
+Please join us on [Telegram Chat](https://stg.to/tgc) to get test tokens and let us know your thoughts.
+Subscribe to official [Telegram Channel](https://stg.to/tgn) for the latest news.

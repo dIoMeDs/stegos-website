@@ -1,41 +1,31 @@
 ---
 author: "Vladimir Lebedev"
 date: 2019-05-01
-linktitle: Tech Report 20190501
-title: "Tech Report Apr, 22nd - May, 3rd "
-description: "Development team reports past sprint results and is announcing an upcoming first testnet release."
-metaTitle: ""
-metaDescription: ""
-categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
+linktitle: 技术双周报 20190501
+title: "技术双周报 4月22日 – 5月3日"
+description: "开发团队报告了过去的sprint成果，并宣布即将发布的新版测试网。"
+metaTitle: "技术双周报 4月22日 – 5月3日"
+metaDescription: "开发团队报告了过去的sprint成果，并宣布即将发布的新版测试网。"
+categories: [ "开发" ]
+tags: ["stegos", "周报", "技术"]
 weight: 8
 draft: false
 ---
 
-During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
+在过去两周内，我们的开发团队一直在努力完成即将推出的testnet版本的主要功能。
+Stegos已完成的工作
+以下任务于**4月22日至5月3日**完成：
+- [网络] 完成HashCash集成，防止DoS攻击
+- [测试] 压力测试：事务性负载生成器，测试工具的一部分
+- [共识] 确定主要区块链常数：每个区块的最大UTXO，时期长度和阻止时间，这些是共识协议的重要参数
+- [钱包] 电子钱包恢复，需要使用24字恢复短语恢复钱包密钥
+- [钱包] 磁盘上的密钥加密，实现磁盘上密钥的安全存储
+- [钱包] Proof of UTXO构建，一种允许证明特定交易过去发生的功能
 
-Here is what we accomplished in the period **April, 22nd — May, 3rd**:
-
-Done
-
- - Finalize HashCash integration, Network, required to prevent DoS-attacks
- - Stress Testing: Transactional Load Generator, Testing, the part of test harness
- - Determine major blockchain constants: Maximum UTXOs per Block, Epoch Length & Block Time, Consensus, those are important parameters of the consensus protocol
- - Wallet Recovery, Wallet, required to recover wallet keys using 24-word recovery phrase
- - Key Encryption on the Disk, Wallet, implement safe storage of keys on disk
- - Proof of UTXO Construction, Wallet, a feature allowing to prove that a particular transaction has taken place in the past
-
-
-In progress
-
- - Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height
- - Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals
- - Service Awards, Core Blockchain, required to create an incentive for validators to be online
- - Stress Testing: Multiple Regions, Network, launch nodes in multiple AWS regions to test consensus with real-life latencies
- - ValueShuffle: Bots, ValueShuffle, required to facilitate VS transactions in absence of enough VS transactions intents
-
-
-Roman Tsisyk
-
- - Wallet Recovery is about recovery using 24-word recovery phrase. This feature has been implemented and can be used by Wallet UI.
-
+Stegos进行中的工作
+- [共识] 削减，惩罚作弊老板在同一高度上发布两个不同的区块
+- [共识] 重新抵押，以预定间隔更改验证者与赌注令牌相关的PBC密钥
+- [核心区块链] 服务奖励，需要激励验证者在线
+- [测试] 压力测试：多个区域，网络，多个AWS区域中的启动节点，以测试与实际延迟的共识
+- [ValueShuffle] ValueShuffle：机器人，在没有足够的交易意图的情况下提供虚拟交易促进隐私
+- [钱包] 钱包恢复是关于使用24字恢复短语恢复。此功能已实施，可供Wallet UI使用。

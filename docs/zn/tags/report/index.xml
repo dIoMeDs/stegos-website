@@ -6,81 +6,10 @@
     <description>Recent content in report on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 14:03:09 +0600</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/zn/tags/report/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tech Report May, 6th - May, 17th</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-Here is what we accomplished in the period May, 6th — May, 17th:
-Done in Sprint 16
- New StakeUTXO, Core Blockchain, StakeUTXOs with BLS signatures Public payment UTXO, Core Blockchain, UTXO with uncloaked recipient pubkey and amount Adding time locks to all UTXO types, Core Blockchain, allow UTXOs to be time-locked Introducing micro and macro blocks, Core Blockchain, adding more security to microblocks Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals Stabilize ValueShuffle facilitating in the event of epoch change, ValueShuffle, fine-tuning of the Facilitator code Change PBC keys: network, Network, support for changing node’s pbc (validator) keys on the go Check for stale connections, Network, check if some neighbor connections are stale and re-connect Stress Testing: Deploy TxGenerator, Testing, transaction generator deployment support for devnets Use AONT (All or Nothing) for all serialized representation of secrets, Security, additional security for in-memory representations of secrets Implement WAU (Wipe After Use) for all secrets, Security, additional security for in-memory representations of secrets  Plans for Sprint 17</description>
-    </item>
-    
-    <item>
-      <title>Testnet 6 Release</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/</link>
-      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/</guid>
-      <description>Stegos Testnet 6 Release Notes
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
-This is the sixth Testnet release of the Stegos blockchain. Changes since Testnet 5:
- Added HashCash challenge to PubSub protocol to limit denial-of-service attacks Implemented simplified Re-Staking for tracking validators&amp;rsquo; online status Implemented wallet recovery using 24-word recovery phrase Implemented wallet password protection and encryption of keys stored on disk Split 1 STG to 1 000 000 microSTG.</description>
-    </item>
-    
-    <item>
-      <title>Tech Report Apr, 22nd - May, 3rd </title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-Here is what we accomplished in the period April, 22nd — May, 3rd:
-Done
- Finalize HashCash integration, Network, required to prevent DoS-attacks Stress Testing: Transactional Load Generator, Testing, the part of test harness Determine major blockchain constants: Maximum UTXOs per Block, Epoch Length &amp;amp; Block Time, Consensus, those are important parameters of the consensus protocol Wallet Recovery, Wallet, required to recover wallet keys using 24-word recovery phrase Key Encryption on the Disk, Wallet, implement safe storage of keys on disk Proof of UTXO Construction, Wallet, a feature allowing to prove that a particular transaction has taken place in the past  In progress</description>
-    </item>
-    
-    <item>
-      <title>Tech Report Apr, 8th - Apr, 19th</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-apr-8th-apr-19th/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-apr-8th-apr-19th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-The following tasks were completed in the period April,8th — April, 19th:
-Done
- Kademlia DHT-based routing, Network, base networking functionality for unicast messages Research xPIR, Experimental, research the possibility of using private information retrieval protocols to secure light nodes Websocket Wallet API Enhancements Fork Resolution, Consensus, this is an essential part of the consensus protocol Rollback of Payment Transactions in Wallet, Wallet, this mechanism is needed due to fork resolution Limit the Number of Outputs in a Block, Core Blockchain, required to prevent traffic jams in the network Stabilize Network, Network, testing and bug fixing Stabilize Consensus, Consensus, testing and bug fixing Split 1 STG to 1 000 000 Units (microSTG), Core Blockchain, required to have fractional STG units  Plans for Sprint 15</description>
-    </item>
-    
-    <item>
-      <title>Testnet 5 Release</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/04/testnet-5-release/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/04/testnet-5-release/</guid>
-      <description>Stegos Testnet 5 Release Notes
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
-This is the fifth testnet release of the Stegos blockchain. Changes since Testnet 4:
- Added a fork resolution mechanism to consensus and improved handling of network partitions. Implemented basic cheating detection of malicious validators in consensus (without punishment for now). Significantly reduced the time of full sync with the network.</description>
-    </item>
-    
-    <item>
-      <title>“Tech Report Mar, 25th - Apr, 5th”</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/</link>
-      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-The following tasks were completed in the period April, 2nd — April, 15th:
- Investigate packet loss in libp2p, Network, fixing a bug with lost packets related to the usage of Cuckoo-filters View Changes for Micro Blocks, Consensus, view change is an essential part of the consensus protocol View Changes for Key Blocks, Consensus`, view change is an essential part of the consensus protocol Determine Epoch Length &amp;amp;&amp;amp; Block Time, Consensus, epoch length and block time are important parameters of the consensus protocol HashCash Algorithm, Network, nodes have to solve HashCash puzzles in order to join the network to prevent Sybil attacks Unicast Messages Encryption, Network, unicast messages traveling over Kademlia DHT network have to be encrypted Test cases for block validation, Core Blockchain, part of the functional testing harness RaptorQ Encoder/Decoder, Network, required to create optimized protocol for transmission of blocks/other large messages  In-progress:</description>
-    </item>
     
     <item>
       <title>Stegos技术周报（01.29 - 02.08）</title>

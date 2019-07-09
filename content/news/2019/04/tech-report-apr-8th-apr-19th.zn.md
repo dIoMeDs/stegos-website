@@ -1,43 +1,38 @@
 ---
 author: "Vladimir Lebedev"
 date: 2019-04-24
-linktitle: Tech Report 20190424
-title: "Tech Report Apr, 8th - Apr, 19th"
-description: "Development team reports past sprint results and is announcing an upcoming first testnet release."
-metaTitle: ""
-metaDescription: ""
-categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
-weight: 8
+linktitle: 技术双周报 20190618
+title: "技术双周报 4月8日-4月19日"
+description: "开发团队报告了过去的sprint结果，并宣布了下一个sprint的计划。"
+metaTitle: "技术双周报 4月8日-4月19日"
+metaDescription: "开发团队报告了过去的sprint结果，并宣布了下一个sprint的计划。"
+categories: [ "开发" ]
+tags: ["stegos", "周报", "技术"]
+weight: 7
 draft: false
 ---
 
-During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
+在过去两周内，我们的开发团队一直在努力完成即将推出的testnet版本的主要功能。
+Stegos已完成的工作
+以下任务于**4月8日至4月19日**完成：
+- [网络] 基于Kademlia DHT的路由，网络，单播消息的基本网络功能
+- [研究] 研究xPIR，实验，研究使用隐私信息检索协议来保护轻节点的可能性
+- Websocket Wallet API增强功能
+- [共识] Fork 解析度，这是共识协议的重要组成部分
+- [钱包] 在钱包中回滚支付交易，由于分叉解析，需要这种机制
+- [核心] 限制块，核心区块链中的输出数量，以防止网络中的流量阻塞
+- [网络] 稳定性网络，网络，测试和错误修复
+- [共识] 稳定性共识，测试和错误修复
+- [核心] 将1 STG拆分为1 000 000个单位位（microSTG），需要具有分数STG单位
 
-The following tasks were completed in the period **April,8th — April, 19th**:
-
-Done
-
- - Kademlia DHT-based routing, Network, base networking functionality for unicast messages
- - Research xPIR, Experimental, research the possibility of using private information retrieval protocols to secure light nodes
- - Websocket Wallet API Enhancements
- - Fork Resolution, Consensus, this is an essential part of the consensus protocol
- - Rollback of Payment Transactions in Wallet, Wallet, this mechanism is needed due to fork resolution
- - Limit the Number of Outputs in a Block, Core Blockchain, required to prevent traffic jams in the network
- - Stabilize Network, Network, testing and bug fixing
- - Stabilize Consensus, Consensus, testing and bug fixing
- - Split 1 STG to 1 000 000 Units (microSTG), Core Blockchain, required to have fractional STG units
-
-
-Plans for Sprint 15
-
- - Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height
- - Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals
- - Service Awards, Core Blockchain, required to create an incentive for validators to be online
- - Key Encryption on the Disk, Wallet, implement safe storage of keys on disk
- - Finalize HashCash integration, Network, required to prevent DoS-attacks
- - Determine major blockchain constants: Maximum UTXOs per Block, Epoch Length & Block Time, Consensus, those are important parameters of the consensus protocol
- - Stress Testing: Transactional Load Generator, Testing, the part of test harness
- - Stress Testing: Multiple Regions, Network, launch nodes in multiple AWS regions to test consensus with real-life latencies
- - ValueShuffle: Bots, ValueShuffle, required to facilitate VS transactions in absence of enough VS transactions intents
- - Proof of UTXO Construction, Wallet, a feature allowing to prove that a particular transaction has taken place in the past
+Stegos进行中的工作
+- [共识] Slashing，惩罚作弊节点在同一高度上发布两个不同的区块
+- [共识] 重新抵押，以预定间隔更改验证者与赌注令牌相关的PBC密钥
+- [核心] 服务奖励，需要激励验证者在线
+- [钱包] 磁盘上的密钥加密，实现磁盘上密钥的安全存储
+- [网络] 完成HashCash集成，防止DoS攻击
+- [共识] 确定主要区块链常数：每个区块的最大UTXO，时期长度和阻止时间，这些是共识协议的重要参数
+- [测试] 压力测试：事务性负载生成器，测试工具的一部分
+- [测试] 压力测试：多个区域，网络，多个AWS区域中的启动节点，以测试与实际延迟的共识
+- [ValueShuffle] ValueShuffle：机器人，在没有足够的交易意图的情况下提供虚拟交易促进隐私
+- [钱包] Proof of UTXO构建，一种允许证明特定交易过去发生的功能

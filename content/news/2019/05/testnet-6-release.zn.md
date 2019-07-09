@@ -1,56 +1,62 @@
 ---
 author: "Vladimir Lebedev"
 date: 2019-05-07
-linktitle: Testnet 6 Release 20190507
-title: "Testnet 6 Release"
-description: "This is the sixth Testnet release of the Stegos blockchain."
+linktitle: 测试网6发布 20190507
+title: "测试网6发布"
+description: "这是Stegos区块链发布的第六个版本的测试网。"
 metaTitle: "test"
 metaDescription: "test"
-categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
+categories: [ "开发" ]
+tags: ["stegos", "周报", "技术"]
 weight: 7
 draft: false
 ---
 
-Stegos Testnet 6 Release Notes
+## 测试网6发布说明
 
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
+Stegos创建了前沿的技术，其可以保护你的秘密不被窥探，因此你会感觉非常安全且可靠。
 
-This is the sixth Testnet release of the Stegos blockchain. Changes since [Testnet 5](https://github.com/stegos/stegos/releases/tag/v0.5):
+这是Stegos区块链发布的第六个版本的测试网。以下是 [测试网5][1] 以来的相关改进：
 
- - Added HashCash challenge to PubSub protocol to limit denial-of-service attacks
- - Implemented simplified Re-Staking for tracking validators' online status
- - Implemented wallet recovery using 24-word recovery phrase
- - Implemented wallet password protection and encryption of keys stored on disk
- - Split 1 STG to 1 000 000 microSTG.
- - Limited the number of UTXO in transactions and blocks
+- 向PubSub协议添加了HashCash挑战，以限制拒绝服务攻击。
+- 实现了简便的再抵押机制用来跟踪验证者的在线状态。
+- 实现了使用24字符恢复短语来实现钱包备份。
+- 实现了钱包密码保护和存储在磁盘上的私钥加密。
+- 将1 STG拆分为1 000 000 microSTG。
+- 限制交易和区块中的UTXO数量。
 
+重大改进：
 
-Breaking changes:
+TestNet-6和TestNet-5并不兼容，如果你想从之前的版本进行更新，请重新设置你本地的数据库。
 
-TestNet-6 release is not fully compatible with TestNet-5 release. Please reset your local database if you are upgrading from the previous release:
-
+```
 rm -rf database/
+```
 
+请看[项目计划][2]从而获得更多信息。
 
-Check the project plan for additional information: https://github.com/stegos/stegos/wiki/project-plan#sprint15 .
+请加入我们的[电报群][3]来获得测试代币，并且让我们知道你的想法。
 
-Please join us on Telegram to get test tokens and let us know your thoughts: https://t.me/stegos4privacy . 
-
-
-Testnet node installation
+### 测试网代码部署
 
 Linux 64-bit:
 
-curl -L https://github.com/stegos/stegos/releases/download/v0.6/stegos-linux-x64 -o stegos
+```
+curl -L https://github.com/stegos/stegos/releases/download/v0.7/stegos-linux-x64 -o stegos
 chmod a+x stegos
 ./stegos
-
+```
 
 macOS 64-bit:
-
-curl -L https://github.com/stegos/stegos/releases/download/v0.6/stegos-macos-x64 -o stegos
+```
+curl -L https://github.com/stegos/stegos/releases/download/v0.7/stegos-macos-x64 -o stegos
 chmod a+x stegos
 ./stegos
+```
 
-Right after the start the node will print a lot of INFO messages with debugging information regarding bootstrapping your node. Press Enter to get stegos> prompt. To get help enter help command at the prompt.
+
+开始后，节点会打印出很多信息，其中包括部署节点的调试信息。请点击Enter键来获得 stegos> 的prompt，点击help按键可以获得相关帮助。
+
+[1]:https://github.com/stegos/stegos/releases/tag/v0.5
+[2]:https://github.com/stegos/stegos/wiki/project-plan#sprint15
+[3]:https://t.me/stegos4privacy

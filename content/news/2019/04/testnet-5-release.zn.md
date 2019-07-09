@@ -1,56 +1,62 @@
 ---
 author: "Vladimir Lebedev"
 date: 2019-04-24
-linktitle: Testnet 5 Release 20190424
-title: "Testnet 5 Release"
-description: "This is the fifth Testnet release of the Stegos blockchain."
-metaTitle: ""
-metaDescription: ""
-categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology"]
-weight: 8
+linktitle: 测试网5发布 20190424
+title: "测试网5发布"
+description: "这是Stegos区块链发布的第五个版本的测试网。"
+metaTitle: "test"
+metaDescription: "test"
+categories: [ "开发" ]
+tags: ["stegos", "周报", "技术"]
+weight: 7
 draft: false
 ---
 
-Stegos Testnet 5 Release Notes
+## 测试网5发布说明
 
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
+Stegos创建了前沿的技术，其可以保护你的秘密不被窥探，因此你会感觉非常安全且可靠。
 
-This is the fifth testnet release of the Stegos blockchain. Changes since [Testnet 4](https://github.com/stegos
-/stegos/releases/tag/v0.4):
+这是Stegos区块链发布的第五个版本的测试网。以下是 [测试网4][1] 以来的相关改进：
 
- - Added a fork resolution mechanism to consensus and improved handling of network partitions.
- - Implemented basic cheating detection of malicious validators in consensus (without punishment for now).
- - Significantly reduced the time of full sync with the network.
- - Switched to real peer-to-peer unicast messaging with NAT traversal support.
- - Extended WebSocket API to support notifications about blockchain status.
- - Fixed bugs and improved stability of consensus and network subsystems.
+- 增加了一个分叉解决机制，以达成共识，提高网络分区处理速度。
+- 实现了恶意共识验证者的基本作弊检测（现在不处罚）。
+- 显著降低与网络完全同步的时间。
+- 通过NAT遍历支持切换到真正的对等单播消息传递。
+- 扩展的WebSocket API，支持有关区块链状态的通知。
+- 修复了共识和网络子系统的错误并提高了稳定性
 
+重大改进：
 
-Breaking changes:
+TestNet-5和TestNet-4并不兼容，如果你想从之前的版本进行更新，请重新设置你本地的数据库。
 
-TestNet-5 release is not fully compatible with TestNet-4 release. Please reset your local database if you upgrading from the previous release:
-
+```
 rm -rf database/
+```
 
-Check the project plan for additional information.
+请看[项目计划][2]从而获得更多信息。
 
+请加入我们的[电报群][3]来获得测试代币，并且让我们知道你的想法。
 
-Please join us on Telegram to get test tokens and let us know your thoughts.
+### 测试网代码部署
 
+**Linux 64-bit:**
 
-Testnet node installation
-
-Linux 64-bit:
-
-curl -L https://github.com/stegos/stegos/releases/download/v0.5/stegos-linux-x64 -o stegos
+```
+curl -L https://github.com/stegos/stegos/releases/download/v0.7/stegos-linux-x64 -o stegos
 chmod a+x stegos
 ./stegos
+```
 
-macOS 64-bit:
-
-curl -L https://github.com/stegos/stegos/releases/download/v0.5/stegos-macos-x64 -o stegos
+**macOS 64-bit:**
+```
+curl -L https://github.com/stegos/stegos/releases/download/v0.7/stegos-macos-x64 -o stegos
 chmod a+x stegos
 ./stegos
+```
 
-Right after the start the node will print a lot of INFO messages with debugging information regarding bootstrapping your node. Press Enter to get stegos> prompt. To get help enter help command at the prompt.
+
+开始后，节点会打印出很多信息，其中包括部署节点的调试信息。请点击Enter键来获得 stegos> 的prompt，点击help按键可以获得相关帮助。
+
+[1]:https://github.com/stegos/stegos/releases/tag/v0.4
+[2]:https://github.com/stegos/stegos/wiki/project-plan#sprint15
+[3]:https://t.me/stegos4privacy

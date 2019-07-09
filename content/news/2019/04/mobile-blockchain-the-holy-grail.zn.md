@@ -2,9 +2,9 @@
 author: "The Stegos Team"
 date: 2019-04-17
 linktitle: Mobile Blockchain 20190417
-title: "Mobile Blockchain - The Holy Grail"
+title: "移动端区块链 – 我们追求的理想"
 description: "Decentralized apps need a decentralized message bus to allow them to communicate with each other using the blockchain as an agreed source of information. We’re developing this at Stegos, and it’s important enough to warrant its own article."
-metaTitle: ""
+metaTitle: "移动端区块链 – 我们追求的理想"
 metaDescription: ""
 categories: [ "OVERVIEW" ]
 tags: ["stegos", "mobile", "technology", "blockchain"]
@@ -12,81 +12,72 @@ weight: 10
 draft: false
 ---
 
-The Holy Grail
+### 追求的圣杯
 
-Mobile blockchain is the crypto Holy Grail. If we're creating a global decentralized network of millions of users, we'll want it to run on the simplest devices possible. But this has often been dismissed as too difficult, so developers either treat smartphone support as a long-term goal (which they never get to), completely neuter the capabilities of their mobile nodes, or ignore them entirely.
+移动端区块链是加密货币行业都在追求的理想圣杯。如果我们想要为数百万人创建全球化去中心化网络，那么我们必须要保证它会在尽可能方便的设备上运行。但是现在的情况下，这显得非常困难，因此开发者要么把移动端的开发作为长期的目标（现在还无法完成），或者放弃他们移动节点的功能，又或是直接忽视它们。
 
-But that’s completely the wrong approach. Mobile nodes should be the cornerstone around which public blockchain projects are developed. The logic is simple: Public blockchains need the public, and the public have smartphones. They’re comfortable with apps, and they’re happy to run and install them. If your public blockchain can’t provide that, it’s never going to get off the ground. That's why with Stegos we're making sure that mobile nodes are a viable way for everyone to participate in validating and maintaining the Stegos privacy blockchain and earn STG tokens.
+但是这是完全错误的方式。移动节点应该是公链项目开发的基石。这个逻辑很简单：公链需要公众的支持，而公众最常用的是移动设备。移动设备非常适配APP应用，并且公众也很乐意下载安装这些应用。如果你的公链无法做到，那么就不可能落地。这是为什么Stegos需要确保移动节点对于任何人来说都是很方便的方式，从而让他们乐于参与到验证和维护Stegos隐私公链，同时获得STG代币奖励。
 
-Previously, I wrote about adoption and incentives as the way to thaw the crypto winter. There’s a lot more detail in that article, but the essence is we need to stop chasing some magic use case and take a sustained, two-phase approach to adoption.
+之前，我写了关于将应用和激励作为化解加密货币寒冬的方式。本文中涵盖了更多的细节，但是前提是我们需要停止追求一些很难实现的案例，而是专注于可持续发展、两阶段的方式来进行应用落地。
 
-Phase one is to target current crypto enthusiasts and meet their desire for tokens while shifting them to a more active role in maintaining the blockchain. Most users are already keen to make this transition, but the process is usually too difficult, requires too much ongoing effort, requires hardware they can’t afford or even access, or the rewards for participation are simply too low.
+第一个阶段的目标是加密货币爱好者，因此我们需要让他们更加主动地来支持区块链，从而满足他们对于代币的愿望。大多数用户都很想进行交易，但是过程通常都会很麻烦，需要花费很大的力气，同时也需要很多普通用户无法承担的硬件设备，又或者参与网络只能获得很少的奖励。我们需要最小化用户加入的门槛，同时也需要为参与者提供有价值的回报。
 
-We need to minimize barriers to participation while still requiring and meaningfully rewarding that participation.
+一旦核心参与用户的数据库完成，外部的加密货币爱好者则更愿意关注到且加入。然而，为第二阶段的移动端用户提供服务，则其实是相对简单的技术问题，当然现在的去中心化应用数据显示这其实并非是个很简单的事情。去中心化应用需要去中心化信息总线来通过区块链作为可信的信息来源来进行互相沟通。我们正在Stegos上开发这个应用，而且完成这部分应用是非常重要的。
 
-Once the core active user base is established, crypto outsiders are much more likely to take notice and join. Catering to phase two users on mobile is actually the easier technological proposition, although the number of currently viable decentralized apps shows that it’s still not a cakewalk.
+不过最要紧的是，如果没有第一阶段的加密货币爱好者，对于第二阶段的落地总是显得痴人说梦，哪怕现在我们有了这样的技术。因此，我们需要探讨如何才能让用户获得需要的东西：一种能够让他们积极参与区块链的方式，并且通过手机也能获得代币奖励。
 
-Decentralized apps need a decentralized message bus to allow them to communicate with each other using the blockchain as an agreed source of information. We’re developing this at Stegos, and it’s important enough to warrant its own article.
+### 突破共识算法的瓶颈
 
-But first things first. Without the phase one crypto enthusiasts, the mass adoption of phase two will always remain a dream, even with the right technology to support it. So let’s talk about how to give those enthusiasts what they want and what crypto needs: a way to actively participate in maintaining a blockchain and earning tokens from their phones.
+什么才是移动端区块链系统的技术障碍？
 
+维护区块链系统是复杂且需要资源的，但是移动设备和电脑比起来，只有非常有限的存储空间以及处理能力。同时，移动设备的网络连接也更加不稳定。移动端节点对于区块链系统非常重要，但是当我们想要创建的时候，却发现了这些问题。
 
-Cutting Through the Consensus Debate
+很多人都在说比特币缺少扩容性，但是当你对某个系统投入更多精力，你希望有等比例的产出（由于经济通胀，或许你能得到更多回报）。但是，由于工作量证明共识机制是为了维护普通的区块周期，无论多少矿机在竞争挖矿，或者有多少人加入系统，比特币仍然是大约每10分钟生生成1MB大小的区块。如果增加更多挖矿算力，这也只是让挖矿更加困难，并且也很难去进行挖矿所需的计算。
 
-So what are the technical barriers to blockchain on mobile?
+这甚至对于移动端来说就不是个问题。就这点来看，算力竞争只是富人的游戏。
 
-Maintaining a blockchain is complicated and resource-intensive, but mobile devices have extremely limited storage and processing capabilities compared to standard computers. They also have much less reliable connectivity. All of these cause problems when trying to create viable mobile nodes which play a meaningful role in maintaining a blockchain.
+因此在Stegos平台上，我们的验证节点使用了某种权益证明机制。权益证明无需非常消耗能源的计算，因此对于移动设备来说非常合适。
 
-Much has been written about Bitcoin’s lack of scalability. Normally when you put more energy into a system, you expect to get proportionally more out of it (or maybe even better than that, thanks to economies of scale). However, because the Proof-of-Work consensus mechanism is designed to maintain a regular block interval above all else, it doesn’t matter how much electricity competing mining pools burn through or how many users join, Bitcoin still produces a 1MB block of transactions approximately every 10 minutes. Adding more mining power just makes it harder and harder to perform the calculations needed to generate the blocks.
+关于工作量证明和权益证明有很多的争论：区块链如果没有移动端，那么就无法获得足够的用户，工作量证明在移动端是不可能实现的，因此权益证明才是正确的选择。就是这么简单。
 
-This isn’t even a mobile issue. At this point, the hardware required to compete in the Proof-of-Work hashing race is beyond the reach of all but the wealthiest users.
+另一个关于扩容问题的争论是交易吞吐量，比特币现在的每秒转账数为7，而Visa的TPS是1700（这个数字竟然会被误传为15,000或者50,000）。
 
-So at Stegos we’re using a version of Proof-of-Stake for our validator nodes. Proof-of-Stake requires no resource-intensive calculations, so it’s perfectly viable for mobile.
+大多数项目都误解了这个问题。他们看到VISA的理论值可以达到1万TPS，因此都想去追赶它，于是都在想办法去完成每秒上千的转账，却没有发现这会让扩容更差，而不是更好。
 
-Note how adopting this perspective cuts through all the debate surrounding Proof-of-Work versus Proof-of-Stake: blockchains can’t get enough users without full mobile support, Proof-of-Work is impossible on mobile, so Proof-of-Stake is the right choice. Simple.
+比特币区块链现在的大小达到了200GB，尽管它的每秒转账数量为10次。假设你的项目可以达到1000TPS，那么你的数据存储量会是巨大的，因此一年内，你的区块链就必须要通过很多超大服务器才能运行。
 
-The Throughput Race to Nowhere
-The another much-debated scalability problem is transaction throughput, with Bitcoin’s plodding 7 tps (transactions per second) regularly compared to Visa’s zippy 1,700 tps (although that number is often completely misrepresented to be 15,000 or even 50,000).
+每笔转账都会让区块链永久的变大，并且更加笨拙。如果我们希望运行手机节点，那么这点就需要进行改变：如果一个区块链对于移动端来说已经过大，那么每个新区块都会让整个事情更加糟糕。
 
-Most projects misunderstand the issue here. They've seen that VISA theoretical maximum of 10,000+ tps and have rushed to top it, finding ways to provide hundreds of thousands of transactions per second, without seeing that this makes scalability worse, not better.
+但是区块链真的必须变得那么笨拙吗？
 
-Even at under 10 tps, the Bitcoin blockchain is going to hit 200GB soon. Saying your project can increase tps 1,000-fold or god forbid 10,000-fold without a way to address storage is tantamount to admitting your chain is just going to be running on a handful of megaservers within a year.
+### 删减和隐私
 
-Every transaction makes the blockchain permanently larger and more unwieldly. That needs to change if we stand a hope of making viable smartphone nodes: if a chain is already punishingly large for mobiles now, the probem is only going to get worse with each new block.
+在不影响主链的情况下同时删减区块链数据，这其实是可能的。我们称之为“删减”，其实在比特币白皮书中也提到了这点。
 
-But does the blockchain really need to be that unwieldy?
+参照比特币的做法，Stegos会使用UTXO方式，这会从每笔交易中追踪还没有消费的代币。因此如果我从1个区块奖励为25STG开始，那么我给你转5个STG，这就创建了20STG的UTXO。通过追踪所有这些消费和未消费的代币，能够确保没有代币会花费两次，同时也没有多余的代币产生。
 
+这个系统和账户类型的方式相反，例如以太坊就是通过使用账户余额的方式来进行，这更像是传统的银行。
 
-Pruning and Privacy
+UTXO方式没有那么直观（这会让智能合约更加复杂，但是没有很大的损失），但是对于隐私和扩容性却有着很大的好处。最为重要的是，一旦UTXO全部消费，我们就无需再去关注它。网络达成了共识，因此我们知道这是个合法的交易，而且这些代币再也无法进行消费，因此我们可以很安全地移除这些历史信息。我们会保留所有的区块头部，因此这些对于维持从创世区块到现在区块的链是必要的，但是区块内的有些内容是可以删除的。
 
-It is actually possible to remove data from a blockchain without harming the integrity of the chain. This is called pruning, and in fact it’s discussed in the original Bitcoin paper.
+那么，为何比特币区块链并没有进行删减呢？比特币所有的交易记录都是可见的。这意味着所有的交易数量以及地址总是可见。因此，所谓的隐私就是来自于地址的匿名性。我们不去深究这是个好主意还是坏主意（简单回答：坏主意），但是类似Stegos这样的隐私币会故意让这些信息变得模糊，从而保证欺诈者无法解密区块链。因此，在Stegos区块链上，我们可以删除那些已经消费的UTXO信息，因为对于隐私区块链来说，这其实没有意义。
 
-Like Bitcoin, Stegos uses the UTXO method, which tracks the unspent coins from each transaction. So if I start with 25 STG from a block reward, and then send you 5, this creates a UTXO of 20 STG. Keeping track of all these spent and unspent coins ensures that no coins can be spent twice and no coins are created out of thin air.
+为何其他的隐私币没有这么做？不幸地是，很多隐私项目已经使用了无法扩容的加密算法，这导致它们无法对区块链进行删减。例如，基于零知识证明的代币依赖于累加器，这源于每个挖出来的代币。很不幸，这是无法删减的，因为这种设计无法知悉哪些代币已经消费，哪些代币并没有。
 
-This system is in contrast to the account method, used by coins like Ethereum, which works using accounts and balances, much like a traditional bank would.
+Stegos使用了其他方法。我们使用了中本聪白皮书的方式，来对Stegos区块链进行删减。这会让整个链足够小，从而可以运行移动手机节点，至少从存储角度来说是可以的。
 
-The UTXO method is less intuitive (notably it makes smart contracts more complicated to implement, but that's no great loss), but it has strong advantages for both privacy and scalability. Most helpfully, once a UTXO has been fully spent, we don’t need to care about it any more. The network reached consensus, so we know that it was a legitimate transaction, and those coins can never be spent again, so we can safely remove them from the history of the chain. We keep all the block headers, because those are needed to maintain the link back to the Genesis block, but certain contents of the blocks can be discarded.
+### 用户参与
 
-So why isn’t the Bitcoin chain pruned? Bitcoin has full transaction visibility. This means that all transaction amounts and addresses are visible at all times. Privacy, such as it is, comes from the pseudonymous nature of the address system. We won’t get into the details of why that’s a good or bad idea (short answer: bad idea), but privacy coins like Stegos deliberately obscure this information to ensure that malicious actors can’t deanonymize the chain. So at Stegos we can happily discard transaction information about spent UTXOs, because it serves literally no purpose in our privacy chain.
+之前的文章篇幅，我解释了对于移动区块链系统，应该选择工作量证明还是权益证明。
 
-Why don’t other privacy coins do this? Unfortunately, a lot of privacy projects have adopted extremely clever but ultimately unscalable cryptographic approaches which have made their chains unprunable. For example, coins based on zk-SNARKS rely on an ever-growing number called an accumulator which is derived from every coin which has even been minted. Unfortunately, this can never be pruned because by design no-one knows for sure which coins have and haven’t been spent.
+接下来，更为复杂的是我们如何才能打造合适的权益证明算法，才能让移动手机也能使用。移动节点无法总是在线，这对于有些权益证明机制来说是个问题。通常的解决方案是限制移动节点的功能，但是这就和我们最初的观点违背。
 
-Stegos takes a different approach. We use a version of the pruning method from Satoshi’s original paper to aggressively prune the Stegos chain after every block. This will keep the chain small enough to make smartphone nodes viable, at least from a storage perspective.
+Stegos使用了一种共识机制，它对于这些网络连接问题显得非常稳定。基于节点持有的权益抵押，我们选出相应的节点成为团队领导者，其他的节点也会有不同的角色，包括管理转进交易，验证区块，或者运行分布式随机算法。大多数节点会进入待命状态，直到下个活跃的验证节点被选出。
 
+这些角色都很容易完成，并且还很稳定，这意味着整个流程在有些节点掉线的情况下也可以完成。尽管领导者掉线，但是网络会快速发现，并且让进行另一个选举。Stegos也会应用分片技术，因此整个网络会有多个领导者选出。
 
-Participation
+### 触手可及的圣杯
 
-Earlier I explained why the choice between Proof-of-Work and Proof-of-Stake is a no-brainer for mobile blockchain.
+在我们想要完成通过移动端运行区块链这个想法之前，还有很多的问题需要解决。此篇文章中提到的想法可以让移动端节点实现，但是这需要用户连接到无限互联网，并且保证在运行Stegos节点的时候手机是充电的。但基本原理是，通过打造Stegos网络以及移动端节点，Stegos更容易形成大规模应用，而且比起同类的项目，更抵制中心化。
 
-What’s less simple is how to make a version of Proof-of-Stake which isn’t disrupted by the connectivity problems associated with smartphones. Mobile nodes can’t be relied upon to always be online, which can be a problem for certain versions of Proof-of-Stake. One common solution is to limit the role played by mobile nodes, but this runs contrary to our primary goal of making smartphone nodes a viable way to participate and earn rewards.
-
-Stegos adopts a consensus mechanism which is extremely robust in the face of connectivity issues. Nodes are elected to become group leader based on the size of their current stake. Other nodes are chosen to fulfil various roles, including managing incoming transactions, verifying the block proposed by the leader, or running the distributed randomness algorithm which powers many of Stegos’ processes. Most nodes simply go into standby mode until the next group of active validators are chosen.
-
-These roles are all simple to perform and robust, meaning the processes can complete even if some nodes drop out. Even if the leader goes offline, the network will quickly notice and call another leadership election. Stegos will also adopt sharding, so there will be multiple leaders elected across the entire network.
-
-
-The Grail in Reach
-
-There are still going to be wrinkles to work out before we can reach the dream of a blockchain node running out of everyone's pocket. The innovations explained above make mobile nodes viable, but they still strongly favour users who are connected over wireless Internet or are able to leave their phones plugged in and charged while they run their Stegos node. But the fundamentals are there, and by building the Stegos network from the ground up with mobile nodes in mind, Stegos is much better poised for mass adoption and to resist centralization than comparable projects.
-
-Stegos implements lots of other features to ensure that individual users feel incentivized to run a Stegos node and maintain the network. The most notable is our modification to standard Proof-of-Stake, which we call Gameified Proof-of-Stake (gPoS). gPoS introduces a Validator service award, an accumulating prize which is randomly awarded to any user who has been an active validator during the last reward cycle, regardless of whether they were chosen as group leader. This gives everyone who contributes a chance of earning tokens, not just the highest stakers. We'll be talking about this and other features aimed at fostering adoption in a future article on mobile blockchain.
+Stegos应用了很多功能，从而确保用户能够受到激励去运行Stegos节点，并且维护网络。最重要的是我们对于传统权益证明的修改，我们称之为赌注权益证明（gPoS）。gPoS会让验证者获得服务奖励，这是个累计的奖励，而且会随机给到任何成为活跃验证节点的用户，无论他们是否被选为小组领导者。这让所有的贡献者都有获得代币的机会，而不仅仅是那些拥有最高代币权益的人。在以后的文章中，我们会讨论这个，以及其他推动应用落地的功能。

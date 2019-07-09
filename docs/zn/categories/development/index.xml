@@ -6,80 +6,39 @@
     <description>Recent content in DEVELOPMENT on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/zn/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tech Report May, 6th - May, 17th</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      <title>技术双周报 5.20-5.31</title>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-20th-may-31st/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-6th-may-17th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-Here is what we accomplished in the period May, 6th — May, 17th:
-Done in Sprint 16
- New StakeUTXO, Core Blockchain, StakeUTXOs with BLS signatures Public payment UTXO, Core Blockchain, UTXO with uncloaked recipient pubkey and amount Adding time locks to all UTXO types, Core Blockchain, allow UTXOs to be time-locked Introducing micro and macro blocks, Core Blockchain, adding more security to microblocks Slashing, Consensus, punishing the cheating slot owner for publishing two different blocks on the same height Re-Staking, Consensus, changing validators’ PBC keys related to staked tokens at the predetermined intervals Stabilize ValueShuffle facilitating in the event of epoch change, ValueShuffle, fine-tuning of the Facilitator code Change PBC keys: network, Network, support for changing node’s pbc (validator) keys on the go Check for stale connections, Network, check if some neighbor connections are stale and re-connect Stress Testing: Deploy TxGenerator, Testing, transaction generator deployment support for devnets Use AONT (All or Nothing) for all serialized representation of secrets, Security, additional security for in-memory representations of secrets Implement WAU (Wipe After Use) for all secrets, Security, additional security for in-memory representations of secrets  Plans for Sprint 17</description>
-    </item>
-    
-    <item>
-      <title>Testnet 6 Release</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/</link>
-      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/testnet-6-release/</guid>
-      <description>Stegos Testnet 6 Release Notes
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
-This is the sixth Testnet release of the Stegos blockchain. Changes since Testnet 5:
- Added HashCash challenge to PubSub protocol to limit denial-of-service attacks Implemented simplified Re-Staking for tracking validators&amp;rsquo; online status Implemented wallet recovery using 24-word recovery phrase Implemented wallet password protection and encryption of keys stored on disk Split 1 STG to 1 000 000 microSTG.</description>
-    </item>
-    
-    <item>
-      <title>Tech Report Apr, 22nd - May, 3rd </title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-apr-22nd-may-3rd/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-Here is what we accomplished in the period April, 22nd — May, 3rd:
-Done
- Finalize HashCash integration, Network, required to prevent DoS-attacks Stress Testing: Transactional Load Generator, Testing, the part of test harness Determine major blockchain constants: Maximum UTXOs per Block, Epoch Length &amp;amp; Block Time, Consensus, those are important parameters of the consensus protocol Wallet Recovery, Wallet, required to recover wallet keys using 24-word recovery phrase Key Encryption on the Disk, Wallet, implement safe storage of keys on disk Proof of UTXO Construction, Wallet, a feature allowing to prove that a particular transaction has taken place in the past  In progress</description>
-    </item>
-    
-    <item>
-      <title>Tech Report Apr, 8th - Apr, 19th</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-apr-8th-apr-19th/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-apr-8th-apr-19th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-The following tasks were completed in the period April,8th — April, 19th:
-Done
- Kademlia DHT-based routing, Network, base networking functionality for unicast messages Research xPIR, Experimental, research the possibility of using private information retrieval protocols to secure light nodes Websocket Wallet API Enhancements Fork Resolution, Consensus, this is an essential part of the consensus protocol Rollback of Payment Transactions in Wallet, Wallet, this mechanism is needed due to fork resolution Limit the Number of Outputs in a Block, Core Blockchain, required to prevent traffic jams in the network Stabilize Network, Network, testing and bug fixing Stabilize Consensus, Consensus, testing and bug fixing Split 1 STG to 1 000 000 Units (microSTG), Core Blockchain, required to have fractional STG units  Plans for Sprint 15</description>
-    </item>
-    
-    <item>
-      <title>Testnet 5 Release</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/04/testnet-5-release/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/04/testnet-5-release/</guid>
-      <description>Stegos Testnet 5 Release Notes
-Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
-This is the fifth testnet release of the Stegos blockchain. Changes since Testnet 4:
- Added a fork resolution mechanism to consensus and improved handling of network partitions. Implemented basic cheating detection of malicious validators in consensus (without punishment for now). Significantly reduced the time of full sync with the network.</description>
-    </item>
-    
-    <item>
-      <title>“Tech Report Mar, 25th - Apr, 5th”</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/</link>
-      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/04/tech-report-mar-25th-apr-5th/</guid>
-      <description>During the last two weeks our development team has been working hard to finalize major features of the upcoming testnet release.
-The following tasks were completed in the period April, 2nd — April, 15th:
- Investigate packet loss in libp2p, Network, fixing a bug with lost packets related to the usage of Cuckoo-filters View Changes for Micro Blocks, Consensus, view change is an essential part of the consensus protocol View Changes for Key Blocks, Consensus`, view change is an essential part of the consensus protocol Determine Epoch Length &amp;amp;&amp;amp; Block Time, Consensus, epoch length and block time are important parameters of the consensus protocol HashCash Algorithm, Network, nodes have to solve HashCash puzzles in order to join the network to prevent Sybil attacks Unicast Messages Encryption, Network, unicast messages traveling over Kademlia DHT network have to be encrypted Test cases for block validation, Core Blockchain, part of the functional testing harness RaptorQ Encoder/Decoder, Network, required to create optimized protocol for transmission of blocks/other large messages  In-progress:</description>
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/05/tech-report-may-20th-may-31st/</guid>
+      <description>上两周，开发团队完成了测试网的主要功能。
+以下任务于5月20日 - 5月31日完成：:
+Sprint17完成的任务  [节点] 完成加速节点的引导程序和重新同步，微调引导程序的常数。
+ [核心] 完成服务奖励的激励，以保证验证者能够一直在线。
+ [共识] 将小区块压缩进入大区块，通过将小区块的数据移到单独的大区块中，从而移除最后epoch的小区块。
+ [加密学] 优化bulletproof算法，现在单个bulletproof验证是10毫秒（不含AVX优化）
+ [网络] 修复HashCash协议的bug，以及其他bug。
+ [共识] 修复小区块分叉解决方案的bug，以及其他bug。
+ [核心] UTXO时间戳锁定，部署UTXO锁定。
+ [核心] PublicPaymentUTXO: 增加TX验证规则，为关于公开支付UTXO的交易提供更多交易验证规则。
+ [钱包] PublicPaymentUTXO: 钱包支持，部署公开支付UTXO在钱包中的使用。
+  Sprint18的计划  [钱包] GUI钱包桌面应用的基础功能，部署驱动程序可视化，账户和支付功能。
+ [安全] 提高Docker图片的安全性，增强节点docker图片的安全性。
+ [核心] 引入各类交易费用，可以设定随机交易费用，从而提高交易被包含进入最近区块的概率。
+ [钱包] 保留付款历史记录和付款证书，需要在钱包中显示付款记录。
+ [核心] 使用Base58作为钱包公钥（地址）的外部代表，提高更加友好的地址代码编译。
+ [安全] 部署WebSocket API认证，使用API代币作为验证WebSockets API，甚至是在本地服务器。
+ [安全] 支持修改钱包密码，提供能让用户修改钱包密码的功能。
+ [测试]：压力测试：打包延迟和损失，测试模块的一部分。
+ [测试]：压力测试，大量节点测试，测试模块的一部分。
+ [测试] 压力测试：区块链、共识、服务奖励、隐藏、ValueShuffle，通过从交易生成器中获得的交易载荷来进行压力测试。
+ [核心][钱包] 引进不同的交易手续费，能够设置随机的交易手续费，从而提高交易被最近区块包含的可能性。</description>
     </item>
     
     <item>

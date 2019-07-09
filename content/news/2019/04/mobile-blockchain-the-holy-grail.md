@@ -4,8 +4,8 @@ date: 2019-04-17
 linktitle: Mobile Blockchain 20190417
 title: "Mobile Blockchain - The Holy Grail"
 description: "Decentralized apps need a decentralized message bus to allow them to communicate with each other using the blockchain as an agreed source of information. We’re developing this at Stegos, and it’s important enough to warrant its own article."
-metaTitle: ""
-metaDescription: ""
+metaTitle: "Mobile Blockchain - The Holy Grail"
+metaDescription: "Decentralized apps need a decentralized message bus to allow them to communicate with each other using the blockchain as an agreed source of information. We’re developing this at Stegos, and it’s important enough to warrant its own article."
 categories: [ "OVERVIEW" ]
 tags: ["stegos", "mobile", "technology", "blockchain"]
 weight: 10
