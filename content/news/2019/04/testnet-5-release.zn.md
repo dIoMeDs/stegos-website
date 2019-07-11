@@ -4,8 +4,8 @@ date: 2019-04-24
 linktitle: 测试网5发布 20190424
 title: "测试网5发布"
 description: "这是Stegos区块链发布的第五个版本的测试网。"
-metaTitle: "test"
-metaDescription: "test"
+metaTitle: "测试网5发布"
+metaDescription: "这是Stegos区块链发布的第五个版本的测试网。"
 categories: [ "开发" ]
 tags: ["stegos", "周报", "技术"]
 weight: 7
