@@ -1360,7 +1360,8 @@ main {
   height: 100%;
   position: fixed;
   z-index: 100;
-  top: 0; }
+  top: 0;
+  display: none; }
   .video_sector .video_cont {
     width: 800px;
     height: 800px;
