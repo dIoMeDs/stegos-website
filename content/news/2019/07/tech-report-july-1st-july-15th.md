@@ -36,3 +36,8 @@ Sprint 21 will hopefully be the final sprint before the mainnet launch. We’ll 
 We’ll also be putting the finishing touches to the wallet app, to ensure that everyone has a smooth experience with Stegos right out of the gate.
 
 As always, if you want to help with testing, contact us in the Telegram group to request some test tokens.
+
+### Feedback
+
+Please join us on [Telegram Chat](https://stg.to/tgc) to get test tokens and let us know your thoughts.
+Subscribe to official [Telegram Channel](https://stg.to/tgn) for the latest news.
