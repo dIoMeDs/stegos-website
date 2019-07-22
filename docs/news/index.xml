@@ -6,10 +6,20 @@
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Technical Progress Report July, 1st - July, 15th</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-1st-july-15th/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-1st-july-15th/</guid>
+      <description>Development Report July 1st – July 15th Hello, and welcome to the Stegos Development report for our 20th Sprint, covering the period from July 1st through July 15th.
+The entire development team has been firing on all pistons in preparation for the launch of our mainnet. With the launch just a few weeks away, most of our hard work has been geared towards testing the blockchain and putting finishing touches to the Stegos app.</description>
+    </item>
     
     <item>
       <title>Mainnet Preview 3</title>
