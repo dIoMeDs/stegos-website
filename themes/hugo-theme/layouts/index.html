@@ -143,7 +143,7 @@
             <div class="m_links_icons_block desktop_display">
                 {{ $data := index .Site.Data (printf "links_%s" .Site.Language.Lang ) }}
                 {{ range $data}}
-                <a href={{ .linkURL | safeHTML }} class="icon_link">
+                <a href={{ .linkURL | safeHTML }} target="_blank" class="icon_link">
                     <i class="fab {{ .linkIcon }}"></i>
                 </a>
                 {{ end }}
