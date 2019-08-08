@@ -3,9 +3,9 @@ author: "Vladimir Lebedev"
 date: 2019-08-08
 linktitle: Stealth Mode Deactivated 20190808
 title: "Stealth Mode Deactivated"
-description: "In preparation for its mainnet launch and public sale, Stegos CEO Joel Reymont announces a surprise for all Stegos investors: 2X tokens."
+description: "In preparation for our mainnet launch and public sale, Stegos CEO Joel Reymont announces a surprise for all Stegos investors."
 metaTitle: "Stealth Mode Deactivated"
-metaDescription: "In preparation for its mainnet launch and public sale, Stegos CEO Joel Reymont announces a surprise for all Stegos investors: 2X tokens."
+metaDescription: "In preparation for our mainnet launch and public sale, Stegos CEO Joel Reymont announces a surprise for all Stegos investors."
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "report", "technology"]
 weight: 7
@@ -33,7 +33,7 @@ So when will the launch be? I know there’s nothing worse in crypto than hearin
 Next week I’ll be holding an AMA (Ask Me Anything) session where I’ll be answering all your burning questions about mainnet, this double token reward, and more. Details to be confirmed very soon, so start thinking about what you want to ask!
 What else?
 
-Finally, we've been planning something extremely exciting on the community and marketing side. It’s something which has never been tried before in crypto and we're sure you're going to love it. I know I promised we’d be sharing more information from now on, but this is so awesome I'm going to enjoy the feeling of keeping you in suspense for just a few weeks more... (But keep a close watch on our Telegram channel and you might get some hints…)
+Finally, we've been planning something extremely exciting on the community and marketing side. It’s something which has never been tried before in crypto and we're sure you're going to love it. I know I promised we’d be sharing more information from now on, but this is so awesome I'm going to enjoy the feeling of keeping you in suspense for just a few weeks more... (But keep a close watch on our [Telegram Channel](https://stg.to/tgn) and you might get some hints…)
 I’ll be in touch again soon with the details of the AMA and the next steps for claiming your double tokens.
 Until then,
 Joel
