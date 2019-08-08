@@ -3,9 +3,9 @@ author: "Vladimir Lebedev"
 date: 2019-08-08
 linktitle: Stealth Mode Deactivated 20190808
 title: "Stealth Mode Deactivated"
-description: ""
+description: "In preparation for its mainnet launch and public sale, Stegos CEO Joel Reymont announces a surprise for all Stegos investors: 2X tokens."
 metaTitle: "Stealth Mode Deactivated"
-metaDescription: ""
+metaDescription: "In preparation for its mainnet launch and public sale, Stegos CEO Joel Reymont announces a surprise for all Stegos investors: 2X tokens."
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "report", "technology"]
 weight: 7
