@@ -270,8 +270,19 @@ chmod a+x stegosd
 
 <p>При первом запуске Нода создаст директорию <code>$HOME/.local/share/stegos</code> на Linux или <code>$HOME/Library/Application Support/stegos</code> на Mac. Эта директория имеет следующую структуру:</p>
 
-<pre><code>[#таблица (которая синяя)!!!!!!!!!]
-    
+<pre><code>    ├── accounts/  &lt;!-- Accounts
+    │   ├── 1
+    │   │   ├── account.pkey &lt;!-- Account #1 public key (address)
+    │   │   ├── account.skey &lt;!-- Account #2 secret key (address)
+    │   │   └── history/     &lt;!-- Payment History (RocksDB)
+    │   └── 2
+    │       ├── account.pkey &lt;!-- Account #1 public key (address)
+    │       ├── account.skey &lt;!-- Account #2 secret key (address)
+    │       └── history/     &lt;!-- Payment History (RocksDB)
+    ├── api.token            &lt;!-- Generated API Token
+    ├── chain/               &lt;!-- Blockchain (RocksDB)
+    ├── network.pkey         &lt;!-- Ephemeral network (consensus) public key.
+    ├── network.skey         &lt;!-- Ephemeral network (consensus) secret key.
 </code></pre>
 
 <p>Нода начнет синхронизацию с сетью и напечатает много информационных сообщений с отладочной информацией о состоянии синхронизации.</p>
