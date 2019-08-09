@@ -3,9 +3,9 @@ author: "Vladimir Lebedev"
 date: 2019-08-08
 linktitle: Stealth Mode Deactivated 20190808
 title: "Режим невидимости отключен"
-description: "Важное сообщение для инвесторов Stegos от Джоэля Реймонта, руководителя проекта."
+description: "Важное сообщение для инвесторов Stegos от Джоэля Реймонта, руководителя проекта"
 metaTitle: "Режим невидимости отключен"
-metaDescription: "Важное сообщение для инвесторов Stegos от Джоэля Реймонта, руководителя проекта."
+metaDescription: "Важное сообщение для инвесторов Stegos от Джоэля Реймонта, руководителя проекта"
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "отчет", "технология"]
 weight: 7
