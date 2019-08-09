@@ -14,6 +14,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/07/88-news/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://diomeds.github.io/stegos-website/ru/news/2019/07/88-news/"
                 />
