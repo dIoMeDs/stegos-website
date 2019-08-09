@@ -6,10 +6,45 @@
     <description>Recent content in отчет on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/ru/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Режим невидимости отключен.</title>
+      <link>https://diomeds.github.io/stegos-website/ru/news/2019/07/88-news/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/07/88-news/</guid>
+      <description>Режим невидимости отключен
+##Уважаемое сообщество!
+Прежде всего я хотел бы извиниться за длительное отсутствие новостей: когда вы так серьезно относитесь к конфиденциальности, как мы в Stegos, бывает очень трудно найти правильный баланс между секретностью и открытостью!
+Будьте уверены, вся команда за кулисами упорно работает над блокчейном Stegos, основным приложением и создает действительно много нового маркетингового контента, но я лично до сих пор не сделал достаточно, чтобы держать вас, наше лояльное сообщество, в курсе.</description>
+    </item>
+    
+    <item>
+      <title>Основная сеть, предварительный релиз 4</title>
+      <link>https://diomeds.github.io/stegos-website/ru/news/2019/07/mainnet-4-release/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/07/mainnet-4-release/</guid>
+      <description>Stegos создает передовые технологии, которые защищают ваши секреты от посторонних глаз, чтобы вы чувствовали себя в безопасности.
+Этот исправляет более 100 проблем и потенциальных уязвимостей с момента Mainnet Preview 3.
+Новое в Stegos v0.11:  Улучшена общая стабильность и производительность протокола Snowball, теперь Snowball надежно работает даже на медленных мобильных соединениях 3G/4G. Произведен тюнинг основных констант и ограничений блокчейна для достижения целей по инфляции, теперь новый блок создается каждые 6-8 секунд.</description>
+    </item>
+    
+    <item>
+      <title>Технический отчет, 1 июля - 15 июля</title>
+      <link>https://diomeds.github.io/stegos-website/ru/news/2019/07/tech-report-july-1st-july-15th/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/07/tech-report-july-1st-july-15th/</guid>
+      <description>Отчет разработчиков за 1 июля - 15 июля Добро пожаловать в отчет о развитии Stegos в двадцатом спринте, охватывающим период с 1 по 15 июля.
+Вся команда разработчиков была занята &amp;ldquo;по полной&amp;rdquo; в рамках подготовки к запуску нашей основной сети. До запуска всего несколько недель, поэтому большая часть нашей работы была направлена на тестирование блокчейна и последние штрихи к приложению Stegos.
+Улучшение приложения
+Мы добавили несколько функций в приложение Stegos wallet, включая поддержку нескольких учетных записей в одном кошельке.</description>
+    </item>
     
     <item>
       <title>Основная сеть, предварительный релиз 3</title>
