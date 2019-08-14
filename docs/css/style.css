@@ -991,6 +991,9 @@ main {
 .team_block .photo_vol {
   background: url("../images/Volodymyr-Motylenko.png") center no-repeat;
   background-size: cover; }
+.team_block .photo_drew {
+  background: url("../images/Drew.png") center no-repeat;
+  background-size: cover; }
 .team_block .team_btn {
   width: 100px; }
   .team_block .team_btn .b_b_text {
