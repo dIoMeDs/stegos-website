@@ -6,6 +6,8 @@ infoFull: "Drew is an industrial engineer who ventured into the marketing space 
 link: "#p_drew"
 id: "p_drew"
 photo: "photo_drew"
+socialLink: "https://www.linkedin.com/in/andrew-azarias-b6876612"
+socialIcon: <i class="fab fa-linkedin-in"></i>
 sort: "7"
 draft: false
 ---
