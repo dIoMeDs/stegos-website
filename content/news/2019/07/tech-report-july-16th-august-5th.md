@@ -38,3 +38,18 @@ Stegos is fully private, but it’s still important for users to be able to chec
 - Usability boost
 
 We’ve made various upgrades to improve usability, including new command-line and configuration options to the node and CLI, reduction of noisy notifications in the command-line client, and improved usability of WebSocket API. We’ve re-arranged the data directory layout and changed default paths to meet Linux and Mac guidelines, so the code will be easier to follow.
+
+- Further stress testing
+
+We’ve continued our stress testing of vital subsystems using an automated transaction generator.
+
+- Upcoming Tasks
+
+Sprint 22 will focus on final stress testing before mainnet launch. We’ll be publishing the first version of the GUI wallet in preparation for public testing.
+
+As always, if you want to help with testing, contact us in the Telegram group to request some test tokens.
+
+### Feedback
+
+Please join us on [Telegram Chat](https://stg.to/tgc) to get test tokens and let us know your thoughts.
+Subscribe to official [Telegram Channel](https://stg.to/tgn) for the latest news.
