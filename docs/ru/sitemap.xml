@@ -25,6 +25,28 @@
   </url>
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/ru/news/2019/08/88-news/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/08/88-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/08/88-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/08/88-news/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/ru/news/2019/07/mainnet-4-release/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
