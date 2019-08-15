@@ -6,18 +6,20 @@
     <description>Recent content in technology on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Stealth Mode Deactivated</title>
-      <link>https://diomeds.github.io/stegos-website/news/2019/07/88-news/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Technical Progress Report July, 16th - August, 5th</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://diomeds.github.io/stegos-website/news/2019/07/88-news/</guid>
-      <description>Dear Community, First of all, I&amp;rsquo;d like to apologize for the lack of updates: when you&amp;rsquo;re as serious about privacy as we are at Stegos, it can be hard to strike the right balance between secrecy and sharing! Rest assured, the whole team has been working hard behind the scenes on the Stegos chain, app, and a LOT of new marketing content, but I haven&amp;rsquo;t done a good enough job of keeping you, our loyal community, up to date.</description>
+      <guid>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</guid>
+      <description>Development Report July 16th – August 5th Hello, and welcome to the Stegos Development report for our 21st Sprint, covering the period from July 16th through August 5th.
+We’ve mostly been concentrating on the Stegos GUI wallet. The Linux and iOS versions of the wallet are finished and being tested internally. Public testing will be announced shortly.
+ Snowball improvements  We’ve been working to improve Stegos’ state-of-the-art mixing protocol, known as Snowball.</description>
     </item>
     
     <item>
@@ -38,18 +40,6 @@
       <description>Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
 This is a bug fix release, containing more than 100 fixes since Mainnet Preview 3.
 Changes in Stegos v0.11:  Improved overall stability and performance of Snowball mixing protocol, now Snowball works reliably even on slow 3G/4G mobile data connections. Tuned core blockchain constants and limits to reach the inflation target, now a new block is produced every 6-8 seconds.</description>
-    </item>
-    
-    <item>
-      <title>Technical Progress Report July, 16th - August, 5th</title>
-      <link>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</guid>
-      <description>###Development Report July 16th – August 5th Hello, and welcome to the Stegos Development report for our 21st Sprint, covering the period from July 16th through August 5th.
-We’ve mostly been concentrating on the Stegos GUI wallet. The Linux and iOS versions of the wallet are finished and being tested internally. Public testing will be announced shortly.
-Snowball improvements
-We’ve been working to improve Stegos’ state-of-the-art mixing protocol, known as Snowball.</description>
     </item>
     
     <item>
@@ -149,22 +139,13 @@ This is the sixth Testnet release of the Stegos blockchain. Changes since Testne
     
     <item>
       <title>Summary of Stegos AMA</title>
-      <link>https://diomeds.github.io/stegos-website/news/2019/07/ama/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/news/2019/07/ama/</guid>
-      <description>Joel：Good day everyone and welcome! This is your chance to ask me all those questions that you may have been holding back. Ask me anything!
-Stegos is a native blockchain (not ERC20 token) that’s been designed to protect you from mass surveillance and let you send absolutely untraceable and anonymous payments and messages.
-It’s been a long road to mainnet, but I’m happy to announce that we’re near the end! We’re in the final stages of testing before the launch of our mainnet and desktop app.</description>
-    </item>
-    
-    <item>
-      <title>Summary of Stegos AMA</title>
       <link>https://diomeds.github.io/stegos-website/news/2019/08/ama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/news/2019/08/ama/</guid>
-      <description></description>
+      <description>Joel：Good day everyone and welcome! This is your chance to ask me all those questions that you may have been holding back. Ask me anything!
+Stegos is a native blockchain (not ERC20 token) that’s been designed to protect you from mass surveillance and let you send absolutely untraceable and anonymous payments and messages.
+It’s been a long road to mainnet, but I’m happy to announce that we’re near the end! We’re in the final stages of testing before the launch of our mainnet and desktop app.</description>
     </item>
     
     <item>

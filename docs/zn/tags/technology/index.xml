@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Test </title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/</link>
+      <title>Summary of Stegos AMA</title>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/</guid>
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</guid>
       <description>EVA:首先，我们请Joel介绍一下Stegos目前的总体情况以及未来的发展愿景，以及和我们分享他在项目过程中的经历。
 Joel：在这里您有机会问我所有之前没有问的问题。
 Stegos是一个原生的区块链（不是ERC20代币），旨在保护您免受大规模的监视，并让您发送绝对无法追踪和匿名的付款和消息。
@@ -49,15 +49,6 @@ Q3: 你们团队现在还有多少人？ 现在团队有11人，再加上外部�
 Q4: 全职的开发人员有吗 有没有实体的办公处? 我们在瑞士楚格设有实体办公室，但只有我们的工程副总裁和我在那里工作。上面提到的所有11人都是全职，外部合作者可能是兼职。
 Q5：做节点的话 1w个币的节点和100w个币的节点收益一样么 每个节点的收益取决于质押的大小。质押越大，收益越高。这就是PoS的工作原理。但是，我们的PoS会有点不一样，只要您保持节点在线并支持我们的网络，无论您的质押大小如何都有可能获得高收益。
 Q6：在当前迭代中Stegos能够提供多少tps？当参与者数量增长时能否扩展，或当参与者增长时会否出现节点集中化问题？ 我们是去中心化的且高度可扩展的。分片（Sharding）在我们的路线图中有计划。我们将在发布主网后发布基准。</description>
-    </item>
-    
-    <item>
-      <title>Test image</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</guid>
-      <description></description>
     </item>
     
     <item>

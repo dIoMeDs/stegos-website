@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Test </title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/</link>
+      <title>Summary of Stegos AMA</title>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/</guid>
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</guid>
       <description>EVA:首先，我们请Joel介绍一下Stegos目前的总体情况以及未来的发展愿景，以及和我们分享他在项目过程中的经历。
 Joel：在这里您有机会问我所有之前没有问的问题。
 Stegos是一个原生的区块链（不是ERC20代币），旨在保护您免受大规模的监视，并让您发送绝对无法追踪和匿名的付款和消息。
@@ -49,38 +49,6 @@ Q3: 你们团队现在还有多少人？ 现在团队有11人，再加上外部�
 Q4: 全职的开发人员有吗 有没有实体的办公处? 我们在瑞士楚格设有实体办公室，但只有我们的工程副总裁和我在那里工作。上面提到的所有11人都是全职，外部合作者可能是兼职。
 Q5：做节点的话 1w个币的节点和100w个币的节点收益一样么 每个节点的收益取决于质押的大小。质押越大，收益越高。这就是PoS的工作原理。但是，我们的PoS会有点不一样，只要您保持节点在线并支持我们的网络，无论您的质押大小如何都有可能获得高收益。
 Q6：在当前迭代中Stegos能够提供多少tps？当参与者数量增长时能否扩展，或当参与者增长时会否出现节点集中化问题？ 我们是去中心化的且高度可扩展的。分片（Sharding）在我们的路线图中有计划。我们将在发布主网后发布基准。</description>
-    </item>
-    
-    <item>
-      <title>Test image</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>隐身模式已停用</title>
-      <link>https://diomeds.github.io/stegos-website/zn/news/2019/07/88-news/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/07/88-news/</guid>
-      <description>首先，我要为缺乏更新而道歉：当你像我们在Stegos那样认真对待隐私时，很难在保密和分享之间取得适当的平衡！
-请放心，整个团队一直在幕后工作，准备Stegos隐私链，应用程序和大量新的营销内容，但我还没有做好足够的工作来保持你-我们忠实的社区处于最新。
-现在有所改观了。
-从今天开始，我们将每周定期公布我们Stegos在各个方面的进展，而不仅仅是我们区块链开发的技术细节（当然，这些也会继续）。
-但我答应了给你们一个惊喜的消息，不是吗？ 别担心，我们对自己取得的进展披露太少的情况将得到改观（人们或许已经对此已司空见惯&amp;hellip;&amp;hellip;）。
-开始吧……
-我们现在处于发布主网的前夜，准备公开销售细节。这些花费的时间比我们想象的要长一些，所以为了表彰每个人的耐心和忠诚，我决定&amp;hellip;&amp;hellip;鼓声请&amp;hellip;&amp;hellip;已经投资于我们早期私人销售轮次的每个人都将获得双倍代币。*
-这意味着当我们的主网发布时，每个人将获得两倍于他们预期的STG。
-那么主网发布的时间是什么时候？ 我知道，在加密领域没有比“soon”更糟糕的词，所以我不会这么说。但我们仍然有一些法律和技术障碍需要明确，这些问题将在未来几周得到解决。
-下周我将在微信和电报群同时举行AMA（Ask Me Anything）活动，我将回答有关mainnet的所有问题，例如双倍令牌奖励等等。 细节很快就会确定，所以请开始考虑你想问的问题！
-还有什么？
-最后，我们一直在策划有关社区和营销方面非常令人兴奋的利好。 这是以前在加密领域中从未尝试过的东西，我们确信你们会喜欢它。我知道我承诺我们将从现在开始分享更多信息，但这真是太棒了，我将会享受让你们暂时保持几周悬念的感觉&amp;hellip;&amp;hellip;（但要密切注意我们的电报频道，你可能会得到一些提示&amp;hellip;）
-随着AMA的活动详情出炉，以及公布申请双倍代币的后续步骤，我将很快再次与你进行联系。
-回见 Joel
-*条件适用：此优惠政策不适用于种子轮期间购买的代币。此外，我希望能够自发主动地申请这个双倍代币的惊喜，但不幸的是，律师告知我们需要签署新的合同来确认。我将分别与所有私人销售投资者取得联系。现在让我们品尝这一刻。</description>
     </item>
     
     <item>

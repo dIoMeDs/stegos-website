@@ -3,23 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/news/2019/07/ama/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,28 +16,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/07/88-news/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/news/2019/07/88-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/news/2019/07/88-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/news/2019/07/88-news/"
                 />
   </url>
   

@@ -3,25 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://diomeds.github.io/stegos-website/news/2019/07/88-news/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <loc>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/news/2019/07/88-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/news/2019/07/88-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/news/2019/07/88-news/"
-                />
   </url>
   
   <url>
@@ -61,13 +46,6 @@
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/07/mainnet-4-release/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -265,22 +243,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/05/testnet-6-release/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/news/2019/07/ama/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/news/2019/07/ama/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/news/2019/07/ama/"
                 />
   </url>
   
@@ -509,7 +471,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -530,7 +492,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/categories/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -551,7 +513,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/categories/development/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -572,7 +534,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/news/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -593,7 +555,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -614,7 +576,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/report/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -630,7 +592,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/stegos/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -651,7 +613,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/tags/technology/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
