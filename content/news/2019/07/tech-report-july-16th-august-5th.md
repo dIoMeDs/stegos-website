@@ -19,9 +19,7 @@ We’ve mostly been concentrating on the Stegos GUI wallet. The Linux and iOS ve
 
 - Snowball improvements
 
-We’ve been working to improve Stegos’ state-of-the-art mixing protocol, known as Snowball.
-Snowball is what keeps Stegos transactions and messages secure and anonymous, so it’s
-important for it to be reliable. But it also needs to be efficient: our latest improvements mean Snowball now works reliably even on slow 3G/4G mobile data connections.
+We’ve been working to improve Stegos’ state-of-the-art mixing protocol, known as Snowball.Snowball is what keeps Stegos transactions and messages secure and anonymous, so it’s important for it to be reliable. But it also needs to be efficient: our latest improvements mean Snowball now works reliably even on slow 3G/4G mobile data connections. 
 
 - Stability improvements
 

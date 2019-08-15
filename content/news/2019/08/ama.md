@@ -2,9 +2,9 @@
 author: "Vladimir Lebedev"
 date: 2019-08-15
 linktitle: Summary of Stegos AMA 20190814
-title: "Summary of Stegos AMA"
+title: "AMA session conducted over Telegram and Wechat, August 14, 2019"
 description: "Full transcript of the AMA session conducted over Telegram and Wechat, August 14, 2019"
-metaTitle: "Summary of Stegos AMA"
+metaTitle: "AMA session conducted over Telegram and Wechat, August 14, 2019"
 metaDescription: "Full transcript of the AMA session conducted over Telegram and Wechat, August 14, 2019"
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "report", "technology", "ama"]
@@ -93,10 +93,12 @@ We have already started on the design of our mobile application and plan to rele
 15. When will you release the Stegos mainnet?
 ```
 In the next 2-3 weeks. Note that we will not be distributing tokens until the IEO or exchange listing event. We will announce the listing separately, in the next couple of weeks.
+
 ```
 16. How many sales rounds does Stegos have? Can people still invest now? Are you going to distribute tokens until all tokens have been sold?
 ```
-Stegos had three rounds of investment: seed, private sale #1 and private sale #2. You can still invest in private sale #2 at $0.05 [this is the adjusted price after the double token announcement]. Note that there’s a minimum of $100k in ETH required. All private sales will close when we get to the IEO or direct exchange listing. We will deliver the tokens that we owe to seed and private sale investors. A small portion of the tokens will be sold at the IEO if we have it instead of the direct exchange listing.
+Stegos had three rounds of investment: seed, private sale #1 and private sale #2. You can still invest in private sale #2 at $0.05. This is the adjusted price after the
+[double token announcement] (https://stegos.com/news/2019/07/88-news/). Note that there’s a minimum of $100k in ETH required. All private sales will close when we get to the IEO or direct exchange listing. We will deliver the tokens that we owe to seed and private sale investors. A small portion of the tokens will be sold at the IEO if we have it instead of the direct exchange listing.
 ```
 17. When did the second round of investment begin? What were the dates for the first and second investment rounds?
 ```
