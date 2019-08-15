@@ -117,7 +117,7 @@ Stegos是一种用于支付Stegos区块链上的服务的PoS货币。验证人�
 
 *Q20: 对比其他匿名币如MITH等，最核心的区别在哪？优势是啥？*
 
-A: 与其他隐私币的比较应该在白皮书中，您可以在中文白皮书的第42页找到它https://stegos.com/docs/stegos-whitepaper-zn.pdf。 英文白皮书是在第49页https://stegos.com/docs/stegos-whitepaper.pdf。
+A: 与其他隐私币的比较应该在白皮书中，[您可以在中文白皮书的第42页找到它](https://stegos.com/docs/stegos-whitepaper-zn.pdf)。 []英文白皮书是在第49页](https://stegos.com/docs/stegos-whitepaper.pdf)。
 
 
 *Q21: 使用stegos发信息每一条都要支付stg吗？*
