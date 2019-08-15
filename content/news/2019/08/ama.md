@@ -1,6 +1,6 @@
 ---
 author: "Vladimir Lebedev"
-date: 2019-14-08
+date: 2019-08-15
 linktitle: Summary of Stegos AMA 20190814
 title: "Summary of Stegos AMA"
 description: "Full transcript of the AMA session conducted over Telegram and Wechat, August 14, 2019"

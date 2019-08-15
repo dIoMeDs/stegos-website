@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Summary of Stegos AMA</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/08/ama/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/08/ama/</guid>
+      <description>Joel：Good day everyone and welcome! This is your chance to ask me all those questions that you may have been holding back. Ask me anything!
+Stegos is a native blockchain (not ERC20 token) that’s been designed to protect you from mass surveillance and let you send absolutely untraceable and anonymous payments and messages.
+It’s been a long road to mainnet, but I’m happy to announce that we’re near the end! We’re in the final stages of testing before the launch of our mainnet and desktop app.</description>
+    </item>
+    
+    <item>
       <title>Technical Progress Report July, 16th - August, 5th</title>
       <link>https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
@@ -135,17 +146,6 @@ Done in Sprint 16
 Stegos creates cutting-edge technology that keeps your secrets safe from prying eyes so you feel empowered and secure.
 This is the sixth Testnet release of the Stegos blockchain. Changes since Testnet 5:
  Added HashCash challenge to PubSub protocol to limit denial-of-service attacks Implemented simplified Re-Staking for tracking validators&amp;rsquo; online status Implemented wallet recovery using 24-word recovery phrase Implemented wallet password protection and encryption of keys stored on disk Split 1 STG to 1 000 000 microSTG.</description>
-    </item>
-    
-    <item>
-      <title>Summary of Stegos AMA</title>
-      <link>https://diomeds.github.io/stegos-website/news/2019/08/ama/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diomeds.github.io/stegos-website/news/2019/08/ama/</guid>
-      <description>Joel：Good day everyone and welcome! This is your chance to ask me all those questions that you may have been holding back. Ask me anything!
-Stegos is a native blockchain (not ERC20 token) that’s been designed to protect you from mass surveillance and let you send absolutely untraceable and anonymous payments and messages.
-It’s been a long road to mainnet, but I’m happy to announce that we’re near the end! We’re in the final stages of testing before the launch of our mainnet and desktop app.</description>
     </item>
     
     <item>
