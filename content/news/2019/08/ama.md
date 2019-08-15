@@ -118,7 +118,7 @@ Unlike other PoS coins, our variant lets you win big by running a node and suppo
 
 *Q20: What are the main differences between Stegos and other privacy coins like MITH? What are Stegos’ advantages?*
 
-A: There is a comparison with other privacy in our white paper, You can find it on page 42 in the Chinese white paper https://stegos.com/docs/stegos-whitepaper-zn.pdf and Page 49 in the English white paper https://stegos.com/docs/stegos-whitepaper.pdf
+A: There is a comparison with other privacy in our white paper, You can find it on page 42 in the [Chinese white paper](https://stegos.com/docs/stegos-whitepaper-zn.pdf) and Page 49 in the [English white paper](https://stegos.com/docs/stegos-whitepaper.pdf) .
 
 
 *Q21: Do users need to pay STG for each message delivered by stegos?*
