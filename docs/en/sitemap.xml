@@ -24,6 +24,16 @@
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/07/tech-report-july-16th-august-5th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/07/tech-report-july-16th-august-5th/"
+                />
   </url>
   
   <url>
