@@ -11,9 +11,7 @@ tags: ["stegos", "report", "technology"]
 weight: 7
 draft: false
 ---
-​
-#### Dear Stegos Community,
-​
+### Dear Stegos Community,
 We’re excited to present the first version of the Stegos desktop app. Our development team have poured their hearts into making this, and now we’d love for you to help us test it. Please download the app and use the test STG faucet to get some test STG to put it through its paces!
 ​
 This is the very first public version of the app, so it’s still a work in progress. But all the main features have been implemented:
@@ -29,9 +27,7 @@ This is the very first public version of the app, so it’s still a work in prog
 - You can request a payment certificate for a transaction and verify a payment certificate on the blockchain.
 
 ​
-We’re hoping to create the most intuitive and user-friendly privacy coin wallet. But we need your help to do it. Please send any feedback, suggestions, or information about bugs to <support@stegos.zendesk.com>. No comment is too small!
-​
-The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
+We’re hoping to create the most intuitive and user-friendly privacy coin wallet. But we need your help to do it!<br> Please send any feedback, suggestions, or information about bugs to <support@stegos.zendesk.com>. No comment is too small!<br>The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
 
 Thanks for your help!
 
