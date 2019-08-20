@@ -14,7 +14,7 @@ draft: false
 ​
 #### Dear Stegos Community,
 ​
-We’re excited to announce the release of the first version of the Stegos desktop app. Our development team have poured their hearts into making this, and now we’d love for you to help us test it. Please download the app and use the test STG faucet to get some test STG to put it through its paces!
+We’re excited to present the first version of the Stegos desktop app. Our development team have poured their hearts into making this, and now we’d love for you to help us test it. Please download the app and use the test STG faucet to get some test STG to put it through its paces!
 ​
 This is the very first public version of the app, so it’s still a work in progress. But all the main features have been implemented:
 
@@ -29,7 +29,7 @@ This is the very first public version of the app, so it’s still a work in prog
 - You can request a payment certificate for a transaction and verify a payment certificate on the blockchain.
 
 ​
-Our desktop wallet has a new and sleek design – we’re hoping to create one of the most intuitive and usable privacy coin wallets out there. But we need your help to do it. Please send any feedback, comments, or bug information to support@stegos.zendesk.com
+We’re hoping to create the most intuitive and user-friendly privacy coin wallet. But we need your help to do it. Please send any feedback, suggestions, or bug information to <support@stegos.zendesk.com>. No comment is too small!
 ​
 The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
 ​
@@ -37,9 +37,10 @@ Thanks for your help!
 ​
 The Stegos Team
 ​
-#### To download the Stegos app.
-​
-*1.* Visit [releases](https://github.com/stegos/stegos-wallet/releases)
+#### Getting Started
+To download the Stegos app
+
+​*1.* Visit [releases](https://github.com/stegos/stegos-wallet/releases)
 
 *2.* Scroll down and click “Assets”
 ​
