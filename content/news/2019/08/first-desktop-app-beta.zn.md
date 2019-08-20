@@ -38,9 +38,11 @@ draft: false
 Stegos团队
 
 #### 让我们开始吧
+
 下载Stegos桌面应用
 
-*1.* 打开网站 [Stegos桌面应用下载](https://github.com/stegos/stegos-wallet/releases).
+*1.* 打开网站 [Stegos桌面应用下载](https://github.com/stegos/stegos-wallet/releases)
+
 *2.* 向下滑动并点击 “Assets”
 
 ![Assets](/images/Desktop_app_1.png)

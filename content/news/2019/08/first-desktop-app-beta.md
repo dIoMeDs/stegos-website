@@ -27,7 +27,11 @@ This is the very first public version of the app, so it’s still a work in prog
 - You can request a payment certificate for a transaction and verify a payment certificate on the blockchain.
 
 ​
-We’re hoping to create the most intuitive and user-friendly privacy coin wallet. But we need your help to do it!<br> Please send any feedback, suggestions, or information about bugs to <support@stegos.zendesk.com>. No comment is too small!<br>The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
+We’re hoping to create the most intuitive and user-friendly privacy coin wallet. But we need your help to do it!<br>
+
+Please send any feedback, suggestions, or information about bugs to the development team at <support@stegos.zendesk.com>. No comment is too small!<br>
+
+The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
 
 Thanks for your help!
 
