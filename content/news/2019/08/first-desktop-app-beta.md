@@ -32,9 +32,9 @@ This is the very first public version of the app, so it’s still a work in prog
 We’re hoping to create the most intuitive and user-friendly privacy coin wallet. But we need your help to do it. Please send any feedback, suggestions, or bug information to <support@stegos.zendesk.com>. No comment is too small!
 ​
 The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
-​
+
 Thanks for your help!
-​
+
 The Stegos Team
 ​
 #### Getting Started
