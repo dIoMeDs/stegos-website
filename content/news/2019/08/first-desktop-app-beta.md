@@ -17,16 +17,17 @@ draft: false
 We’re excited to announce the release of the first version of the Stegos desktop app. Our development team have poured their hearts into making this, and now we’d love for you to help us test it. Please download the app and use the test STG faucet to get some test STG to put it through its paces!
 ​
 This is the very first public version of the app, so it’s still a work in progress. But all the main features have been implemented:
-​
+
 - Installing the desktop app automatically installs a Stegos node and syncs with the Stegos blockchain.
-​
+
 - You can create, edit, delete and back up multiple Stegos accounts.
-​
+
 - You can send and receive test STG via the Stegos blockchain.
-​
+
 - You can send fully private messages via the comment function of STG transactions. (The full chat feature is coming in a future update.)
-​
+
 - You can request a payment certificate for a transaction and verify a payment certificate on the blockchain.
+
 ​
 Our desktop wallet has a new and sleek design – we’re hoping to create one of the most intuitive and usable privacy coin wallets out there. But we need your help to do it. Please send any feedback, comments, or bug information to support@stegos.zendesk.com
 ​
