@@ -12,7 +12,7 @@ weight: 7
 draft: false
 ---
 
-## Dear Liquidity Community,
+## Dear Stegos Community,
 
 We’re excited to announce the release of the first version of the Stegos desktop app. Our development team have poured their hearts into making this, and now we’d love for you to help us test it. Please download the app and use the test STG faucet to get some test STG to put it through its paces!
 
