@@ -12,10 +12,10 @@ other = "stegos-whitepaper.pdf"
 other = "news"
 
 [main_header_title]
-other = "Platform for privacy<br> applications"
+other =  "Reject surveillance <br> embrace your freedom!"
 
 [main_header_info]
-other = "Stegos provides an absolutely private<br> and secure foundation for building<br> decentralized mobile apps"
+other = "Stegos protects and empowers users<br> by keeping their private information safe<br> from prying eyes"
 
 [main_header_form_title]
 other = "We are launching very soon"
@@ -33,7 +33,7 @@ other = "Why Stegos?"
 other = "Absolutely<br>private"
 
 [confidential_transactions]
-other = "Confidential transactions"
+other = "Confidential transactions and messages"
 
 [stealth_addresses]
 other = "Stealth addresses"
@@ -75,31 +75,31 @@ other = "Old data and<br>transactions<br>discarded securely"
 other = "Small enough to fit<br>on a smartphone"
 
 [mobile_all_the_way]
-other = "Mobile<br>all the way"
+other = "Designed for everyone"
 
 [run_a_full_blockchain]
-other = "Run a full blockchain<br>node in your pocket<br>and earn tokens through<br>mobile staking"
+other = "Run a light <br>node on your smartphone<br>and earn tokens through<br>mobile staking"
 
 [fair_gamified]
 other = "Fair gamified PoS lets<br>you win big even if you're<br>not a crypto whale!"
 
 [no_messing_around]
-other = "No messing around with<br>insecure remote servers.<br>A secure mobile VM for<br>running HTML/CSS/<br>JavaScript apps"
+other = "P2P trading with atomic swaps with BTC"
 
 [an_incredibly_easy]
-other = "An incredibly easy<br>and secure way to make payments<br>and send data"
+other = "An incredibly easy<br>and secure way to send payments and messages"
 
 [the_stegos_app_integrates]
-other = "The Stegos app integrates a wallet with a built-in chat"
+other = "The Stegos app with integrated messaging is easy to use, powerful and immune to surveillance"
 
 [create_custom_airdrops]
-other = "Create custom airdrops that anyone can claim by scanning a QR code. Red packets (hongbao) are a surprise payment that you can send to anyone"
+other = "Use red packets (hongbao) to send a surprise gift or private payment to anyone using a QR code. Public and group red packets allow randomized prizes for games and promotions"
 
 [a_secure_mobile_vm]
-other = "A secure mobile VM for running plugin applications written in HTML, CSS and JavaScript. A simple API for apps to exchange messages while completely abstracting away the underlying blockchain"
+other = "Run a node and earn tokens through staking or validating. The validator service award gives everyone a fair chance, whatever their stake "
 
 [run_a_node_on_the_smartphone]
-other = "Run a node on the smartphone in your pocket and earn tokens by helping maintain the Stegos network"
+other = "Fully private peer-to-peer and group chat uses encrypted on-chain messaging to keep your conversations safe from prying eyes"
 
 [watch_video]
 other = "watch video"
@@ -123,22 +123,22 @@ other = "Team"
 other = "Roadmap"
 
 [mainnet_and_native_token]
-other = "Mainnet and native token"
+other = "Mainnet and native token<br> Desktop wallet"
 
 [exchange_sale]
-other = "Exchange sale"
+other = "Community building and listing on exchange"
 
 [sharding]
-other = "Sharding"
+other = "On-chain P2P trading and red packets"
 
 [mobile_staking]
-other = "Mobile staking"
+other = "Light node and staking pools support, mobile wallet"
 
 [app_store_private]
-other = "App Store Private marketplaces Dandelion"
+other = "Sharding and pruning with no bootstrap nodes"
 
 [pruning_with_no_bootstrap]
-other = "Pruning with no bootstrap nodes zk-STARKsn"
+other = "Added algorithmic stablecoin functionality"
 
 [partners]
 other = "Partners"
@@ -171,7 +171,7 @@ other = "Previous"
 other = "Stegos app"
 
 [home_title]
-other = "Stegos: Platform for privacy applications"
+other = "Reject surveillance — embrace your freedom!"
 
 [home_description]
 other = "The Stegos Privacy Platform combines a unique blockchain and token design to implement the first cryptocurrency that’s completely private, secure, effcient, and environmentally sustainable."

@@ -158,7 +158,7 @@ main {
   margin-top: 15px;
 }
 .main_sector {
-  padding: 60px 10%; }
+  padding: 80px 10%; }
 
 .main_sector .base_button {
   margin: 20px auto; }
@@ -991,9 +991,6 @@ main {
 .team_block .photo_vol {
   background: url("../images/Volodymyr-Motylenko.png") center no-repeat;
   background-size: cover; }
-.team_block .photo_drew {
-  background: url("../images/Drew.png") center no-repeat;
-  background-size: cover; }
 .team_block .team_btn {
   width: 100px; }
   .team_block .team_btn .b_b_text {
@@ -1363,8 +1360,7 @@ main {
   height: 100%;
   position: fixed;
   z-index: 100;
-  top: 0;
-  display: none; } }
+  top: 0; }
   .video_sector .video_cont {
     width: 800px;
     height: 800px;
@@ -1460,8 +1456,8 @@ main {
   justify-content: center; }
   .partners_block .m_s_content_block .c__item_icon {
     width: 220px;
-    height: 90px;
-    margin: 20px 1%; }
+    height: 70px;
+    margin: 40px 1%; }
   .partners_block .m_s_content_block .c__item_icon:nth-of-type(1) a {
     background: url("../images/icons/lab_b.png") center no-repeat;
     background-size: contain; }

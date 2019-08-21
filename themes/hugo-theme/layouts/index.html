@@ -16,7 +16,7 @@
     <meta property="og:description"
           content="{{ T "home_description" }}"/>
     <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:image" content="{{ .Site.BaseURL }}images/stegos-logo-new.png" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/stegos-logo.png" />
 
     <title>{{ T "home_title" }}</title>
 
@@ -31,16 +31,15 @@
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
       (function() {
-        var u="https://stegos4privacy.matomo.cloud/";
+        var u="https://stegos.matomo.cloud/";
         _paq.push(['setTrackerUrl', u+'matomo.php']);
-        _paq.push(['setSiteId', '2']);
+        _paq.push(['setSiteId', '3']);
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/stegos4privacy.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/stegos.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
       })();
     </script>
-    <noscript><p><img src="https://stegos4privacy.matomo.cloud/matomo.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <noscript><p><img src="https://stegos.matomo.cloud/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
     <!-- End Matomo Code -->
-
 
 </head>
 <body class="style_scroll_bar">
@@ -176,6 +175,72 @@
         <div class="bg_gr"></div>
     </div>
 
+<!--3rd part start-->
+
+        <div id="sector_st_mob" class="main_sector stegos_mobile_block">
+            <div class="m_s_title">
+                {{ T "an_incredibly_easy" | safeHTML }}
+            </div>
+            <div class="m_s_line_decor">
+                <span class="m_s_ld"></span>
+                <span class="m_s_ldm"></span>
+                <span class="m_s_ld"></span>
+            </div>
+
+            <div class="m_s_bg_eye_box">
+                <div class="m_s_bg_icon_eye"></div>
+            </div>
+
+            <div class="m_s_content_block">
+
+                <div class="c__item_cont">
+                    <div class="c__item c__item_m">
+                        <div class="c__item_text">
+                            {{ T "the_stegos_app_integrates" | safeHTML }}
+                        </div>
+                    </div>
+                    <div class="c__item">
+                        <div class="c__item_text">
+                            {{ T "create_custom_airdrops" | safeHTML }}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="c__item_cont">
+                    <div class="c__item">
+                        <div class="c__item_text">
+                            {{ T "a_secure_mobile_vm" | safeHTML }}
+                        </div>
+                    </div>
+                    <div class="c__item  c__item_m">
+                        <div class="c__item_text">
+                            {{ T "run_a_node_on_the_smartphone" | safeHTML }}
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="m_s_bg_phone_box">
+                <div class="m_s_bg_icon_phone"></div>
+            </div>
+
+
+            <a class="base_button video_cont_open_btn">
+                <div class="b_b_text">{{ T "watch_video" | safeHTML }}</div>
+            </a>
+
+            <div class="bg">
+                <span class="bg_img"></span>
+            </div>
+            <div class="bg_gr_to_bot"></div>
+            <div class="bg_gr_to_top"></div>
+        </div>
+
+<!--3rd part end-->
+
+<!--2nd part start-->
     <div id="sector_why" class="main_sector why_block">
         <div class="m_s_title">{{ T "why_stegos" }}</div>
         <div class="m_s_line_decor">
@@ -232,6 +297,8 @@
         </a>
     </div>
 
+<!--2nd part end-->
+
     <div id="video_sector" class="video_sector">
 
         <div class="video_cont">
@@ -250,66 +317,8 @@
 
     </div>
 
-    <div id="sector_st_mob" class="main_sector stegos_mobile_block">
-        <div class="m_s_title">
-            {{ T "an_incredibly_easy" | safeHTML }}
-        </div>
-        <div class="m_s_line_decor">
-            <span class="m_s_ld"></span>
-            <span class="m_s_ldm"></span>
-            <span class="m_s_ld"></span>
-        </div>
-
-        <div class="m_s_bg_eye_box">
-            <div class="m_s_bg_icon_eye"></div>
-        </div>
-
-        <div class="m_s_content_block">
-
-            <div class="c__item_cont">
-                <div class="c__item c__item_m">
-                    <div class="c__item_text">
-                        {{ T "the_stegos_app_integrates" | safeHTML }}
-                    </div>
-                </div>
-                <div class="c__item">
-                    <div class="c__item_text">
-                        {{ T "create_custom_airdrops" | safeHTML }}
-                    </div>
-                </div>
-            </div>
-
-            <div class="c__item_cont">
-                <div class="c__item">
-                    <div class="c__item_text">
-                        {{ T "a_secure_mobile_vm" | safeHTML }}
-                    </div>
-                </div>
-                <div class="c__item  c__item_m">
-                    <div class="c__item_text">
-                        {{ T "run_a_node_on_the_smartphone" | safeHTML }}
-                    </div>
-                </div>
-            </div>
 
 
-        </div>
-
-        <div class="m_s_bg_phone_box">
-            <div class="m_s_bg_icon_phone"></div>
-        </div>
-
-
-        <a class="base_button video_cont_open_btn">
-            <div class="b_b_text">{{ T "watch_video" | safeHTML }}</div>
-        </a>
-
-        <div class="bg">
-            <span class="bg_img"></span>
-        </div>
-        <div class="bg_gr_to_bot"></div>
-        <div class="bg_gr_to_top"></div>
-    </div>
 
     <div id="sector_news" class="main_sector news_block">
         <div class="m_s_title">{{ T "news" | safeHTML }}</div>
@@ -458,7 +467,7 @@
         <div class="m_s_content_block">
 
             <div class="content__item">
-                <div class="c_item_title">Q2 2019</div>
+                <div class="c_item_title">SEP 2019</div>
                 <div class="c_item_decor mob_display"></div>
                 <div class="c_item_info">{{ T "mainnet_and_native_token" | safeHTML }}</div>
             </div>
@@ -507,8 +516,8 @@
 
         <div class="m_s_content_block">
             <div class="c__item_icon"><a href="http://www.jdcapital.com/" target="_blank" rel="nofollow"></a></div>
-            <div class="c__item_icon"><a href="#" target="_blank" rel="nofollow"></a></div>
-            <div class="c__item_icon"><a href="#" target="_blank" rel="nofollow"></a>
+            <div class="c__item_icon"><a href="http://sfm.fund/" target="_blank" rel="nofollow"></a></div>
+            <div class="c__item_icon"><a href="http://okico.xyz/index/index.html" target="_blank" rel="nofollow"></a>
             </div>
             <div class="c__item_icon"><a href="https://www.facebook.com/capital.thomas.9" target="_blank"
                                          rel="nofollow"></a></div>
