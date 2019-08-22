@@ -45,8 +45,12 @@ To download the Stegos app
 ​
 ![Assets](/images/Desktop_app_1.png)
 ​
-*3.* Click [stegos-wallet-0.11.0-x86_64.AppImage](https://github.com/stegos/stegos-wallet/releases/download/v0.11/stegos-wallet-0.11.0-x86_64.AppImage) to download the app for Mac.
-Use the other files to download the Linux app (depending on your distribution).
+*3.* Mac users should click [StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg) to download the app.
+
+On Linux, use [stegos-wallet_0.12.0_amd64.deb](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet_0.12.0_amd64.deb) for Debian/Ubuntu distributions and [stegos-wallet-0.12.0.x86_64.rpm](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0.x86_64.rpm) for Fedora/CentOS/RHEL distributions.
+
+If you aren't sure which Linux distribution you're using, click [stegos-wallet-0.12.0-x86_64.AppImage](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0-x86_64.AppImage).
+
 ​
 ![Download the app](/images/Desktop_app_2.png)
 ​

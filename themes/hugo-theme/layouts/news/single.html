@@ -12,10 +12,12 @@
     <title>{{ .Title }} | Stegos</title>
     <meta name="description" content="{{ .Params.metaDescription }}" />
 
+
+
     <meta property="og:title" content="{{ .Params.metaTitle }}" />
     <meta property="og:description" content="{{ .Params.metaDescription }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:image" content="{{ .Site.BaseURL }}images/stegos-logo-new.png" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/whitepaper.png" />
 
     {{ partialCached "site-styles.html" . }}
 
