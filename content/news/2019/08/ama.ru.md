@@ -1,149 +1,144 @@
 ---
-author: "Vladimir Lebedev"
-date: 2019-08-15
-linktitle: Summary of Stegos AMA 20190814
-title: "AMA session conducted over Telegram and Wechat, August 14, 2019"
-description: "Full transcript of the AMA session conducted over Telegram and Wechat, August 14, 2019"
-metaTitle: "AMA session conducted over Telegram and Wechat, August 14, 2019"
-metaDescription: "Full transcript of the AMA session conducted over Telegram and Wechat, August 14, 2019"
+author: "Владимир Лебедев"
+date: 2019-08-16
+linktitle: Summary of Stegos AMA 20190816
+title: "Сессия вопросов-ответов, проведенная в Telegram и Wechat, 14 августа 2019 года"
+description: "Полная расшифровка АМА-сессии в Telegram и Wechat от 14 августа 2019 года"
+metaTitle: "Сессия вопросов-ответов, проведенная в Telegram и Wechat, 14 августа 2019 года"
+metaDescription: "Полная расшифровка АМА-сессии в Telegram и Wechat от 14 августа 2019 года"
 categories: [ "DEVELOPMENT" ]
-tags: ["stegos", "report", "technology", "ama"]
+tags: ["stegos", "отчет", "технология", "ama"]
 weight: 7
 draft: false
 ---
 
-*Host* ： Hello, and welcome to this Stegos community AMA event. Our AMA is about to begin! Please don’t post messages during the AMA. We will begin by answering the questions we collected in advance, followed by a 15-minute quickfire question session to conclude the AMA.
+*Ведущий* ： Здравствуйте и добро пожаловать на сессию вопросов и ответов (АМА-сессию, Ask Me Anything) сообщества Stegos. Наша АМА вот-вот начнется! Пожалуйста, не отправляйте сообщения во время AMA. Мы начнем с ответов на вопросы, которые мы собрали заранее, а затем проведем 15-минутную сессию ваших вопросов "из зала", чтобы завершить AMA.
 
-*Host* ：Please welcome Stegos CEO Joel Reymont!
+*Ведущий* ：Пожалуйста, поприветствуйте генерального директора Stegos Джоэля Реймонта!
 
-*Host* ：Hi Joel, welcome to the community and this AMA!
+*Ведущий* ：Привет, Джоэль, добро пожаловать на нашу АМА-сессию!
 
-To start, Joel will outline Stegos' current status and future development vision, and share his experience of starting Stegos.
+Для начала Джоэль изложит текущее состояние и свое видение будущего развития Stegos, а также поделится своим опытом старта Stegos.
 
-*Joel* ：Good day everyone and welcome! This is your chance to ask me all those questions that you may have been holding back. Ask me anything!
+*Джоэль* ：Добрый день всем и добро пожаловать! Это ваш шанс задать мне все те вопросы, которые вы, возможно, хотели, но стеснялись спросить. Спрашивайте меня о чем угодно!
 
-Stegos is a native blockchain (not ERC20 token) that’s been designed to protect you from mass surveillance and let you send absolutely untraceable and anonymous payments and messages.
+Stegos - это нативный блокчейн (а не токен ERC20), который был разработан чтобы защитить вас от массового наблюдения и позволить вам отправлять абсолютно неотслеживаемые и анонимные платежи и сообщения.
 
-It’s been a long road to mainnet, but I’m happy to announce that we’re near the end! We’re in the final stages of testing before the launch of our mainnet and desktop app. We plan to hold our IEO very soon after that. We will announce each event in advance, so please stay tuned!
+Путь к mainnet был долог, но я рад сообщить, что мы близки к концу! Мы находимся на завершающей стадии тестирования перед запуском mainnet и нашего desktop-приложения. Мы планируем провести наше IEO практически сразу после этого. Мы будем сообщать о каждом событии заранее, поэтому, пожалуйста, следите за обновлениями!
 
-Towards the end of the year we plan to release a mobile application that will integrate our wallet with payments and group messaging. We will follow this up with on-chain trading and atomic swaps with BTC, ETH and other coins, making Stegos a perfectly private and secure gateway to the wider world of crypto.
+К концу года мы планируем выпустить мобильное приложение, которое будет интегрировать в нашем кошельке платежи и сообщения, в том числе групповые. Мы будем подстраиваться и внедрять торговлю on-chain и атомарные свопы с BTC, ETH и другими монетами, что сделает Stegos совершенно приватным и безопасным шлюзом в более широкий мир криптографии.
 
-I apologize for taking so long to deliver our product, but we have learned enough in the past few months to avoid making the same mistakes in the future. In the coming few months I expect us to hit our milestones on time and to keep the community up to date throughout the process.
+Я прошу прощения за то, что так долго готовил наш продукт, но за последние несколько месяцев мы узнали достаточно, чтобы избежать тех же ошибок в будущем. В ближайшие несколько месяцев я ожидаю, что мы своевременно достигнем поставленных вех и будем держать сообщество в курсе всего процесса.
 
-Reject surveillance — embrace your freedom!
+Отвергните слежку - примите свою свободу!
 
-*Host* ： Now, let’s begin our AMA Q&A session. We will post the questions we collected from the community one by one and Joel will answer them accordingly.
+*Ведущий* ： Теперь давайте начнем наш сеанс вопросов и ответов. Мы опубликуем вопросы, которые мы собрали из сообщества один за другим, и Джоэль соответственно ответит на них.
 
-*1. When will you distribute tokens? Will you lock the tokens, and what proportion of funds will you use to manage the market value?*
+*1. Когда вы будете распространять токены? Будете ли вы “лочить” токены, и какой объем средств вы будете использовать для управления рыночной стоимостью?*
 
-We’ll be distributing tokens within a few weeks. Tokens will be locked for a much shorter time than previously planned. Tokens will also be unlocked to give later rounds an advantage: so the last round of the private sale will unlock first, then the first round of the private sale and then the seed round.
+Мы будем распространять токены через несколько недель. При этом токены будут блокироваться на гораздо более короткое время, чем планировалось ранее. Порядок разблокировки будет таким, чтобы  дать участникам более поздних раундов преимущество: поэтому сначала будет разблокирован последний раунд частной продажи, затем первый раунд частной продажи, а затем раунд семян.
 
-*2. Will Stegos perform the same as Sero after being listing on exchanges?*
+*2. Будет ли Stegos иметь те же результаты, что и Sero после листинга на бирже?*
 
-Our legal advisors do not allow me to make price predictions, but I’m fully confident that Stegos is much better than Sero as a product. We carefully built our blockchain for privacy and speed, from the ground up.
+Наши юридические консультанты не разрешают мне делать прогнозы относительно цен, но я полностью уверен, что Stegos намного лучше, чем Sero как продукт. Мы тщательно с нуля построили наш блокчейн для обеспечения и конфиденциальности, и скорости.
 
-*3. Why has token distribution taken so long?*
+*3. Почему вы так долго откладываете распространение токенов?*
 
-We could not distribute the tokens before finalizing our IEO and exchange listing plans. We are a native blockchain and do not have the ERC20 token, so we had to wait until the mainnet is ready.
+Мы не могли распределить токены до завершения наших планов по поводу IEO и листинга на бирже. Мы являемся нативным блокчейном и не имеем токена ERC 20, поэтому нам пришлось ждать, пока mainnet не будет готов.
 
-*4. Is Stegos a truly anonymous coin?*
+*4. Является ли Stegos по-настоящему анонимной монетой?*
 
-You cannot get any more anonymous and untraceable than Stegos is at the moment! We have collected and implemented the best academic research in blockchain, encryption and security.
+Вы не сможете найти более анонимной и неотслеживаемой монеты, чем Stegos, по крайней мере на данный момент. Мы собрали и внедрили лучшие научные исследования в области блокчейна, шифрования и безопасности.
 
-*5. Will Stegos be inflationary in future?*
+*5. Будет ли Stegos инфляционным в будущем?*
 
-Stegos starts with a 14% annual reward to our validators and this number halves every 4 years.
+В Stegos планируемая инфляция начинается с 14% годовых в виде вознаграждения нашим валидаторам, и это число сокращается вдвое каждые 4 года.
 
-*6. What exchange will you be listing on?*
+*6. Когда вы будете листиться на бирже?*
 
-We apologize for the long wait and will make an announcement in the next two weeks.
+Мы приносим извинения за длительное ожидание и сделаем объявление об этом в ближайшие две недели.
 
-*7. Which investors will receive the double token award? Which period did these investors have to invest in? How can we apply to receive double tokens?*
+*7. Какие инвесторы получат удвоение токенов, в какой период эти инвесторы инвестировали? Как получить эти “двойные” токены?*
 
-There is no need for investors to do anything at the moment. We have halved the price of our private sales rounds, from 10 cents to 5 cents and from 7 to 3.5 cents. This halves our market value, but also means that all direct private sale investors, rounds 1 and 2, will be getting twice as many tokens.
+В настоящий момент инвесторам нет необходимости что-либо делать. Мы вдвое снизили цену частных раундов продаж: с 10 центов до 5 центов и с 7 до 3,5 центов. Это вдвое снижает нашу рыночную стоимость, но также означает, что все прямые частные инвесторы первого и второго раундов получат вдвое больше токенов.
 
-*8. How many tokens will it take to run a node?*
+*8. Сколько токенов необходимо для запуска ноды?*
 
-We are in the process of writing the Stegos Guide and will publish the staking requirements together with the information on how to set up and run a Stegos node. We expect somewhere in the order of 20,000 to 50,000 tokens or $1,000 to $5,000 at the last STG private sale price of $0.05.
+Мы сейчас пишем руководство по Stegos и опубликуем требования к ставкам вместе с информацией о том, как настроить и запустить узел Stegos. Мы ожидаем где-то порядка 20 000 - 50 000 токенов или 1000 - 5000 долларов при последней цене частной продажи STG в 5 центов.
 
-*9. What is the total supply of STG? Will it change in future?*
+*9. Каково совокупное предложение STG? Изменится ли оно в будущем?*
 
-The total supply of STG has not changed since we first published our whitepaper. It’s still 1 billion tokens. No changes are planned in the future, but see the answer about annual inflation.
+Общее количество STG не изменилось с тех пор, как мы впервые опубликовали наш whitepaper. Это все еще 1 миллиард токенов. Никаких изменений в будущем не планируется, но дополнительно посмотрите ответ о годовой инфляции.
 
-*10. How many people are currently participating in your test net? How much RAM does it need?*
+*10. Сколько людей участвуют в вашей тестовой сети в настоящее время? Какой объем оперативной памяти необходим для участия?*
 
-We are about to publish our desktop app and will start doing large-scale testing immediately after. We need CPU performance for all the heavy encryption that we are doing. A lot of our users want to use AWS instances to run their nodes in the cloud. For example, AWS micro instances have capped CPU performance, so we can't use them. We need computing-optimized instances and the minimally suitable one is AWS c5.large with 2CPU cores and 4GB RAM.
+Мы собираемся опубликовать наше приложение для десктопов и сразу же начнем масштабное тестирование. Нам нужна производительность процессора для тяжелого шифрования, которое мы делаем. Многие наши пользователи хотят использовать экземпляры AWS для запуска своих нод в облаке. Например, экземпляры AWS micro имеют ограниченную производительность процессора, поэтому мы не можем их использовать. Нам нужны оптимизированные для вычислений экземпляры, и минимально подходящим является AWS c5.large с двухядерным процессором и 4 ГБ оперативной памяти.
 
-*11. When will you develop cross-chain anonymous transaction?*
+*11. Когда вы разработаете cross-chain для анонимных транзакций?*
 
-This is a technically complicated topic, but we plan to do this soon. Please understand that cross-chain transactions can only be anonymous when performed between two privacy blockchains. You will not be able to make the BTC side anonymous, for example, but the STG side will be 100% anonymous. The atomic swap will also be completely trustless. You will be instantly anonymous and untraceable once you convert your BTC to STG and will continue to have complete privacy as long as you are using STG.
+Это технически сложная тема, но мы планируем сделать это в ближайшее время. Пожалуйста, поймите, что транзакции между цепочками могут быть анонимными только при их выполнении между двумя конфиденциальными блокчейнами. Вы не сможете сделать сторону BTC анонимной, хотя при этом сторона STG будет на 100% анонимной. Атомарный своп также не будет иметь необходимости в доверии. Вы будете мгновенно анонимны и неотслеживаемы, как только вы конвертируете свой BTC в STG, и будете продолжать иметь полную конфиденциальность, пока вы используете STG.
 
-*12. Why does Stegos use the PoS (Proof-of-Stake) protocol rather than PoW (Proof-of-Work)?*
+*12. Почему Stegos использует протокол POS (Proof-of-Stake), а не POW (Proof-of-Work)?*
 
-We believe that PoW is too slow for the kind of Stegos use that we envision. We want to be as fast as possible and to run on the smartphone in your pocket. This requires PoS. We also want to deliver payments, chat messages and other data within seconds, something that’s not possible with PoW.  
+Мы считаем, что PoW слишком медленен для использования Stegos, как мы себе это представляем. Мы хотим быть как можно быстрее и работать на смартфоне буквально в кармане. Для этого требуется PoS. Мы также хотим доставлять платежи, сообщения в чате и другие данные в течение нескольких секунд, что невозможно с помощью PoW.
 
-*13. Can you describe the Stegos ecosystem?*
+*13. Можете вы описать экосистему Stegos?*
 
-Stegos acts as a message bus, passing around absolutely untraceable and anonymous messages from sender to recipient. Any data you can embed in such a message will be delivered with total privacy. This enables you to build all kinds of applications that exchange messages, e.g., robots talking to one another or autonomous vehicles. Chat and text messaging are the most immediate applications, though. We will deliver a software development kit (SDK) to enable our users to be creative and build great applications on top of the Stegos Privacy Platform.
+Stegos действует как шина передачи данных, передавая абсолютно неотслеживаемые и анонимные сообщения от отправителя к получателю. Любые данные, которые вы можете вставить в такое сообщение, будут доставлены с полной конфиденциальностью. Это позволяет создавать все виды приложений, которые обмениваются сообщениями, например, роботы, разговаривающие друг с другом, или автономные транспортные средства. Хотя чат и текстовые сообщения являются наиболее очевидными приложениями. Мы подготовим комплект для разработки программного обеспечения (SDK), чтобы наши пользователи могли творить и создавать отличные приложения на платформе конфиденциальности Stegos.
 
-*14. When will you release the Stegos mobile app?*
+*14. Когда вы выпустите мобильное приложение Stegos?*
 
-We have already started on the design of our mobile application and plan to release it towards the end of the year.
+Мы уже приступили к разработке нашего мобильного приложения и планируем выпустить его до конца года.
 
-*15. When will you release the Stegos mainnet?*
+*15. Когда вы выпустите mainnet Stegos?*
 
-In the next 2-3 weeks. Note that we will not be distributing tokens until the IEO or exchange listing event. We will announce the listing separately, in the next couple of weeks.
+В ближайшие 2-3 недели. Обратите внимание, что мы не будем распространять токены до IEO или листинга на бирже. Мы объявим о листинге отдельно, в ближайшие пару недель.
 
-*16. How many sales rounds does Stegos have? Can people still invest now? Are you going to distribute tokens until all tokens have been sold?*
+*16. Сколько раундов было у Стегоса? Могут ли люди по-прежнему инвестировать сейчас? Вы собираетесь распространять токены до тех пор, пока все токены не будут распроданы?*
 
-Stegos had three rounds of investment: seed, private sale #1 and private sale #2. You can still invest in private sale #2 at $0.05. This is the adjusted price after the
-[double token announcement] (https://stegos.com/news/2019/07/88-news/). Note that there’s a minimum of $100k in ETH required. All private sales will close when we get to the IEO or direct exchange listing. We will deliver the tokens that we owe to seed and private sale investors. A small portion of the tokens will be sold at the IEO if we have it instead of the direct exchange listing.
+У Stegos было 3 раунда инвестиций: посевные инвестиции, частные продажи первого и второго раундов. Вы все еще можете инвестировать в частную продажу второго раунда по цене 5 центов за один STG. Это скорректированная цена после [double token announcement] (https://stegos.com/news/2019/07/88-news/). Обратите внимание, что для частной продажи существует минимум в 100 000 долларов США в эквиваленте ETH. Все частные продажи будут закрыты, когда мы попадем в список IEO или залистимся на бирже. Мы будем поставлять токены, которые мы должны для посевного раунда и раундов частных продаж. Небольшая часть токенов будет продана на IEO, если у нас будет IEO вместо прямого биржевого листинга.
 
-*17. When did the second round of investment begin? What were the dates for the first and second investment rounds?*
+*17. Когда начался второй раунд инвестиций? Какой период инвестирования является первым раундом, а какой – вторым?*
 
-The first round of our private sale ran from February to April of 2018 and the second round was in May and June of 2018.
+Первый раунд или наша частная продажа проходила с февраля по апрель 2018 года, а второй раунд был в мае и июне 2018 года.
 
-*18. Are you going to develop Mac and Windows clients?*
+*18. Вы собираетесь разрабатывать приложения для MAC и windows?*
 
-We will be releasing a cross-platform desktop app this month. Testing should start next week. You will be able to run it on Mac, Linux and Windows.
+В этом месяце мы выпустим кросс-платформенное десктопное приложение. Тестирование должно начаться на следующей неделе. Вы сможете запустить его на Mac, Linux и Windows.
 
-*19. What kind of coin is STG? Is it a staking coin or just a token?*
+*19. Что это за монета STG? Это монета пригодна для стейкинга или это просто токен?*
 
-Stegos is a proper PoS coin used to pay for services on the Stegos blockchain. The same coin is used by validators to post a security bond (stake). Unlike other coins, you cannot earn STG just by holding it in your wallet — you actually need to run a node, be a validator and help support the network!
+Stegos – это полноценная PoS монета, используемая для оплаты услуг на блокчейне Stegos. Эта же монета используется валидаторами для размещения своих ставок (стейков). В отличие от других монет, вы не сможете заработать STG, просто удерживая его в своем кошельке — вам нужно фактически запустить узел, быть валидатором и помогать поддерживать сеть! 
+В отличие от других PoS, наш вариант позволяет получить большую награду, запустив узел и поддерживая нашу сеть. Часть каждой награды блока идет в т.н. “призовой” фонд, который присуждается случайному валидатору каждую неделю или около того. Эта награда не зависит от размера вашей ставки, поэтому все, что вам нужно, это минимальная ставка и узел, который всегда находится в сети и проверяет транзакции.
 
-Unlike other PoS coins, our variant lets you win big by running a node and supporting our network. A portion of each block reward goes into a prize pool that is awarded to a random validator every week or so. This award does not depend on the size of your stake, so all you need is a minimum stake and a node that’s always online and validating.
+*Ведущий* ：Из-за нехватки времени мы перейдем к сессии блиц-вопросов. Любые члены сообщества, у которых есть какие-либо вопросы, могут отправлять сообщения в чат. Джоэль затем ответит на два или три вопроса.
 
+*Q20: Каковы основные различия между Stegos и другими конфиденциальными монетами, такими как MITH? В чем преимущества Stegos?*
 
-*Host* ：Due to time constraints, we will now move to the quickfire question session. Any community members who have any questions should post to the chat. Joel will then answer two or three questions.
+A: Существует сравнение с другими конфиденциальными монетами в нашем whitepaper вы можете найти его на странице 42 [Chinese white paper](https://stegos.com/docs/stegos-whitepaper-zn.pdf) и странице 49 [English white paper](https://stegos.com/docs/stegos-whitepaper.pdf) .
 
-*Q20: What are the main differences between Stegos and other privacy coins like MITH? What are Stegos’ advantages?*
 
-A: There is a comparison with other privacy in our white paper, You can find it on page 42 in the [Chinese white paper](https://stegos.com/docs/stegos-whitepaper-zn.pdf) and Page 49 in the [English white paper](https://stegos.com/docs/stegos-whitepaper.pdf) .
+*Q21: Нужно ли пользователям платить STG за каждое сообщение, доставленное Stegos?*
 
+A: Да, вам необходимо платить за каждую транзакцию (и, следовательно, сообщение). Мы постараемся что-то с этим сделать, например, ввести единовременный ежемесячный платеж.
 
-*Q21: Do users need to pay STG for each message delivered by stegos?*
+*Q22: Сколько человек сейчас в вашей команде?*
 
-A: Yes, you need to pay for every transaction (and thus message). We will try to do something about this, e.g., with a single monthly payment.
+A: 11 человек, плюс внешние сотрудники.
 
 
-*Q22: How many people are in your team currently?*
+*Q23: У вас полный рабочий день у разработчиков? Есть ли у вас физический офис?*
 
-A: 11 people, plus external collaborators.
+A: У нас есть офис в Цуге в Швейцарии; однако там базируются только наш технический вице-президент и я. Все упомянутые 11 человек работают полный рабочий день, хотя привлеченные внешние сотрудники могут работать неполный рабочий день.
 
 
-*Q23: Do you have full time developers? And do you have a physical office?*
+*Q24: Будет ли вознаграждение одинаковым для узла с 10 000 токенами и узла с миллионом токенов?*
 
-A: We have a physical office in Zug, Switzerland; however, only our VP of Engineering and I are based there. All 11 people mentioned are full-time, although external collaborators may be part-time.
+A: Выплата для каждого узла зависит от размера ставки. Чем больше ставка, тем выше выигрыш. Так работает PoS. Наш PoS имеет изюминку: вы можете получить специальную большую выплату независимо от размера вашей ставки, пока вы держите свои ноды в интернете и поддерживаете нашу сеть. Это в дополнение к стандартной ставке.
 
 
-*Q24: Will the rewards be the same for a node with 10,000 tokens and one with a million tokens?*
+*Q25: Сколько транзакций в секунду (tps) может осуществлять Stegos прямо сейчас в своей текущей итерации? Масштабируется ли она по мере роста числа участников и по мере увеличения числа участников не возникнет никаких проблем децентрализации?*
 
-A: The payoff for each node depends on the size of the stake. The larger the stake, the higher the payoff. This is how PoS works. Our PoS comes with a twist, though, where you can win big regardless of the size of your stake, as long as you keep your node online and supporting our network. This is in addition to standard staking.
+А: Мы децентрализованы и сильно масштабируемы. Шардинг указан в нашей дорожной карте. Мы опубликуем тесты после выпуска основной сети.
 
-
-*Q25: How many transactions per second (tps) can Stegos deliver right now in its current iteration? Is it scalable as the number of participants grow, or will node centralization issues emerge as the number of participants scales?*
-
-A: We are decentralized and highly scalable. Sharding is on our roadmap. We’ll publish the benchmarks after releasing the mainnet.
-
-
-*Host*：Thank you Joel for taking time to talk to the community. This is the end of our AMA today. Any further questions from the community will be answered later. Thanks again!
+*Ведущий* ：Спасибо, Джоэль, за то, что нашли время, чтобы поговорить с сообществом. Это конец нашей АМА на сегодня. На любые дополнительные вопросы от сообщества ответы будут даны позже. Еще раз спасибо!

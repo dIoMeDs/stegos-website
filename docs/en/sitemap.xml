@@ -623,11 +623,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/report/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/report/"
                 />
@@ -662,11 +657,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
