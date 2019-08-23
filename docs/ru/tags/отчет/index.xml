@@ -6,10 +6,19 @@
     <description>Recent content in отчет on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/ru/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Бета-версия mainnet и выпуск desktop-приложения</title>
+      <link>https://diomeds.github.io/stegos-website/ru/news/2019/08/first-desktop-app-beta/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/ru/news/2019/08/first-desktop-app-beta/</guid>
+      <description>Уважаемое сообщество Stegos! Мы рады представить первую версию приложения Stegos для персональных компьютеров. Наша команда разработчиков вложила свою душу в создание этого, и теперь мы хотели бы, чтобы вы помогли нам протестировать его. Пожалуйста, загрузите приложение и используйте тестовый кран STG для получения тестовых монет, чтобы попробовать его самостоятельно! Это самая первая публичная версия приложения, поэтому она все еще находится в стадии разработки. Но все основные функции были реализованы:</description>
+    </item>
     
     <item>
       <title>Режим невидимости отключен</title>

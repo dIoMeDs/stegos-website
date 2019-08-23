@@ -14,6 +14,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/08/first-desktop-app-beta/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/news/2019/08/first-desktop-app-beta/"
                 />
@@ -28,6 +33,11 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/news/2019/08/ama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/news/2019/08/ama/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -613,6 +623,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/report/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/report/"
                 />
@@ -650,6 +665,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://diomeds.github.io/stegos-website/tags/technology/"
                 />
@@ -663,6 +683,11 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/ama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/ama/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -792,6 +817,16 @@
     <loc>https://diomeds.github.io/stegos-website/team/p_drew/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/team/p_drew/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/team/p_drew/"
+                />
   </url>
   
   <url>
