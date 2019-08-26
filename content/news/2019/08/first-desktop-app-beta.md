@@ -42,10 +42,8 @@ To download the Stegos app
 ​*1.* Visit [releases](https://github.com/stegos/stegos-wallet/releases)
 
 *2.* Scroll down and click “Assets”
-​
 
-<img src="/images/Desktop_app_1.png" alt="Assets"
-	style="object-fit:cover"/>
+<img src="/images/Desktop_app_1.png" style="object-fit:cover;width:100%"/>
 
 
 *3.* Mac users should click [StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg) to download the app.
@@ -54,34 +52,45 @@ On Linux, use [stegos-wallet_0.12.0_amd64.deb](https://github.com/stegos/stegos-
 
 If you aren't sure which Linux distribution you're using, click [stegos-wallet-0.12.0-x86_64.AppImage](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0-x86_64.AppImage).
 
-​
-![Download the app](/images/Desktop_app_2.png)
+​<img src="/images/Desktop_app_2.png" style="object-fit:cover;width:100%"/>
+
 ​
 
 #### Changing the app language
 
 The Stegos app now has Chinese language support! To access it, click the settings icon in the top right of the main account screen.
-![Settings](/images/Desktop_app_3.png)
 
+<img src="/images/Desktop_app_3.png" alt="Assets" style="object-fit:cover;width:100%"/>
+
+<br>
 Now, click the dropdown menu and change the setting from “English” to “Chinese”.
-![Chinese](/images/Desktop_app_4.png)
+
+<img src="/images/Desktop_app_4.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 #### Getting mainnet beta tokens
 To get test STG to use the mainnet beta, please use our faucet bot in our [Telegram Channel](https://stg.to/tgn).
 
 First, find your wallet address. Click “Receive” in the menu on the left (you can also select a specific account and click the orange “Receive Tokens” button).
-![Recieve Tokens](/images/Desktop_app_5.png)
 
+<img src="/images/Desktop_app_5.png" alt="Assets" style="object-fit:cover;width:100%"/>
+
+<br>
 Choose an account to receive tokens to from the drop down menu and then click Next (if you haven’t created any new accounts, your default account will show here).
-![Recieve Tokens](/images/Desktop_app_6.png)
 
+<img src="/images/Desktop_app_6.png" alt="Assets" style="object-fit:cover;width:100%"/>
+
+<br>
 You will now see the public key for your account. Click “Copy address to clipboard”.
-![Copy address](/images/Desktop_app_7.png)
 
+<img src="/images/Desktop_app_7.png" alt="Assets" style="object-fit:cover;width:100%"/>
+
+<br>
 The STG faucet bot is called [StegosLeprechaunBot](https://t.me/StegosLeprechaunBot).
 
 Send it a direct message in Telegram in the following format: /get \<your STG wallet address>
-![StegosLeprechaunBot](/images/Desktop_app_8.png)
+
+
+<img src="/images/Desktop_app_8.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 The bot will now send you 1000 STG. The Stegos blockchain is fast, so it should arrive in your Stegos account in just a few seconds!
 ​
