@@ -43,7 +43,9 @@ To download the Stegos app
 
 *2.* Scroll down and click “Assets”
 ​
-![Assets](/images/Desktop_app_1.png)
+
+<img src="/images/Desktop_app_1.png" alt="Assets"
+	style="object-fit:cover"/>
 
 
 *3.* Mac users should click [StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg) to download the app.
@@ -55,6 +57,7 @@ If you aren't sure which Linux distribution you're using, click [stegos-wallet-0
 ​
 ![Download the app](/images/Desktop_app_2.png)
 ​
+
 #### Changing the app language
 
 The Stegos app now has Chinese language support! To access it, click the settings icon in the top right of the main account screen.
