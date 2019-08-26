@@ -44,7 +44,8 @@ To download the Stegos app
 *2.* Scroll down and click “Assets”
 ​
 ![Assets](/images/Desktop_app_1.png)
-​
+
+
 *3.* Mac users should click [StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg) to download the app.
 
 On Linux, use [stegos-wallet_0.12.0_amd64.deb](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet_0.12.0_amd64.deb) for Debian/Ubuntu distributions and [stegos-wallet-0.12.0.x86_64.rpm](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0.x86_64.rpm) for Fedora/CentOS/RHEL distributions.
@@ -75,6 +76,7 @@ You will now see the public key for your account. Click “Copy address to clipb
 ![Copy address](/images/Desktop_app_7.png)
 
 The STG faucet bot is called [StegosLeprechaunBot](https://t.me/StegosLeprechaunBot).
+
 Send it a direct message in Telegram in the following format: /get \< your STG wallet address \>
 ![StegosLeprechaunBot](/images/Desktop_app_8.png)
 
