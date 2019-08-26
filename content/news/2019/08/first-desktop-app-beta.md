@@ -64,8 +64,8 @@ Now, click the dropdown menu and change the setting from “English” to “Chi
 ![Chinese](/images/Desktop_app_4.png)
 
 #### Getting mainnet beta tokens
-To get test STG to use the mainnet beta, please use our faucet bot in [Telegram Channel](https://stg.to/tgn).
-​
+To get test STG to use the mainnet beta, please use our faucet bot in our [Telegram Channel](https://stg.to/tgn).
+
 First, find your wallet address. Click “Receive” in the menu on the left (you can also select a specific account and click the orange “Receive Tokens” button).
 ![Recieve Tokens](/images/Desktop_app_5.png)
 
