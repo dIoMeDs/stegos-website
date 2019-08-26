@@ -77,7 +77,7 @@ You will now see the public key for your account. Click “Copy address to clipb
 
 The STG faucet bot is called [StegosLeprechaunBot](https://t.me/StegosLeprechaunBot).
 
-Send it a direct message in Telegram in the following format: /get \< your STG wallet address \>
+Send it a direct message in Telegram in the following format: /get \<your STG wallet address>
 ![StegosLeprechaunBot](/images/Desktop_app_8.png)
 
 The bot will now send you 1000 STG. The Stegos blockchain is fast, so it should arrive in your Stegos account in just a few seconds!
