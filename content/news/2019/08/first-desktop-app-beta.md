@@ -54,11 +54,33 @@ If you aren't sure which Linux distribution you're using, click [stegos-wallet-0
 ​
 ![Download the app](/images/Desktop_app_2.png)
 ​
+#### Changing the app language
+
+The Stegos app now has Chinese language support! To access it, click the settings icon in the top right of the main account screen.
+![Settings](/images/Desktop_app_3.png)
+
+Now, click the dropdown menu and change the setting from “English” to “Chinese”.
+![Chinese](/images/Desktop_app_4.png)
+
 #### Getting mainnet beta tokens
 To get test STG to use the mainnet beta, please use our faucet bot in [Telegram Channel](https://stg.to/tgn).
 ​
+First, find your wallet address. Click “Receive” in the menu on the left (you can also select a specific account and click the orange “Receive Tokens” button).
+![Recieve Tokens](/images/Desktop_app_5.png)
+
+Choose an account to receive tokens to from the drop down menu and then click Next (if you haven’t created any new accounts, your default account will show here).
+![Recieve Tokens](/images/Desktop_app_6.png)
+
+You will now see the public key for your account. Click “Copy address to clipboard”.
+![Copy address](/images/Desktop_app_7.png)
+
+The STG faucet bot is called [StegosLeprechaunBot](https://t.me/StegosLeprechaunBot).
+Send it a direct message in Telegram in the following format: /get \< your STG wallet address \>
+![StegosLeprechaunBot](/images/Desktop_app_8.png)
+
+The bot will now send you 1000 STG. The Stegos blockchain is fast, so it should arrive in your Stegos account in just a few seconds!
 ​
 #### Feedback
 The app is in its earliest public testing phase, so we need your feedback! If you have any comments, feedback, or spot any bugs, please send them to <support@stegos.zendesk.com>.
-​
+
 Updates to the desktop app will be released regularly based on this feedback.

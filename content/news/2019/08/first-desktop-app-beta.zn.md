@@ -47,8 +47,9 @@ Stegos团队
 
 ![Assets](/images/Desktop_app_1.png)
 
-*3.* 点击 [StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg) 来下载Mac版app。
-点击其他文件来下载 Linux app (下载哪个取决于您的Linux系统)。
+*3.* Mac用户请点击[StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg)来下载Mac版App。
+对于Linux, Debian/Ubuntu发行版请使用[stegos-wallet_0.12.0_amd64.deb](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet_0.12.0_amd64.deb)，Fedora/CentOS/RHEL发行版请使用[stegos-wallet-0.12.0.x86_64.rpm](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0.x86_64.rpm) 。
+如果您不确定您使用的Linux发行版，请点击[stegos-wallet-0.12.0-x86_64.AppImage](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0-x86_64.AppI)
 
 ![下载App](/images/Desktop_app_2.png)
 
