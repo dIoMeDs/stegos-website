@@ -6,7 +6,7 @@
 other = "白皮书"
 
 [whitepaper_pdf]
-other = "stegos-whitepaper-zn.pdf"
+other = "stegos中文白皮书.pdf"
 
 [news]
 other = "新闻"
@@ -15,7 +15,7 @@ other = "新闻"
 other =  "拒绝监视 <br> 拥抱自由!"
 
 [main_header_info]
-other = "Stegos通过保护用户的隐私信息<br>免受窥探，保护和授权用户。"
+other = "Stegos通过保护用户的隐私信息<br>免受窥探，保护和授权用户<br>。"
 
 [main_header_form_title]
 other = "我们很快就会启动"
@@ -174,16 +174,16 @@ other = "Stegos应用"
 other = "拒绝监控 — 拥抱自由!"
 
 [home_description]
-other = "The Stegos Privacy Platform combines a unique blockchain and token design to implement the first cryptocurrency that’s completely private, secure, effcient, and environmentally sustainable."
+other = "Stegos隐私平台结合了独特的区块链和通证设计，是首个实现了完全隐私，安全，高效和环境可持续的加密货币。"
 
 [team_title]
-other = "Leadership - Blockchain Team | Stegos"
+other = "领导层 - 区块链团队 | Stegos"
 
 [team_description]
-other = "Team with strong experience of blockchain with backgrounds in finance, aerospace and cryptography."
+other = "拥有丰富的区块链经验，拥有金融，航空航天和密码学背景。"
 
 [news_title]
-other = "Stegos Privacy Platform News"
+other = "Stegos隐私平台新闻"
 
 [news_description]
-other = "News about the Stegos Privacy Platform, an absolutely private and secure foundation for building decentralized mobile apps"
+other = "有关Stegos隐私平台的新闻"
