@@ -30,7 +30,7 @@ other = "了解更多"
 other = "为何选择STEGOS?"
 
 [absolutely_private]
-other = "绝对的<br>隐私"
+other = "绝对的隐私"
 
 [confidential_transactions]
 other = "隐私交易和隐私消息"
@@ -42,49 +42,49 @@ other = "隐身地址"
 other = "零知识证明"
 
 [snowball_our_own]
-other = "雪球, 我们独有的<br>部署ValueShuffle的<br>方式"
+other = "雪球, 我们独有的部署<br>ValueShuffle的方式"
 
 [unlinkable_and_untraceable]
-other = "不可链接性和<br>不可追踪性"
+other = "不可链接性和不可追踪性"
 
 [scalable_and_powerful]
-other = "可扩容且<br>功能强大"
+other = "可扩容且功能强大"
 
 [horizontal_scalability]
 other = "水平扩展性"
 
 [state_and_transactional]
-other = "状态分片和交易<br>分片"
+other = "状态分片和交易分片"
 
 [thousands_of_transactions]
-other = "每<br>秒<br>转账数（TPS）上千"
+other = "每秒转账数（TPS）上千"
 
 [original_r_and_d]
-other = "自主研发，<br>并非是分叉"
+other = "自主研发，并非是分叉"
 
 [fast_and_compact]
-other = "快速且<br>紧凑"
+other = "快速且紧凑"
 
 [transaction_confirmation]
-other = "几秒内即可确认<br>交易<br>"
+other = "几秒内即可确认交易"
 
 [old_data_and_transactions]
-other = "以前的数据和<br>交易<br>会安全删除"
+other = "以前的数据和交易会安全删除"
 
 [small_enough_to_fit]
-other = "足够小可以在移动设备上兼容<br>"
+other = "足够小可以在移动设备上兼容"
 
 [mobile_all_the_way]
 other = "专为所有人设计"
 
 [run_a_full_blockchain]
-other = "通过手机<br>运行轻<br>节点并通过<br>移动端权益抵押获得代币奖励"
+other = "通过手机运行轻节点并<br>通过移动端权益抵押获<br>得代币奖励"
 
 [fair_gamified]
-other = "公平的赌注权益证明让<br>你尽管不是<br>加密货币巨鲸也能获得很多！"
+other = "公平的赌注权益证明让<br>你尽管不是加密货币巨<br>鲸也能获得很多奖励！"
 
 [no_messing_around]
-other = "使用BTC进行原子交换的P2P交易"
+other = "使用BTC进行原子交换<br>的P2P交易"
 
 [an_incredibly_easy]
 other = "一种非常简单且安全的发送付款和邮件的方式"
