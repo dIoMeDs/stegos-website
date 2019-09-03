@@ -1360,7 +1360,9 @@ main {
   height: 100%;
   position: fixed;
   z-index: 100;
-  top: 0; }
+  top: 0;
+  display: none;
+ }
   .video_sector .video_cont {
     width: 800px;
     height: 800px;
@@ -1987,7 +1989,9 @@ main {
   position: fixed;
   background: #0e0d17;
   z-index: 100;
-  max-width: 1920px; }
+  max-width: 1920px;
+  display: none;
+}
   .main_menu .menu_link,
   .main_menu .menu_link_out {
     display: block;
