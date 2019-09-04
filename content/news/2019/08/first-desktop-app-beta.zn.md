@@ -85,7 +85,7 @@ Stegos应用程序现在已支持中文！要访问它，请单击主帐户屏�
 <img src="/images/Desktop_app_7_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 <br>
-STG水龙头机器人的名称是[StegosLeprechaunBot]（https://t.me/StegosLeprechaunBot）。
+STG水龙头机器人的名称是[StegosLeprechaunBot](https://t.me/StegosLeprechaunBot)
 
 在Telegram中用以下格式给这个机器人发送消息：/get \<你的钱包地址>
 
