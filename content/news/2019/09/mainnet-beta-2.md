@@ -18,7 +18,7 @@ In addition to lots of improvements and UI tweaks, the most exciting feature of 
 
 Please visit [releases](https://github.com/stegos/stegos-wallet/releases) to download the app.
 
-As always, please send comments, bug reports and any other feedback to <support@stegos.zendesk.com>.
+As always, please send comments, bug reports and any other feedback to <support@stegos.zendesk.com>. No comment is too small!<br>
 
 Thanks!
 
@@ -32,7 +32,7 @@ To download the Stegos app
 
 *2.* Scroll down and click “Assets”
 
-<img src="/images/Desktop_app_1.png" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_1_2.png" style="object-fit:cover;width:100%"/>
 
 
 *3.* Mac users should click [StegosWallet-0.13.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.13/StegosWallet-0.13.0.dmg) to download the app.
@@ -43,7 +43,7 @@ If you aren't sure which Linux distribution you're using, click [stegos-wallet-0
 
 Windows users should click [StegosWallet.Setup.0.13.0.exe](https://github.com/stegos/stegos-wallet/releases/download/v0.13/StegosWallet.Setup.0.13.0.exe).
 
-​<img src="/images/Desktop_app_2.png" style="object-fit:cover;width:100%"/>
+​<img src="/images/Desktop_app_2_2.png" style="object-fit:cover;width:100%"/>
 
 ​
 
