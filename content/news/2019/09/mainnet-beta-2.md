@@ -18,7 +18,7 @@ In addition to lots of improvements and UI tweaks, the most exciting feature of 
 
 Please visit [releases](https://github.com/stegos/stegos-wallet/releases) to download the app.
 
-As always, please send comments, bug reports and any other feedback to support@stegos.zendesk.com.
+As always, please send comments, bug reports and any other feedback to <support@stegos.zendesk.com>.
 
 Thanks!
 
