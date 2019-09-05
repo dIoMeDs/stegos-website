@@ -30,7 +30,7 @@ This is the very first public version of the app, so it’s still a work in prog
 
 Please send any feedback, suggestions, or information about bugs to the development team at <support@stegos.zendesk.com>. No comment is too small!<br>
 
-The beta app is ready for Mac and Linux. The Windows version is still a work in progress since the node has yet to be ported. We will release the Windows version very soon.
+The beta app is ready for Mac, Linux and Windows.
 
 Thanks for your help!
 
@@ -46,11 +46,13 @@ To download the Stegos app
 <img src="/images/Desktop_app_1.png" style="object-fit:cover;width:100%"/>
 
 
-*3.* Mac users should click [StegosWallet-0.12.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.12/StegosWallet-0.12.0.dmg) to download the app.
+*3.* Mac users should click [StegosWallet-0.13.0.dmg](https://github.com/stegos/stegos-wallet/releases/download/v0.13/StegosWallet-0.13.0.dmg) to download the app.
 
-On Linux, use [stegos-wallet_0.12.0_amd64.deb](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet_0.12.0_amd64.deb) for Debian/Ubuntu distributions and [stegos-wallet-0.12.0.x86_64.rpm](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0.x86_64.rpm) for Fedora/CentOS/RHEL distributions.
+On Linux, use [stegos-wallet_0.13.0_amd64.deb](https://github.com/stegos/stegos-wallet/releases/download/v0.13/stegos-wallet_0.13.0_amd64.deb) for Debian/Ubuntu distributions and [stegos-wallet-0.13.0.x86_64.rpm](https://github.com/stegos/stegos-wallet/releases/download/v0.13/stegos-wallet-0.13.0.x86_64.rpm) for Fedora/CentOS/RHEL distributions.
 
-If you aren't sure which Linux distribution you're using, click [stegos-wallet-0.12.0-x86_64.AppImage](https://github.com/stegos/stegos-wallet/releases/download/v0.12/stegos-wallet-0.12.0-x86_64.AppImage).
+If you aren't sure which Linux distribution you're using, click [stegos-wallet-0.13.0-x86_64.AppImage](https://github.com/stegos/stegos-wallet/releases/download/v0.13/stegos-wallet-0.13.0-x86_64.AppImage).
+
+Windows users should click [StegosWallet.Setup.0.13.0.exe](https://github.com/stegos/stegos-wallet/releases/download/v0.13/StegosWallet.Setup.0.13.0.exe).
 
 ​<img src="/images/Desktop_app_2.png" style="object-fit:cover;width:100%"/>
 
