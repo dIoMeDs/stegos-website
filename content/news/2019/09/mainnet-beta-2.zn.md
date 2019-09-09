@@ -51,29 +51,29 @@ Windows用户请点击[StegosWallet.Setup.0.13.0.exe](https://github.com/stegos/
 
 Stegos应用程序现在已支持中文！要访问它，请单击主帐户屏幕右上角的设置图标。
 
-<img src="/images/Desktop_app_3.png" alt="Assets" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_3_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 <br>
 现在，单击下拉菜单并将设置从“English”更改为“Chinese”。
 
-<img src="/images/Desktop_app_4.png" alt="Assets" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_4_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 #### 获取预发布主网代币
 如需获取测试代币STG来体验测试预发布主网，请使用[电报](https://stg.to/tgnch)中的我们的STG水龙头机器人获取。
 
 首先，找到你的钱包地址。单击左侧菜单中的“接收”（你也可以选择一个特定帐户后单击橙色“接收代币”按钮）。
 
-<img src="/images/Desktop_app_5.png" alt="Assets" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_5_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 <br>
 从下拉菜单中选择要接收代币的帐户，然后单击下一步（如果你尚未创建任何新帐户，则会在此处显示您的默认帐户）。
 
-<img src="/images/Desktop_app_6.png" alt="Assets" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_6_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 <br>
 您现在将看到您帐户的公钥（地址）。单击“将地址复制到剪贴板”。
 
-<img src="/images/Desktop_app_7.png" alt="Assets" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_7_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 <br>
 STG水龙头机器人的名称是 [StegosLeprechaunBot](https://t.me/StegosLeprechaunBot).
@@ -81,7 +81,7 @@ STG水龙头机器人的名称是 [StegosLeprechaunBot](https://t.me/StegosLepre
 在Telegram中用以下格式给这个机器人发送消息：/get \<你的钱包地址>
 
 
-<img src="/images/Desktop_app_8.png" alt="Assets" style="object-fit:cover;width:100%"/>
+<img src="/images/Desktop_app_8_zn.png" alt="Assets" style="object-fit:cover;width:100%"/>
 
 机器人将立即向你发送1000个STG。Stegos区块链很快，所以它应该在几秒钟内到达您的Stegos帐户！
 
