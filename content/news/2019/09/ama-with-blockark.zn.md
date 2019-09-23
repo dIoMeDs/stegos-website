@@ -19,7 +19,7 @@ draft: false
 
 主持人为BlockArk联合创始人大副，以下为直播实录：
 
-<img src="/images/ama_2_zn.jpeg" style="object-fit:cover;width:100%"/>
+<img src="/images/ama_2_zn.jpeg" style="object-fit:cover;width:50%"/>
 
 ## 直播实录
 
