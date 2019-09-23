@@ -12,8 +12,8 @@ weight: 7
 draft: false
 ---
 
-At 7pm on September 17th, Stegos founder Joel conducted a 100-minute AMA live broadcast to the community. It was broadcast simultaneously across 9 different communities, with a peak viewership of 4,500 people as Joel shared the twists and turns of creating Stegos. The technical details of Stegos and the live Q&A discussion format made for an exciting evening.
-​
+At 7pm on September 17th, Stegos founder Joel conducted a 100-minute AMA live broadcast to the community. It was broadcast simultaneously across 9 different communities, with a peak viewership of 4,500 people as Joel shared the twists and turns of creating Stegos. The technical details of Stegos and the live Q&A discussion format made for an exciting evening. <br>
+
 Below you'll find a transcript of last night's AMA.
 
 This guest for this time is Joel, who is the founder of Stegos, an experienced hacker and blockchain pioneer. He was the former CEO of AE. He also served as the technical director of Deutsche Bank's prime brokerage and was responsible for the overseas development team. He currently focuses on Stegos to address privacy communications and payment issues.
