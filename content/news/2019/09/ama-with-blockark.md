@@ -22,7 +22,7 @@ The host is the *Co-founder of BlockArk*. The following is the live recording:
 
 *Co-founder of BlockArk*:
 
-Stegos was founded by AE's predecessor CTO – Joel <br>
+Stegos was founded by AE's predecessor CTO – Joel<br>
 Main features of Stegos:
 
 - Privacy transactions: complete privacy, scalability through Omniledger shard + block cut guarantee, the first lightweight blockchain that supports shards, the so-called TPS is not a problem at all, the most scalable privacy chain.
