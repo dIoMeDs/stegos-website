@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/news/2019/09/ama-with-blockark/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/09/ama-with-blockark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/09/ama-with-blockark/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/news/2019/09/mainnet-beta-2/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -509,7 +526,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/zn/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -530,7 +547,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/zn/categories/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -550,8 +567,24 @@
   </url>
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/categories/interview/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/categories/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/categories/interview/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/news/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -572,7 +605,7 @@
   
   <url>
     <loc>https://diomeds.github.io/stegos-website/zn/tags/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -592,8 +625,45 @@
   </url>
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/ama/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/ama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://diomeds.github.io/stegos-website/ru/tags/ama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/ama/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/interview/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/interview/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/tags/stegos/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -613,6 +683,22 @@
   </url>
   
   <url>
+    <loc>https://diomeds.github.io/stegos-website/zn/tags/technology/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/technology/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diomeds.github.io/stegos-website/zn/categories/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -628,27 +714,6 @@
     <loc>https://diomeds.github.io/stegos-website/zn/tags/%E6%8A%A5%E5%91%8A/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/tags/ama/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/tags/ama/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://diomeds.github.io/stegos-website/ru/tags/ama/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/tags/ama/"
-                />
   </url>
   
   <url>
@@ -723,22 +788,6 @@
                 rel="alternate"
                 hreflang="zn"
                 href="https://diomeds.github.io/stegos-website/zn/tags/mobile/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diomeds.github.io/stegos-website/zn/tags/technology/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diomeds.github.io/stegos-website/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zn"
-                href="https://diomeds.github.io/stegos-website/zn/tags/technology/"
                 />
   </url>
   

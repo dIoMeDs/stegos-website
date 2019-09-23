@@ -7,6 +7,16 @@
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/news/2019/09/ama-with-blockark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/news/2019/09/ama-with-blockark/"
+                />
   </url>
   
   <url>
@@ -577,6 +587,16 @@
     <loc>https://diomeds.github.io/stegos-website/categories/interview/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/categories/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/categories/interview/"
+                />
   </url>
   
   <url>
@@ -646,6 +666,16 @@
     <loc>https://diomeds.github.io/stegos-website/tags/interview/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zn"
+                href="https://diomeds.github.io/stegos-website/zn/tags/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diomeds.github.io/stegos-website/tags/interview/"
+                />
   </url>
   
   <url>
