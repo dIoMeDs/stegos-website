@@ -6,10 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mainnet Beta 3 Released!</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/10/mainnet-beta-3/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/10/mainnet-beta-3/</guid>
+      <description>Mainnet Beta 3 and App v0.14.0 Released! ​ Dear Stegos Community, ​ We&amp;rsquo;re please to announce our final beta release for the upcoming Stegos mainnet, as well as the next version of our desktop app (v0.14.0). The label &amp;ldquo;beta&amp;rdquo; means that we have no known critical issues and showstoppers. This is a complete restart of the chain, so all balances will be wiped. Users will have to delete their old chain data before restarting the app.</description>
+    </item>
     
     <item>
       <title>Review of AMA with BlockArk</title>
