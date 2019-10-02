@@ -2,9 +2,9 @@
 author: "Vladimir Lebedev"
 date: 2019-10-01
 linktitle: Mainnet Beta 3 20191001
-title: "Mainnet Beta 3 Released!"
+title: "Mainnet Beta 3 and App v0.14.0 Released!"
 description: "We've just released the final beta version of the Stegos mainnet for testing."
-metaTitle: "Mainnet Beta 3 Released!"
+metaTitle: "Mainnet Beta 3 and App v0.14.0 Released!"
 metaDescription: "We've just released the final beta version of the Stegos mainnet for testing."
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "report", "technology"]
