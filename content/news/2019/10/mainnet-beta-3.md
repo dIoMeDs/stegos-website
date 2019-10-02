@@ -2,18 +2,16 @@
 author: "Vladimir Lebedev"
 date: 2019-10-01
 linktitle: Mainnet Beta 3 20191001
-title: "Mainnet Beta 3 Released!"
+title: "Mainnet Beta 3 and App v0.14.0 Released!"
 description: "We've just released the final beta version of the Stegos mainnet for testing."
-metaTitle: "Mainnet Beta 3 Released!"
+metaTitle: "Mainnet Beta 3 and App v0.14.0 Released!"
 metaDescription: "We've just released the final beta version of the Stegos mainnet for testing."
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "report", "technology"]
 weight: 7
 draft: false
 ---
-# Mainnet Beta 3 and App v0.14.0 Released!
-​
-Dear Stegos Community,
+# Dear Stegos Community,
 
 We're please to announce our final beta release for the upcoming Stegos mainnet, as well as the next version of our desktop app (v0.14.0). The label "beta" means that we have no known critical issues and showstoppers. This is a complete restart of the chain, so all balances will be wiped. Users will have to delete their old chain data before restarting the app. The contents of the following directories must be deleted fully:
 

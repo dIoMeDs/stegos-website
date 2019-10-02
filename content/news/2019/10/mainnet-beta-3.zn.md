@@ -2,18 +2,16 @@
 author: "Vladimir Lebedev"
 date: 2019-10-01
 linktitle: 预发布主网V3 20191001
-title: "Mainnet Beta 3正式发布！"
+title: "Mainnet Beta 3和App v0.14.0正式发布！"
 description: "我们刚刚发布了Stegos主网的最终Beta版以进行公开测试。"
-metaTitle: "Mainnet Beta 3正式发布！"
+metaTitle: "Mainnet Beta 3和App v0.14.0正式发布！"
 metaDescription: "我们刚刚发布了Stegos主网的最终Beta版以进行公开测试。"
 categories: [ "开发" ]
 tags: ["stegos", "报告", "技术"]
 weight: 7
 draft: false
 ---
-# Mainnet Beta 3和App v0.14.0正式发布！
-
-亲爱的Stegos社区，
+# 亲爱的Stegos社区，
 
 我们很高兴地在这里郑重宣布发布Stegos主网的最终测试版Mainnet Beta 3，以及桌面App的全新版本(v0.14.0)。 标签"beta"表示我们没有已知的关键问题和运行问题。本次Stegos链会进行完全重启，因此所有的节点数据和钱包余额都将被清除。用户必须在重新启动应用程序之前，删除旧的链数据。以下目录的内容必须完全删除：
 

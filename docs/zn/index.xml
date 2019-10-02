@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Mainnet Beta 3正式发布！</title>
+      <title>Mainnet Beta 3和App v0.14.0正式发布！</title>
       <link>https://diomeds.github.io/stegos-website/zn/news/2019/10/mainnet-beta-3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/zn/news/2019/10/mainnet-beta-3/</guid>
-      <description>Mainnet Beta 3和App v0.14.0正式发布！ 亲爱的Stegos社区，
-我们很高兴地在这里郑重宣布发布Stegos主网的最终测试版Mainnet Beta 3，以及桌面App的全新版本(v0.14.0)。 标签&amp;rdquo;beta&amp;rdquo;表示我们没有已知的关键问题和运行问题。本次Stegos链会进行完全重启，因此所有的节点数据和钱包余额都将被清除。用户必须在重新启动应用程序之前，删除旧的链数据。以下目录的内容必须完全删除：
+      <description>亲爱的Stegos社区， 我们很高兴地在这里郑重宣布发布Stegos主网的最终测试版Mainnet Beta 3，以及桌面App的全新版本(v0.14.0)。 标签&amp;rdquo;beta&amp;rdquo;表示我们没有已知的关键问题和运行问题。本次Stegos链会进行完全重启，因此所有的节点数据和钱包余额都将被清除。用户必须在重新启动应用程序之前，删除旧的链数据。以下目录的内容必须完全删除：
 Windows: C:\Users\[user]\AppData\Roaming\stegos
 Mac: $HOME/Library/Application Support/stegos
 Linux: $HOME/.local/share/stegos
