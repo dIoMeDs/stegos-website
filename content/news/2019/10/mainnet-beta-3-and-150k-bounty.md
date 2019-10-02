@@ -2,17 +2,17 @@
 author: "Vladimir Lebedev"
 date: 2019-10-02
 linktitle: Mainnet Beta 3 20191002
-title: "Stegos News: Mainnet Beta 3 and $150k Bounty"
-description: "Description."
-metaTitle: "Stegos News: Mainnet Beta 3 and $150k Bounty"
-metaDescription: "Description."
+title: "Stegos News: $150k bounty and more!"
+description: "Weekly Stegos news, including new software updates and our huge bounty contest!"
+metaTitle: "Stegos News: $150k bounty and more!"
+metaDescription: "Weekly Stegos news, including new software updates and our huge bounty contest!"
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "bounty", "technology"]
 weight: 7
 draft: false
 ---
 
-# Dear Stegos Community,
+## Dear Stegos Community,
 
 Big news this week. The devs have released the next beta version of mainnet: Mainnet Beta 3. This will be the final test version of mainnet before our release. You can read the full release notes [here](https://github.com/stegos/stegos/releases/tag/v0.14).
 
@@ -22,7 +22,7 @@ We're just putting the finishing touches to the bot, and we'll be ready to launc
 
 Learn more about how the bounty will work here.
 
-## What does the Mainnet Beta 3 release mean for me?
+### What does the Mainnet Beta 3 release mean for me?
 
 Mainnet Beta 3 brings in a lot of improvements to the Stegos app, which is now at v0.14.0.
 
@@ -43,13 +43,13 @@ Depending on your operating system, you can find it in the following locations o
 
 Just delete these directories and then install the new version of the Stegos app by heading here. (You may need administrative privileges or to enable hidden files and folders to see these directories.)
 
-## What's changed since Mainnet Beta 2?
+### What's changed since Mainnet Beta 2?
 
 Faster initial sync
 
 The biggest difference from Mainnet Beta 2 is that we haven't pre-loaded the chain with transactions to stress test it. This means that initial syncing is MUCH quicker. Where Mainnet Beta 2 could take over a day for the first sync, Mainnet Beta 3 will sync in around 5-10 minutes on first run.
 
-## Background syncing
+### Background syncing
 
 What's even better than ultra-fast syncing? Syncing in the background! Now when you load the app for a second time, it uses a saved snapshot to ensure you can access your wallet in 1-2 minutes.
 
@@ -57,7 +57,7 @@ What's even better than ultra-fast syncing? Syncing in the background! Now when 
 
 In future versions the sync counter will be replaced with something more informative.
 
-## New Address Format
+### New Address Format
 
 We've switched address format from Base58 to Bech32. There are multiple advantages to this, including easier typing (Bech 32 is case insensitive, so you don't have to carefully switch between uppercase and lowercase) and clear prefixes we can associate with each new version of the Stegos testnet and mainnet, to prevent later confusion.
 
@@ -65,10 +65,10 @@ We've switched address format from Base58 to Bech32. There are multiple advantag
 
 If you're using the app for the first time, you don't need to worry about this. If you've used it before, note that you can still restore addresses using your saved mnemonic, but the display format will be different. (Also your testSTG balance will be reset, because the chain has been restarted.)
 
-## Leprechaun Bot has been disabled
+### Leprechaun Bot has been disabled
 
 The Stegos Leprechaun bot has been disabled to prepare for the upcoming bounty, which will have its own bot. Thank you to everyone who used our bot. To show our gratitude, we'll be giving everyone who registered with the bot some bonus tokens in the bounty, to give you a small head start. Good luck!
 
-# What next?
+### What next?
 
 October is going to be incredibly busy. We're launching our $150k bounty in the next few days, and also preparing for our upcoming IEO and mainnet release. As always, visit our [Telegram group](https://stg.to/tgn) for more information.
