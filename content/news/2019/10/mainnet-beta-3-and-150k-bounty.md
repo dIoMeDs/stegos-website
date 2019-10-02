@@ -3,9 +3,9 @@ author: "Vladimir Lebedev"
 date: 2019-10-03
 linktitle: Mainnet Beta 3 20191003
 title: "Stegos News: Mainnet Beta 3 and $150k Bounty"
-description: "We've just released the final beta version of the Stegos mainnet for testing."
+description: "Description."
 metaTitle: "Stegos News: Mainnet Beta 3 and $150k Bounty"
-metaDescription: "We've just released the final beta version of the Stegos mainnet for testing."
+metaDescription: "Description."
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "bounty", "technology"]
 weight: 7
