@@ -21,7 +21,7 @@ Mac: `$HOME/Library/Application Support/stegos`
 
 Linux: `$HOME/.local/share/stegos`
 
-您可以[点击此处](https://github.com/stegos/stegos-wallet/releases/tag/v0.14) 下载最新版的Stegos桌面应用，[点击此处](https://github.com/stegos/stegos/releases)下载运行Stegos节点所需的CLI资源文件。
+您可以[点击此处](https://github.com/stegos/stegos-wallet/releases/tag/v0.14)下载最新版的Stegos桌面应用，[点击此处](https://github.com/stegos/stegos/releases)下载运行Stegos节点所需的CLI资源文件。
 ## 赏金计划
 
 Mainnet beta 3将被用作即将于本周开始的Stegos赏金计划的基础链。为此，我们部署了以下更改：
