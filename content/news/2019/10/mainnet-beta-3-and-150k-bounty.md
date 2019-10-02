@@ -12,8 +12,6 @@ weight: 7
 draft: false
 ---
 
-# Stegos News: Mainnet Beta 3 Launch and $150k Bounty and Hackathon  
-
 # Dear Stegos Community,
 
 Big news this week. The devs have released the next beta version of mainnet: Mainnet Beta 3. This will be the final test version of mainnet before our release. You can read the full release notes [here](https://github.com/stegos/stegos/releases/tag/v0.14).
