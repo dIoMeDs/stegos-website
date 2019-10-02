@@ -20,7 +20,6 @@ This week also marks the launch of our bounty and hackathon, where you can compl
 
 We're just putting the finishing touches to the bot, and we'll be ready to launch in a day or two.
 
-Learn more about how the bounty will work here.
 
 ### What does the Mainnet Beta 3 release mean for me?
 
