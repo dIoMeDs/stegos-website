@@ -21,7 +21,7 @@ Mac: `$HOME/Library/Application Support/stegos`
 
 Linux: `$HOME/.local/share/stegos`
 
-​You can download the latest version of the Stegos app and CLI [here](https://github.com/stegos/stegos/releases).
+​You can download the latest version of the Stegos app and CLI [here](https://github.com/stegos/stegos-wallet/releases/tag/v0.14).
 
 ## Bounty Program
 ​
