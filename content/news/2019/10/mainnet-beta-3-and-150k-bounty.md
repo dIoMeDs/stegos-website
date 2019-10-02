@@ -1,7 +1,7 @@
 ---
 author: "Vladimir Lebedev"
-date: 2019-10-03
-linktitle: Mainnet Beta 3 20191003
+date: 2019-10-02
+linktitle: Mainnet Beta 3 20191002
 title: "Stegos News: Mainnet Beta 3 and $150k Bounty"
 description: "Description."
 metaTitle: "Stegos News: Mainnet Beta 3 and $150k Bounty"
@@ -33,9 +33,13 @@ If this is your first time downloading the Stegos app and node, then you don't n
 If you've downloaded the app and node before, then you'll need to delete your old chain data.
 
 Depending on your operating system, you can find it in the following locations on your hard drive:
+
 **Windows:** `C:\Users\[user]\AppData\Roaming\stegos`
+
 **Mac:** `$HOME/Library/Application Support/stegos`
+
 **Linux:** `$HOME/.local/share/stegos`
+
 
 Just delete these directories and then install the new version of the Stegos app by heading here. (You may need administrative privileges or to enable hidden files and folders to see these directories.)
 

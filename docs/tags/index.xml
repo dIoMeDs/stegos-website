@@ -6,24 +6,24 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>report</title>
-      <link>https://diomeds.github.io/stegos-website/tags/report/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>bounty</title>
+      <link>https://diomeds.github.io/stegos-website/tags/bounty/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://diomeds.github.io/stegos-website/tags/report/</guid>
+      <guid>https://diomeds.github.io/stegos-website/tags/bounty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stegos</title>
       <link>https://diomeds.github.io/stegos-website/tags/stegos/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/tags/stegos/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>technology</title>
       <link>https://diomeds.github.io/stegos-website/tags/technology/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://diomeds.github.io/stegos-website/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>report</title>
+      <link>https://diomeds.github.io/stegos-website/tags/report/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/tags/report/</guid>
       <description></description>
     </item>
     
