@@ -21,6 +21,8 @@ Mac: `$HOME/Library/Application Support/stegos`
 
 Linux: `$HOME/.local/share/stegos`
 ​
+You can download the latest version of the Stegos app and CLI [here](https://github.com/stegos/stegos/releases).
+
 ## Bounty Program
 ​
 Mainnet beta 3 will be used as part of the upcoming Stegos bounty program, which starts next week. To support this, the following changes have being made:
