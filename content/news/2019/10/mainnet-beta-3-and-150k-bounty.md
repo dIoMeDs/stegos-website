@@ -1,7 +1,7 @@
 ---
 author: "Vladimir Lebedev"
-date: 2019-10-02
-linktitle: Mainnet Beta 3 20191002
+date: 2019-10-03
+linktitle: Mainnet Beta 3 20191003
 title: "Stegos News: $150k bounty and more!"
 description: "Weekly Stegos news, including new software updates and our huge bounty contest!"
 metaTitle: "Stegos News: $150k bounty and more!"
@@ -55,6 +55,12 @@ What's even better than ultra-fast syncing? Syncing in the background! Now when 
  **PLEASE NOTE:** Your syncing progress may still say 0% for more than a minute while the app is checking your saved data. Please be patient. It hasn't stalled. (If it stays at 0% for more than half an hour, please email support@stegos.zendesk.com.)
 
 In future versions the sync counter will be replaced with something more informative.
+
+## Automatic Language Selection
+
+The Stegos desktop wallet now uses your computer's default language to automatically select a language on first start up. We currently support English and Chinese, with plans to add more languages later.
+
+You can manually change the language later in the settings menu, if you want.
 
 ### New Address Format
 
