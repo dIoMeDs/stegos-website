@@ -1,7 +1,7 @@
 ---
 author: "Vladimir Lebedev"
-date: 2019-10-03
-linktitle: Mainnet Beta 3 20191003
+date: 2019-10-04
+linktitle: Mainnet Beta 3 20191004
 title: "Stegos News: $150k bounty and more!"
 description: "Weekly Stegos news, including new software updates and our huge bounty contest!"
 metaTitle: "Stegos News: $150k bounty and more!"

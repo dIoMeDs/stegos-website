@@ -6,10 +6,41 @@
     <description>Recent content in 报告 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/zn/tags/%E6%8A%A5%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stegos新闻: 15万美元的赏金活动和新的钱包更新！</title>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/10/mainnet-beta-3-and-150k-bounty/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/10/mainnet-beta-3-and-150k-bounty/</guid>
+      <description>亲爱的Stegos社区， 本周重大新闻：开发人员已经发布了mainnet的下一个beta版本：Mainnet Beta3。这将是我们上线之前mainnet的最终测试版本。您可以点击此处阅读完整的发行说明。
+本周还标志着我们的黑客马拉松和赏金活动的启动，您可以在活动期间完成任务以赚取积分，总奖池高达150,000美元等你来瓜分。赏金活动将分为两个平台进行：一个平台在我们的网站上进行，由Vyper竞赛平台提供支持；另一个平台在我们的Mainnet Beta 3链上进行，并由Telegram赏金机器人提供支持。对于电报赏金平台，您可以通过完成各个任务，成为验证器，参与Staking挖矿等活动中获得测试网STG，这些测试网STG会在主网上线后按照一定比例兑换成真实的STG主网币！
+目前我们的电报机器人即将准备就绪，我们准备在一两天内发布活动。
+Mainnet Beta 3版本对我来说意味着什么？ Mainnet Beta 3对Stegos桌面应用进行了诸多改进，当前的版本为v0.14.0。
+本次更新会完全重置链数据，因此所有先前的测试代币都会被删除。
+如果这是您第一次下载Stegos应用和节点，那么您无需执行任何特殊操作。只需转到下载页面，为您的操作系统（Windows，Mac或Linux）选择正确的对应文件下载，然后安装并同步即可。
+如果您之前已下载应用程序和节点，则需要删除旧的链数据。
+根据您的操作系统，可以在电脑硬盘的以下位置找到它：
+Windows: C:\Users\[user]\AppData\Roaming\stegos
+Mac: $HOME/Library/Application Support/stegos
+Linux: $HOME/.local/share/stegos
+只需删除这些目录，然后安装Stegos应用程序的最新版本。(您可能需要管理特权或启用隐藏的文件和文件夹才能查看这些目录。）
+Mainnet Beta 3和Mainnet Beta 2的区别有哪些？ 更快的区块同步速度
+Mainnet Beta 3与Mainnet Beta 2的最大区别在于，我们不再预加载交易链来对其进行压力测试。 这意味着初始同步要快得多。Mainnet Beta 2可能需要一天的时间才能进行首次同步，而Mainnet Beta 3在首次运行时仅需大约5-10分钟即可同步。
+后台同步 有什么比超快速同步更好的呢？在后台同步！现在，当您第二次加载该应用程序时，它会使用保存的历史快照，来确保您可以在1-2分钟内访问您的钱包。
+注意：在应用程序检查您保存的数据时，您的同步进度可能仍然处于0％超过一分钟。请耐心等待，并保持应用程序处于正常打开状态，它并没有停止运行。（如果它在0％处停留超过半小时，请发送电子邮件至support@stegos.zendesk.com 支持中文邮件）
+在将来的版本中，我们会对同步进度条优化，提供更详细的信息展示。
+自动选择默认语言 现在在首次启动时，Stegos桌面钱包会根据你的计算机系统默认语言自动选择一种语言。我们目前支持英文和中文，并计划在以后添加更多语言。
+您也可以根据需要在应用内部的设置中手动更改语言。
+新的地址格式 我们已经将地址格式从Base58切换到Bech32。这样做有很多优点，包括更容易键入 (Bech 32不区分大小写，因此您不必在大写和小写字母之间仔细切换) 并为每个链清除前缀。
+如果您是第一次使用stegos应用程序，则无需为此担心。如果以前使用过它，请注意，您仍然可以使用保存的助记词还原地址，但是显示格式将有所不同。（由于链已重新启动，因此您的testSTG余额将被重置）。
+电报水龙头机器人已被禁用 Stegos 电报水龙头机器人已被禁用，以便为即将到来的赏金活动做准备，本次赏金活动将拥有专属的机器人。感谢所有使用我们机器人的用户。为了表示我们的感谢，赏金活动，我们将为所有在机器人程序中已注册的人提供一些奖励令牌，以给您一个小占优势的起跑点。祝你好运！
+接下来是什么？ 十月将非常忙碌。我们将在接下来的几天内推出15万美元的赏金计划，并为即将发布的IEO和Mainnet做准备。与往常一样，请访问我们的电报群以获取更多信息。</description>
+    </item>
     
     <item>
       <title>Mainnet Beta 3和App v0.14.0正式发布！</title>
