@@ -12,7 +12,7 @@ weight: 7
 draft: false
 ---
 
-# Welcome to the Stegos $150,000 Bounty and Hackathon
+## Welcome to the Stegos $150,000 Bounty and Hackathon
 
 To celebrate our final testnet release before the upcoming Stegos IEO and mainnet release, we're offering a **$150,000 bounty program** to help spread the word about Stegos and collect feedback on our app and blockchain.
 
