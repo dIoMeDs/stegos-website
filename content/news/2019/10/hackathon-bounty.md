@@ -20,11 +20,11 @@ The bounty program will run in two parts, each with a prize pool of $75,000 in S
 
 ## Part 1: $75,000 Community and Social Media Bounty Program
 
-The first part is a social media and community bounty [run on our website](http://bounty.stegos.com), with big prizes for the top 50 scorers and a $10,000 random draw for anyone who scores in the top 1000 places. Head here to find out more about it and see a list of tasks.
+The first part is a social media and community bounty run on our website, with big prizes for the top 50 scorers and a $10,000 random draw for anyone who scores in the top 1000 places. [Head here to sign up](http://bounty.stegos.com) and see the list of tasks.
 
 ## Part 2: $75,000 Testing and Feedback Bounty Program
 
-The second part will be running in the [Stegos Telegram group](https://t.me/stegos4privacy), and we think it's something really exciting and unique: we're going to award $75,000 in STG coins for testing our blockchain and app and providing feedback, and we're going to use the latest version of the Stegos blockchain to track the scores. At the end of the contest, everyone will receive STG based on the number of testSTG they've earned.
+The second part will be running in the [Stegos Telegram group](https://stg.to/tgn), and we think it's something really exciting and unique: we're going to award $75,000 in STG coins for testing our blockchain and app and providing feedback, and we're going to use the latest version of the Stegos blockchain to track the scores. At the end of the contest, everyone will receive STG based on the number of testSTG they've earned.
 
 For example, if 1,000,000 testSTG are issued during the hackathon and you earn 100,000, you would have 10% of the total supply and thus win 10% of the bounty pool, or $7,500.  
 
@@ -35,6 +35,8 @@ For example, if 1,000,000 testSTG are issued during the hackathon and you earn 1
 Stegos is a completely private blockchain, so no-one can track Stegos transactions from the chain, even us. Therefore, you MUST register your public key with our Stegos bounty bot and then use the same account for ALL bounty tasks. Otherwise, we won't be able to track your points.
 
 As the hackathon proceeds, we'll be adding more functionality to the bounty bot, including daily rewards. So make sure to check into the Stegos Telegram group every day!
+
+The bounty bot is called [Jerry](https://t.me/StegosJerryBot)). Interact with Jerry by sending private messages on Telegram. You can see the list of commands by typing `/help`.
 
 # Hackathon Task List
 
@@ -54,16 +56,16 @@ These initial tasks are compulsory tasks to get you set up for the Stegos Telegr
 
 **Task:** Register your public key with our Telegram Bounty Bot. The Bounty Bot will keep track of your score throughout the bounty and track it on the leaderboard.
 
-**Reward:** 100 STG
+**Reward:** 100 testSTG
 
 **How to Claim:** Find your public key in the Stegos app, and copy it to your clipboard.
 
-In Telegram, send a private message to Jerry, the Stegos Bounty Bot (username: @StegosJerryBot)
+In Telegram, send a private message to Jerry, the Stegos Bounty Bot (username: [StegosJerryBot](https://t.me/StegosJerryBot))
 
 Send Jerry the following command:
 
 `/register [your public key]`
-If your address is valid, Jerry will send you 100 STG and you'll get 100 points on the hackathon leaderboard. Your public key and Telegram ID will be stored for the rest of the hackathon.
+If your address is valid, Jerry will send you 100 testSTG and you'll get 100 points on the hackathon leaderboard. Your public key and Telegram ID will be stored for the rest of the hackathon.
 
 **IMPORTANT: You must use the same public key and Telegram ID throughout the hackathon, or we won't be able to track your score on the leaderboard. At the end of the hackathon, it's your leaderboard score which will be your official result, not the contents of your Stegos wallet.**
 
@@ -73,7 +75,7 @@ If your address is valid, Jerry will send you 100 STG and you'll get 100 points 
 
 **Task:** If you've already downloaded a previous version of the app and tested it out by using the Stegos Leprechaun Bot, there's a special early adopter award as a thank you. We really appreciate your support!
 
-**Reward:** 2,000 STG
+**Reward:** 2,000 testSTG
 
 **How to Claim:** You don't need to do anything. We'll send you the reward once you've registered and we've added this functionality to the bot.
 
@@ -85,13 +87,13 @@ You'll need to perform these tasks in order and register your progress at each s
 
 ### Send a transaction
 
-**Task:** Send a STG transaction, and prove it by providing a valid payment certificate.
+**Task:** Send a testSTG transaction, and prove it by providing a valid payment certificate.
 
 **Reward:** 1000 testSTG
 
 **How to claim:** First, ask the Bounty Bot for its public key by sending it the message `/pubkey` as a private message.
 
-Then, send a minimum of 1 STG to that address, making sure you click the "Generate Payment Certificate" option.
+Then, send a minimum of 1 testSTG to that address, making sure you click the "Generate Payment Certificate" option.
 
 Once the transaction has been sent, find it in the "Last Operations" list for your account and click the Payment Certificate.
 
@@ -135,7 +137,7 @@ For stability purposes, the Stegos team will also be running nodes and validatin
 
 **Task:** Invite more users to expand the Stegos network. Once the users invite become validators, you'll receive a bonus!
 
-**Reward:** 2000 STG for each user who becomes a validator.
+**Reward:** 2000 testSTG for each user who becomes a validator.
 
 **How to Claim:** Send `/invite` to Jerry the Bounty Bot to get an invite link. Send this to the person you want to invite. The Bounty Bot will automatically track their progress with the bounty tasks. The first time they join the list of active validators, you'll receive your bonus.
 
@@ -149,7 +151,7 @@ We're looking for feedback on Stegos: our app, our blockchain, our documentation
 
 **Task:** Send in Feedback
 
-**Reward:** 1000+ STG
+**Reward:** 250+ testSTG
 
 **How to Claim:** Feedback should be sent to support@stegos.zendesk.com.
 
@@ -161,7 +163,7 @@ Awards will be given at the discretion of our support team, depending on the cla
 
 **Task:** Report a bug
 
-**Reward:** 2000+ STG
+**Reward:** 250+ testSTG
 
 **How to Claim:** If you find a bug, send us an email about it at support@stegos.zendesk.com.
 
