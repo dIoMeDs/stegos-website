@@ -36,7 +36,7 @@ Stegos is a completely private blockchain, so no-one can track Stegos transactio
 
 As the hackathon proceeds, we'll be adding more functionality to the bounty bot, including daily rewards. So make sure to check into the Stegos Telegram group every day!
 
-The bounty bot is called [Jerry](https://t.me/StegosJerryBot)). Interact with Jerry by sending private messages on Telegram. You can see the list of commands by typing `/help`.
+The bounty bot is called [Jerry](https://t.me/StegosJerryBot). Interact with Jerry by sending private messages on Telegram. You can see the list of commands by typing `/help`.
 
 # Hackathon Task List
 
