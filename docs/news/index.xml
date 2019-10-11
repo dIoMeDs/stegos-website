@@ -6,10 +6,21 @@
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mainnet Beta 4 released!</title>
+      <link>https://diomeds.github.io/stegos-website/news/2019/10/mainnet-beta-4/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/news/2019/10/mainnet-beta-4/</guid>
+      <description>Dear Stegos Community: We&amp;rsquo;re pleased to announce the fourth beta release of the upcoming Stegos mainnet, which fixes a major bug and brings many speed improvements.
+VERY IMPORTANT!!!: This release involves a complete restart of the chain, SO PLEASE READ THE NEXT SECTION EXTREMELY CAREFULLY OR YOU MAY LOSE YOUR TOKENS AND HACKATHON PROGRESS.
+Steps to install the new release If you are already participating in the bounty If you are an existing participant of the bounty program and have already received bounty tokens to your Stegos wallet, you MUST BACK UP YOUR ACCOUNT, otherwise all of your bounty tokens will be permanently lost!</description>
+    </item>
     
     <item>
       <title>Stegos $150k Bounty and Hackathon</title>
