@@ -142,7 +142,7 @@ draft: false
 
 ### 节点入门指南
 
-See [https://docs.stegos.com](https://docs.stegos.com)
+查看 [https://docs.stegos.com](https://docs.stegos.com)
 
 ### 反馈
 
