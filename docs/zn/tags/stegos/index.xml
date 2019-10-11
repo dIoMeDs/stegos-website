@@ -6,10 +6,32 @@
     <description>Recent content in stegos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diomeds.github.io/stegos-website/zn/tags/stegos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mainnet Beta 4上线！</title>
+      <link>https://diomeds.github.io/stegos-website/zn/news/2019/10/mainnet-beta-4/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diomeds.github.io/stegos-website/zn/news/2019/10/mainnet-beta-4/</guid>
+      <description>亲爱的Stegos社区: 我们很高兴地宣布推出Stegos主网的第四个Beta版本，该版本修复了一个主要错误并带来了许多速度上的改进。
+非常重要!!!: 此版本涉及链的完全重启，因此，请仔细阅读下一节，否则您可能会丢失代币和黑客马拉松的进展。
+安装新版本的步骤 如果您此前已经参加赏金 如果您是赏金计划的现有参与者，并且已经收到Stegos钱包的赏金代币，则必须备份您的帐户，否则所有的赏金代币将永久丢失！（如果您还不是赏金参与者，请跳至下一部分。）
+您可以通过以下三种方式来备份帐户：
+方式 1: *仅当您的钱包当前正在运行时，此方式才有效。如果您已关闭应用程序，则将无法使用该选项。请使用方式2或3。*
+转到在赏金中注册的Stegos帐户，单击设置按钮，然后单击“备份”。现在，记下该帐户的24字恢复（种子）短语，并将其保存在安全的地方。
+存储恢复短语后，请关闭钱包并通过删除计算机上的以下目录来清理钱包的工作目录：
+Windows: C:\Users\[user]\AppData\Roaming\stegos Mac: $HOME/Library/Application Support/stegos Linux: $HOME/.local/share/stegos  完成上述步骤之后，下载并安装新版本的钱包或节点，安装文件在页面下方的 Assets 里。
+接下来，使用您刚记下的恢复短语恢复您的帐户。
+您将立即在赏金机器人注册的帐户中获得赏金代币。但是，此前发送代币操作的历史记录将被永久删除。
+方式 2 此方式仅建议对自己技术有信心的用户使用，因为它要求您下载并使用先前版本的CLI钱包界面。
+启动您现有的钱包应用程序（即使它不会同步）并保持打开状态。等待几分钟，然后通过先前版本的命令行界面访问您的钱包。如果还没有命令行界面，可以在这里获取：
+ Windows: https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip Mac: https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64 Linux: https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64  启动对应操作系统的 stegos 二进制文件，然后在提示符输入 show recovery 命令：
+account#1&amp;gt; show recovery --- - type: get_recovery ... --- - account_id: &amp;quot;1&amp;quot; type: recovery recovery: loop digital canal about seed champion couch rain eight twice split spoon alert total primary radio wool minute increase arctic aim dentist length head last_public_address_id: 0 .</description>
+    </item>
     
     <item>
       <title>Stegos价值15万美元的赏金和黑客马拉松活动</title>

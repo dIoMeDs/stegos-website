@@ -1,7 +1,7 @@
 ---
 author: "Vladimir Lebedev"
 date: 2019-10-01
-linktitle: 预发布主网V3 20191001
+linktitle: Mainnet Beta 3 20191001
 title: "Mainnet Beta 3和App v0.14.0正式发布！"
 description: "我们刚刚发布了Stegos主网的最终Beta版以进行公开测试。"
 metaTitle: "Mainnet Beta 3和App v0.14.0正式发布！"
