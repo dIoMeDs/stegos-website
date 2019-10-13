@@ -87,29 +87,29 @@ This option is the most time consuming, but it is easy to apply and success is g
 
 Instead of saving your recovery phrase, in this option you'll back up your `accounts` subdirectory and clean up several other subdirectories in the stegos working folder before launching the new release:
 
-*Step 1*: Back up (copy) the following directory to a safe place:</br>
+*Step 1*: Back up (copy) the following directory to a safe place:
 
-Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\
-Mac: $HOME/Library/Application Support/stegos/accounts/
-Linux: $HOME/.local/share/stegos/accounts/
+    Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\
+    Mac: $HOME/Library/Application Support/stegos/accounts/
+    Linux: $HOME/.local/share/stegos/accounts/
 
-*Step 2:* Remove blockchain files:</br>
+*Step 2:* Remove blockchain files
 
     Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\chain\\
     Mac: $HOME/Library/Application Support/stegos/chain/
     Linux: $HOME/.local/share/stegos/chain/
 
-*Step 3:* Remove deleted accounts folder:</br>
+*Step 3:* Remove deleted accounts folder
 
     Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\.trash\\
     Mac: $HOME/Library/Application Support/stegos/accounts/.trash/
     Linux: $HOME/.local/share/stegos/accounts/.trash/
 
-*Step 4:* Remove history of operations for each account:</br>
+*Step 4:* Remove history of operations for each account
 
-Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\[account_num]\\history\\
-Mac: $HOME/Library/Application Support/stegos/accounts/[account_num]/history/
-Linux: $HOME/.local/share/stegos/accounts/[account_num]/history/
+    Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\[account_num]\\history\\
+    Mac: $HOME/Library/Application Support/stegos/accounts/[account_num]/history/
+    Linux: $HOME/.local/share/stegos/accounts/[account_num]/history/
 
 After removing all of the above, you should have only two files, `account.pkey` and `account.skey` , for each account subdirectory in the stegos working folder.
 

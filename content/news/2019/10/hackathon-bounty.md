@@ -133,11 +133,15 @@ The Stegos team will be running their own nodes to ensure network stability. Nat
 
 For stability purposes, the Stegos team will also be running nodes and validating the chain. Don't worry: we're not registered with the Bounty Bot, so we won't be on the leaderboard or affect the bounty payouts. All the tokens which our nodes win will be given out to bounty participants in future tasks, to be announced soon!
 
-## Invite New Users
+## UPDATED: Invite New Users
 
 **Task:** Invite more users to expand the Stegos network. Once the users invite become validators, you'll receive a bonus!
 
-**Reward:** 2000 testSTG for each user who becomes a validator.
+**Rewards:** 100 testSTG for each referred user who becomes a validator.
+
+Most importantly, you'll get massive ongoing rewards: you'll get 5 testSTG every time a user you invite earns a block reward, plus 10% of any validator service award they win.
+
+In addition, a user who registers using your invite link will receive a 10 testSTG bonus.
 
 **How to Claim:** Send `/invite` to Jerry the Bounty Bot to get an invite link. Send this to the person you want to invite. The Bounty Bot will automatically track their progress with the bounty tasks. The first time they join the list of active validators, you'll receive your bonus.
 
@@ -151,35 +155,37 @@ We're looking for feedback on Stegos: our app, our blockchain, our documentation
 
 **Task:** Send in Feedback
 
-**Reward:** 250+ testSTG
+**Reward:** up to 40000 testSTG
 
 **How to Claim:** Feedback should be sent to support@stegos.zendesk.com.
 
 Include your public key and Telegram ID with your support request to receive bounty tokens as a thank you!
 
-Awards will be given at the discretion of our support team, depending on the clarity and usefulness of the feedback received.
+Awards will be given at the discretion of our support team, depending on the clarity and usefulness of the feedback received (the highest rewards will only be issued a few times during the bounty).
 
 ### Bug Squashing
 
 **Task:** Report a bug
 
-**Reward:** 250+ testSTG
+**Reward:** up to 100,000 testSTG
 
 **How to Claim:** If you find a bug, send us an email about it at support@stegos.zendesk.com.
 
 Please include as much information as you can to help us try and reproduce the bug. Screenshots are always appreciated!
 
-The development team may be in touch to ask for more information or with requests to
+The development team may be in touch to ask for more information or with requests to add files to your computer to monitor performance.
 
-Awards for finding bugs will be given at the discretion of our support and development teams, depending on the severity of the bug.
+Awards for finding bugs will be given at the discretion of our support and development teams, depending on the severity of the bug (the highest rewards will only be issued a few times during the bounty).
 
 ## Daily Free Tokens
 
 **Task:** Once a day, claim 100 free testSTG. Come back on consecutive days to get more tokens.
 
-**Reward:** 100 testSTG, increasing by 10% for each consecutive day.
+**Reward:** 100 testSTG. You also get a bonus for claiming on consecutive days. So the first day you'll get 100, the second 110, the third 120, etc., up to a maximum of 200. Don't miss a day, or this will reset to 100!
 
 **How to claim:** Send `/free` to the bounty bot once a day to claim your free tokens!
+
+Jerry will regularly send the current Top 10 to the Stegos Telegram groups, but you can also send `/leaderboard` to Jerry to see the current Top 10 scores at any time. Send Jerry `/me` to see your current score and rank.
 
 ## Bounty Bonuses
 
