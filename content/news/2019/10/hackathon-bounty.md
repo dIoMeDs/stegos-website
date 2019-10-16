@@ -24,7 +24,7 @@ The first part is a social media and community bounty run on our website, with b
 
 ## Part 2: $75,000 Testing and Feedback Bounty Program
 
-The second part will be running in the [Stegos Telegram group](https://stg.to/tgn), and we think it's something really exciting and unique: we're going to award $75,000 in STG coins for testing our blockchain and app and providing feedback, and we're going to use the latest version of the Stegos blockchain to track the scores. At the end of the contest, everyone will receive STG based on the number of testSTG they've earned.
+The second part will be running in the [Stegos Telegram group](https://t.me/stegos4privacy), and we think it's something really exciting and unique: we're going to award $75,000 in STG coins for testing our blockchain and app and providing feedback, and we're going to use the latest version of the Stegos blockchain to track the scores. At the end of the contest, everyone will receive STG based on the number of testSTG they've earned.
 
 For example, if 1,000,000 testSTG are issued during the hackathon and you earn 100,000, you would have 10% of the total supply and thus win 10% of the bounty pool, or $7,500.  
 
@@ -36,7 +36,7 @@ Stegos is a completely private blockchain, so no-one can track Stegos transactio
 
 As the hackathon proceeds, we'll be adding more functionality to the bounty bot, including daily rewards. So make sure to check into the Stegos Telegram group every day!
 
-The bounty bot is called [Jerry](https://t.me/StegosJerryBot). Interact with Jerry by sending private messages on Telegram. You can see the list of commands by typing `/help`.
+The bounty bot is called Jerry (Telegram username: [StegosJerryBot](https://t.me/StegosJerryBot)). Interact with Jerry by sending private messages on Telegram. You can see the list of commands by typing `/help`.
 
 # Hackathon Task List
 
@@ -50,7 +50,7 @@ These initial tasks are compulsory tasks to get you set up for the Stegos Telegr
 
 **Reward:** 0 (unfortunately there is no way to reward this task).
 
-**How to Claim:** Head [here to download](https://github.com/stegos/stegos-wallet/releases/tag/v0.14) and install the latest version of the Stegos desktop app.
+**How to Claim:** Head [here to download](https://stegos.com/news/2019/10/mainnet-beta-4/) and install the latest version of the Stegos desktop app.
 
 ### Registration
 
@@ -60,7 +60,7 @@ These initial tasks are compulsory tasks to get you set up for the Stegos Telegr
 
 **How to Claim:** Find your public key in the Stegos app, and copy it to your clipboard.
 
-In Telegram, send a private message to Jerry, the Stegos Bounty Bot (username: [StegosJerryBot](https://t.me/StegosJerryBot))
+In Telegram, send a private message to Jerry, the Stegos Bounty Bot (username: [StegosJerryBot](https://t.me/StegosJerryBot)).
 
 Send Jerry the following command:
 
@@ -177,11 +177,11 @@ The development team may be in touch to ask for more information or with request
 
 Awards for finding bugs will be given at the discretion of our support and development teams, depending on the severity of the bug (the highest rewards will only be issued a few times during the bounty).
 
-## Daily Free Tokens
+## UPDATED: Daily Free Tokens
 
-**Task:** Once a day, claim 100 free testSTG. Come back on consecutive days to get more tokens.
+**Task:** Claim free testSTG once a day. Come back on consecutive days to get more tokens.
 
-**Reward:** 100 testSTG. You also get a bonus for claiming on consecutive days. So the first day you'll get 100, the second 110, the third 120, etc., up to a maximum of 200. Don't miss a day, or this will reset to 100!
+**Reward:** Jerry will send you a random reward of 100, 250, 500, 1000 or even 5000 testSTG. Come back on consecutive days to get a bonus multiplier of 10% for each day you've claimed! Don't miss a day or your multiplier will reset.
 
 **How to claim:** Send `/free` to the bounty bot once a day to claim your free tokens!
 

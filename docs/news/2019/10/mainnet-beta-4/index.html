@@ -265,9 +265,9 @@ Linux: $HOME/.local/share/stegos
 <p>Launch your existing wallet application (even though it will not sync) and keep it open. Wait a couple of minutes, then access your wallet via the previous version of the command-line interface. If you don&rsquo;t already have it, you can get it here:</p>
 
 <ul>
-<li>Windows: <a href="https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip">https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip</a></li>
-<li>Mac: <a href="https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64">https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64</a></li>
-<li>Linux: <a href="https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64">https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64</a></li>
+<li><a href="https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip">Windows</a></li>
+<li><a href="https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64">Mac</a></li>
+<li><a href="https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64">Linux</a></li>
 </ul>
 
 <p>Launch the corresponding <code>stegos</code> binary for your operating system and input the <code>show recovery</code> command at the prompt:</p>
@@ -280,7 +280,9 @@ Linux: $HOME/.local/share/stegos
 ---
 - account_id: &quot;1&quot;
   type: recovery
-  recovery: loop digital canal about seed champion couch rain eight twice split spoon alert total primary radio wool minute increase arctic aim dentist length head
+  recovery: loop digital canal about seed champion couch
+  rain eight twice split spoon alert total primary radio
+  wool minute increase arctic aim dentist length head
   last_public_address_id: 0
 ...
 </code></pre>
@@ -306,31 +308,37 @@ Linux: $HOME/.local/share/stegos
 
 <p>Instead of saving your recovery phrase, in this option you&rsquo;ll back up your <code>accounts</code> subdirectory and clean up several other subdirectories in the stegos working folder before launching the new release:</p>
 
-<p><em>Step 1</em>: Back up (copy) the following directory to a safe place:</br></p>
+<p><em>Step 1</em>: Back up (copy) the following directory to a safe place:</p>
 
-<p>Windows: C:\Users\[user]\AppData\Roaming\stegos\accounts<br />
-Mac: $HOME/Library/Application Support/stegos/accounts/
-Linux: $HOME/.local/share/stegos/accounts/</p>
+<ul>
+<li>Windows: C:\Users\[user]\AppData\Roaming\stegos\accounts<br /></li>
+<li>Mac: $HOME/Library/Application Support/stegos/accounts/</li>
+<li>Linux: $HOME/.local/share/stegos/accounts/</li>
+</ul>
 
-<p><em>Step 2:</em> Remove blockchain files:</br></p>
+<p><em>Step 2:</em> Remove blockchain files</p>
 
-<pre><code>Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\chain\\
-Mac: $HOME/Library/Application Support/stegos/chain/
-Linux: $HOME/.local/share/stegos/chain/
-</code></pre>
+<ul>
+<li>Windows: C:\Users\[user]\AppData\Roaming\stegos\chain<br /></li>
+<li>Mac: $HOME/Library/Application Support/stegos/chain/</li>
+<li>Linux: $HOME/.local/share/stegos/chain/</li>
+</ul>
 
-<p><em>Step 3:</em> Remove deleted accounts folder:</br></p>
+<p><em>Step 3:</em> Remove deleted accounts folder</p>
 
-<pre><code>Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\.trash\\
-Mac: $HOME/Library/Application Support/stegos/accounts/.trash/
-Linux: $HOME/.local/share/stegos/accounts/.trash/
-</code></pre>
+<ul>
+<li>Windows: C:\Users\[user]\AppData\Roaming\stegos\accounts\.trash<br /></li>
+<li>Mac: $HOME/Library/Application Support/stegos/accounts/.trash/</li>
+<li>Linux: $HOME/.local/share/stegos/accounts/.trash/</li>
+</ul>
 
-<p><em>Step 4:</em> Remove history of operations for each account:</br></p>
+<p><em>Step 4:</em> Remove history of operations for each account</p>
 
-<p>Windows: C:\Users\[user]\AppData\Roaming\stegos\accounts\[account_num]\history<br />
-Mac: $HOME/Library/Application Support/stegos/accounts/[account_num]/history/
-Linux: $HOME/.local/share/stegos/accounts/[account_num]/history/</p>
+<ul>
+<li>Windows: C:\Users\[user]\AppData\Roaming\stegos\accounts\[account_num]\history<br /></li>
+<li>Mac: $HOME/Library/Application Support/stegos/accounts/[account_num]/history/</li>
+<li>Linux: $HOME/.local/share/stegos/accounts/[account_num]/history/</li>
+</ul>
 
 <p>After removing all of the above, you should have only two files, <code>account.pkey</code> and <code>account.skey</code> , for each account subdirectory in the stegos working folder.</p>
 

@@ -49,9 +49,9 @@ You will get your bounty tokens in the account registered with the bounty bot im
 
 Launch your existing wallet application (even though it will not sync) and keep it open. Wait a couple of minutes, then access your wallet via the previous version of the command-line interface. If you don't already have it, you can get it here:
 
-- Windows: [https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip](https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip)
-- Mac: [https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64](https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64)
-- Linux: [https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64](https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64)
+- [Windows](https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip)
+- [Mac](https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64)
+- [Linux](https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64)
 
 Launch the corresponding `stegos` binary for your operating system and input the `show recovery` command at the prompt:
 
@@ -63,7 +63,9 @@ Launch the corresponding `stegos` binary for your operating system and input the
     ---
     - account_id: "1"
       type: recovery
-      recovery: loop digital canal about seed champion couch rain eight twice split spoon alert total primary radio wool minute increase arctic aim dentist length head
+      recovery: loop digital canal about seed champion couch
+      rain eight twice split spoon alert total primary radio
+      wool minute increase arctic aim dentist length head
       last_public_address_id: 0
     ...
 
@@ -87,29 +89,30 @@ This option is the most time consuming, but it is easy to apply and success is g
 
 Instead of saving your recovery phrase, in this option you'll back up your `accounts` subdirectory and clean up several other subdirectories in the stegos working folder before launching the new release:
 
-*Step 1*: Back up (copy) the following directory to a safe place:</br>
+*Step 1*: Back up (copy) the following directory to a safe place:
 
-Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\
-Mac: $HOME/Library/Application Support/stegos/accounts/
-Linux: $HOME/.local/share/stegos/accounts/
+- Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\
+- Mac: $HOME/Library/Application Support/stegos/accounts/
+- Linux: $HOME/.local/share/stegos/accounts/
 
-*Step 2:* Remove blockchain files:</br>
+*Step 2:* Remove blockchain files
 
-    Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\chain\\
-    Mac: $HOME/Library/Application Support/stegos/chain/
-    Linux: $HOME/.local/share/stegos/chain/
+- Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\chain\\
+- Mac: $HOME/Library/Application Support/stegos/chain/
+- Linux: $HOME/.local/share/stegos/chain/
 
-*Step 3:* Remove deleted accounts folder:</br>
+*Step 3:* Remove deleted accounts folder
 
-    Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\.trash\\
-    Mac: $HOME/Library/Application Support/stegos/accounts/.trash/
-    Linux: $HOME/.local/share/stegos/accounts/.trash/
+- Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\.trash\\
+- Mac: $HOME/Library/Application Support/stegos/accounts/.trash/
+- Linux: $HOME/.local/share/stegos/accounts/.trash/
 
-*Step 4:* Remove history of operations for each account:</br>
+*Step 4:* Remove history of operations for each account
 
-Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\[account_num]\\history\\
-Mac: $HOME/Library/Application Support/stegos/accounts/[account_num]/history/
-Linux: $HOME/.local/share/stegos/accounts/[account_num]/history/
+- Windows: C:\\Users\\[user]\\AppData\\Roaming\\stegos\\accounts\\[account_num]\\history\\
+- Mac: $HOME/Library/Application Support/stegos/accounts/[account_num]/history/
+- Linux: $HOME/.local/share/stegos/accounts/[account_num]/history/
+
 
 After removing all of the above, you should have only two files, `account.pkey` and `account.skey` , for each account subdirectory in the stegos working folder.
 
