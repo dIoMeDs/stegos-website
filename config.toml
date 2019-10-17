@@ -1,4 +1,4 @@
-title = ""
+title = "DEV SITE"
 baseURL = "https://diomeds.github.io/stegos-website/"
 languageCode = "en-us"
 theme = "hugo-theme"
