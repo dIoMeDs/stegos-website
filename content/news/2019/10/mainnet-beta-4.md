@@ -2,7 +2,7 @@
 author: "Vladimir Lebedev"
 date: 2019-10-11
 linktitle: Mainnet Beta 4 20191011
-title: "Mainnet Beta 4 released!"
+title: "Mainnet Beta 4 released! TEST"
 description: "Important compulsory update and instructions for bounty participants."
 metaTitle: "Mainnet Beta 4 released!"
 metaDescription: "Important compulsory update and instructions for bounty participants."
