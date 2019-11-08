@@ -39,10 +39,12 @@
             {{ T "partners" | safeHTML }}
         </a>
 
-        <a href="#" class="menu_link">
-            <span class="sector_part" style="display: none;"></span>
-            {{ T "test" | safeHTML }}
-        </a>
+        <a href="https://docs.stegos.com/" class="menu_link">
+            <span class="sector_docs"  style="display: none;"></span>
+            {{ T "docs" | safeHTML }}
+       </a>
+
+
         {{ else }}
         <a href="{{ "/" | absLangURL }}#sector_news" class="menu_link_out">
         {{ T "news" | safeHTML }}

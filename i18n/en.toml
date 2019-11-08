@@ -146,6 +146,9 @@ other = "Added algorithmic stablecoin functionality"
 [partners]
 other = "Partners"
 
+[docs]
+other = "Docs"
+
 [subscribe_to_our_newsletter]
 other = "Subscribe to our newsletter"
 
