@@ -2,9 +2,9 @@
 author: "Vladimir Lebedev"
 date: 2019-11-14
 linktitle: Mainnet Beta 3 20191114
-title: "Mainnet Beta 5 Launched!"
+title: "Mainnet Beta 5  Launched!"
 description: "The final version of mainnet beta is available for download"
-metaTitle: "Mainnet Beta 5 Launched!"
+metaTitle: "Mainnet Beta 5  Launched!"
 metaDescription: "The final version of mainnet beta is available for download"
 categories: [ "DEVELOPMENT" ]
 tags: ["stegos", "report", "technology"]
