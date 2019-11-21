@@ -71,9 +71,9 @@ Keep your 24-word phrase safe so you can use it later to restore your account.
 
 Launch your existing wallet application (even though it will not sync) and keep it open. Wait a couple of minutes, then access your wallet via the previous version of the command-line interface. If you don't already have it, you can get it here:
 
-- Windows: [https://github.com/stegos/stegos/releases/download/v0.17/stegos-win-x64.zip](https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip)
-- Mac: [https://github.com/stegos/stegos/releases/download/v0.17/stegos-macos-x64](https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64)
-- Linux: [https://github.com/stegos/stegos/releases/download/v0.17/stegos-linux-x64](https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64)
+- [Windows](https://github.com/stegos/stegos/releases/download/v0.15/stegos-win-x64.zip)
+- [Mac](https://github.com/stegos/stegos/releases/download/v0.15/stegos-macos-x64)
+- [Linux](https://github.com/stegos/stegos/releases/download/v0.15/stegos-linux-x64)
 
 Launch the corresponding `stegos` binary for your operating system and input the `show recovery` command at the prompt:
 
@@ -85,8 +85,10 @@ Launch the corresponding `stegos` binary for your operating system and input the
     ---
     - account_id: "1"
       type: recovery
-      recovery: loop digital canal about seed champion couch rain eight twice split spoon alert total primary
-      radio wool minute increase arctic aim dentist length head
+      recovery: loop digital canal about seed champion couch
+      rain eight twice split spoon alert total primary
+      radio wool minute increase arctic aim dentist
+      length head
       last_public_address_id: 0
     ...
 
