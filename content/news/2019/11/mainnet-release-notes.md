@@ -85,7 +85,8 @@ Launch the corresponding `stegos` binary for your operating system and input the
     ---
     - account_id: "1"
       type: recovery
-      recovery: loop digital canal about seed champion couch rain eight twice split spoon alert total primary radio wool minute increase arctic aim dentist length head
+      recovery: loop digital canal about seed champion couch rain eight twice split spoon alert total primary
+      radio wool minute increase arctic aim dentist length head
       last_public_address_id: 0
     ...
 
