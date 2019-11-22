@@ -29,7 +29,7 @@ Existing users and participants in the bounty and hackathon will need to take a 
 
 **These steps are VERY IMPORTANT, and failing to follow them could mean we cannot send you your rewards.**
 
-### If You Have Backed Up Your Wallet (or Didn't Participate in the Hackathon)
+### If You Have Backed Up Your Wallet (or Don't Need it Any More)
 
 If you have already backed up your testnet wallet using the 24-word mnemonic, or if you didn't participate in the hackathon and so don't need your testnet account anymore, then you just need to delete the old testnet data.
 
