@@ -22,7 +22,7 @@ On November 18th, our CEO Joel took part in a Telegram AMA for Crypto Daku. The 
 
 **Which types of updates you've done in recently launched mainnet beta 5 as compared to previous beta versions?**
 
--Good morning everyone! The event updates were very much focused on the stability of the mainnet and improvements to sync times. We have not deployed any new features but got things ready for production deployment on Nov 20.
+> Good morning everyone! The event updates were very much focused on the stability of the mainnet and improvements to sync times. We have not deployed any new features but got things ready for production deployment on Nov 20.
 
 **Stegos is said to be completely secure in privacy where the real-life identity is unknown to anyone so to use Stegos application users will not be asked for any KYC?**
 
@@ -32,29 +32,29 @@ On November 18th, our CEO Joel took part in a Telegram AMA for Crypto Daku. The 
 
 **For payment does it supports all kind of crypto and fiat?**
 
--We are a Swiss company and have to abide by Swiss law. We are required to KYC anyone we directly sell tokens to. We are not required to KYC anyone who buys from exchanges, for example.
+> We are a Swiss company and have to abide by Swiss law. We are required to KYC anyone we directly sell tokens to. We are not required to KYC anyone who buys from exchanges, for example.
 
-There’s no use case for TAC at the moment. It’s something we will likely eliminate from our road map in favor of a tighter focus on secure and anonymous chat, red packets (viral growth feature) and decentralized and trustless OTC trading.
+> There’s no use case for TAC at the moment. It’s something we will likely eliminate from our road map in favor of a tighter focus on secure and anonymous chat, red packets (viral growth feature) and decentralized and trustless OTC trading.
 
 **What is the reason and motivation for your team to create the Stegos project when the cryptocurrency market has many projects to solve this problem that occupy the majority of the market and customers?**
 
--We want to deliver not just private payments but a secure message and data bus that other applications can be built on top. This is something unique and not seen in the market thus far!
+> We want to deliver not just private payments but a secure message and data bus that other applications can be built on top. This is something unique and not seen in the market thus far!
 
 **What are some of the advantages Stegos has over it’s competitors?**
 
 **Revenue is a priority for all projects/companies, can you tell us how does Stegos generate revenue(from it’s technology) ?!**
 
--We are looking to make money from sales of applications built on top of our platform. It will take time before we get there, though. In the meantime, we are going to drive token growth through our viral features.
+> We are looking to make money from sales of applications built on top of our platform. It will take time before we get there, though. In the meantime, we are going to drive token growth through our viral features.
 
-Red packets is a feature that we borrowed from WeChat. You can create a QR code using our app and post it anywhere, e.g. plaster it on walls or sidewalks. Scanning the QR code with your smartphone will get you a link to download our app. By scanning the QR code with the app you will try to open the red packet and get free tokens. It’s very important to note that this does not require you to have any tokens in your wallet, it’s free to try to open a red packet!
+> Red packets is a feature that we borrowed from WeChat. You can create a QR code using our app and post it anywhere, e.g. plaster it on walls or sidewalks. Scanning the QR code with your smartphone will get you a link to download our app. By scanning the QR code with the app you will try to open the red packet and get free tokens. It’s very important to note that this does not require you to have any tokens in your wallet, it’s free to try to open a red packet!
 
-You may or may not get free tokens every time you scan the QR code since this is random. You can keep trying, though, until the packet is empty. There’s a technical delay of 2-3 seconds every time the packet is opened so we’ll be showing an add (animated GIF?) during this time. The ad can be set by the creator of the red packet.
+> You may or may not get free tokens every time you scan the QR code since this is random. You can keep trying, though, until the packet is empty. There’s a technical delay of 2-3 seconds every time the packet is opened so we’ll be showing an add (animated GIF?) during this time. The ad can be set by the creator of the red packet.
 
-So red packets should drive growth and spead our app far and find, in addition to creating demand for our tokens. And ads in the read packets should drive demand for the red packets themselves.
+> So red packets should drive growth and spead our app far and find, in addition to creating demand for our tokens. And ads in the read packets should drive demand for the red packets themselves.
 
 **As I saw your introduction video regarding Stegos prototype, you will use face recognition to unlock the app, so my question is who/which party will store user data, in this case is our face id?**
 
--The face unlock is always particular to your smartphone platform and OS, e.g. iOS or Android. We will not store or have access to this data, just integrate with what your smartphone OS providers to secure passwords.
+> The face unlock is always particular to your smartphone platform and OS, e.g. iOS or Android. We will not store or have access to this data, just integrate with what your smartphone OS providers to secure passwords.
 
 **One of the competitive advantages of Stegos is the Dev team who assures speedy developments of different functionalities on stegos ecosystem. I'd like to know more about your organization. Were there any significant challenges that your team encountered in the past?**
 
@@ -98,7 +98,7 @@ So red packets should drive growth and spead our app far and find, in addition t
 
 **What is your best, most favorite feature of Stegos that you will be proud of before other companies and can inspire you to build this token?**
 
--It’s not what inspired me to build Stegos but I’m putting high hopes on the red packet feature that I described above. This has NEVER been done before, in ANY blockchain project. I’m truly looking forward to seeing how this will drive Stegos mobile app installations on millions if not billions of smartphones!
+> It’s not what inspired me to build Stegos but I’m putting high hopes on the red packet feature that I described above. This has NEVER been done before, in ANY blockchain project. I’m truly looking forward to seeing how this will drive Stegos mobile app installations on millions if not billions of smartphones!
 
 **Facebook is ready to launch their Libra project which will be integrated with Facebook messenger, Telegram also prepared for their launch with $TON. Do you see them as your main competitors? If so, what have you prepared to compete with them?**
 
@@ -108,9 +108,9 @@ So red packets should drive growth and spead our app far and find, in addition t
 
 **When did the second round of investment begin? What were the dates for the first and second investment rounds? When will you release the Stegos mainnet?**
 
--Please check our whitepaper for existing token sale structure. All private sales are closed now as we are a couple of days away from launching our mainnet. You will be able to buy tokens over the counter (OTC) or on exchanges after we launch.
+> Please check our whitepaper for existing token sale structure. All private sales are closed now as we are a couple of days away from launching our mainnet. You will be able to buy tokens over the counter (OTC) or on exchanges after we launch.
 
-You will also be able to get hold of free tokens by finding Stegos red packets to open by scanning QR codes with the Stegos mobile app. We will be releasing this app in 2-3 months.
+> You will also be able to get hold of free tokens by finding Stegos red packets to open by scanning QR codes with the Stegos mobile app. We will be releasing this app in 2-3 months.
 
 **Whats the main consensus algorithm architecture of stegos project ? On which POS or POW stegos works ?**
 
@@ -120,15 +120,15 @@ You will also be able to get hold of free tokens by finding Stegos red packets t
 
 > Stegos gPoS is different! Yes, we have the same block rewards proportional to the size of your stake but we also have a CRUCIAL difference! Some 20% of each blow reward goes into a prize pool and a drawing happens every week or so. Any validator (node) who has been online and validating throughout this week will be eligible for this drawing, regardless of the size of their stake. We call this the Validator Service Award since it’s a reward for meritorious service!
 
-Practically, it means that you can strike it rich with Stegos by putting up a small stake and then doing good work supporting our blockchain. This is more democratic than existing PoS systems.
+> Practically, it means that you can strike it rich with Stegos by putting up a small stake and then doing good work supporting our blockchain. This is more democratic than existing PoS systems.
 
 **Today many projects claimed that they achieved thousand or even millions TPS but the truth is not. Is TPS increased linearly when the node increase or what? Have you done stress-test for your network? If yes, can you show it for the community?**
 
--We have done some stress tests but we are not focused on TPS at the moment.
+> We have done some stress tests but we are not focused on TPS at the moment.
 
 **How many people are currently participating in your test net? How much RAM does it need?**
 
--We ran a bounty and were able to attract some 300 validators.
+> We ran a bounty and were able to attract some 300 validators.
 
 **Beam is also providing privacy blockchain solution can you describe why stegos is better compared to other privacy solutions?**
 
@@ -136,7 +136,7 @@ Practically, it means that you can strike it rich with Stegos by putting up a sm
 
 **When will you develop cross-chain anonymous transaction?**
 
--First half of 2020.
+> First half of 2020.
 
 **Do have any plans to expand the market to other countries in the world yet? Or do you focus your market only on Asian or European countries?**
 
@@ -144,7 +144,7 @@ Practically, it means that you can strike it rich with Stegos by putting up a sm
 
 **What is the utility of red packet (hongbao) while users can make transactions directly with the others in Stegos app?**
 
--The red packets are a marketing feature designed to drive viral growth. You can create a private community of people and keep the interest up by periodically dropping red packets into your group. This is a lot like what people are doing on WeChat right now. WeChat is completely unsecure and 100% visible to the Chinese government or any other agency dedicated to mass surveillance.
+> The red packets are a marketing feature designed to drive viral growth. You can create a private community of people and keep the interest up by periodically dropping red packets into your group. This is a lot like what people are doing on WeChat right now. WeChat is completely unsecure and 100% visible to the Chinese government or any other agency dedicated to mass surveillance.
 
 **Who are the key members of the project? What are the strengths of experience and capacity of the team?**
 
@@ -174,7 +174,7 @@ Practically, it means that you can strike it rich with Stegos by putting up a sm
 
 **i love this red packet thing.. when a red packet for daku community with 1000usdt inside it :)**
 
--1000 USDT is unlikely but we’ll be dropping red packets into various communities in the future. Please stay tuned by joining our TG group and subscribing to our official TG channel at [https://t.me/stegos4privacy_official](https://stg.to/tgn)
+> 1000 USDT is unlikely but we’ll be dropping red packets into various communities in the future. Please stay tuned by joining our TG group and subscribing to our official TG channel at [https://t.me/stegos4privacy_official](https://stg.to/tgn)
 
 **has to have hardstop in 3 min :). Before we end want to know: about exchange - it will be very soon right ?**
 
