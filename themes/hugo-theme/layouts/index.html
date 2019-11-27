@@ -83,9 +83,7 @@
         <div class="indicator_btn">
             <span class="sector_pro" style="display: none;"></span>
         </div>
-        <div class="indicator_btn">
-            <span class="sector_team" style="display: none;"></span>
-        </div>
+
 
         <div class="indicator_btn">
             <span class="sector_road" style="display: none;"></span>
@@ -442,54 +440,7 @@
 
     </div>
 
-    <div id="sector_team" class="main_sector team_block">
-        <div class="m_s_title">{{ T "team" | safeHTML }}</div>
-        <div class="m_s_line_decor">
-            <span class="m_s_ld"></span>
-            <span class="m_s_ldm"></span>
-            <span class="m_s_ld"></span>
-        </div>
 
-        <div class="m_s_content_block">
-
-            {{ range .Pages.GroupBy "Section" }}
-            {{ if eq .Key "team" }}
-            {{ range .Pages.ByParam "sort" }}
-            <div class="content__item">
-
-                <div class="m_s_line_decor">
-                    <span class="m_s_ld"></span>
-                    <span class="m_s_ldm"></span>
-                    <span class="m_s_ld"></span>
-                </div>
-
-                <div class="c__item_cont">
-
-                    <div class="c__item_head">
-                        <a href="{{ "team/" | absLangURL }}{{ .Params.link }}" class="c__item_photo {{ .Params.photo }}"></a>
-                        <div class="c__item_name">{{ .Params.name }}</div>
-                        <div class="c__item_status">{{ .Params.status }}</div>
-                    </div>
-
-                    <div class="c__item_info">
-                        {{ .Params.info }}
-                        <a href="{{ "team/" | absLangURL }}{{ .Params.link }}" class="c__item_arrow_more">→</a>
-                    </div>
-
-                    <a href="{{ .Params.socialLink }}" class="icon_in">
-                        {{ .Params.socialIcon | safeHTML }}
-                    </a>
-
-                </div>
-
-            </div>
-            {{ end }}
-            {{ end }}
-            {{ end }}
-
-        </div>
-
-    </div>
 
     <div id="sector_road" class="main_sector road_block">
         <div class="m_s_title">{{ T "roadmap" | safeHTML }}</div>
