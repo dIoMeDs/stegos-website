@@ -40,7 +40,40 @@
     </div>
 
 
+    <div id="sector_team" class="main_sector team_block page_team">
+        <h1 class="m_s_title">{{ T "team" }}</h1>
+        <div class="m_s_line_decor">
+            <span class="m_s_ld"></span>
+            <span class="m_s_ldm"></span>
+            <span class="m_s_ld"></span>
+        </div>
 
+        <div class="m_s_content_block">
+
+            {{ range .Pages.ByParam "sort" }}
+            <div id="{{ .Params.id }}" class="content__item">
+
+                <div class="c__item_cont">
+
+                    <div class="c__item_head">
+                        <div class="c__item_photo {{ .Params.photo }}"></div>
+                        <div class="c__item_name">{{ .Params.name }}</div>
+                        <div class="c__item_status">{{ .Params.status }}</div>
+                        <a href="{{ .Params.socialLink }}" class="icon_in">
+                            {{ .Params.socialIcon | safeHTML }}
+                        </a>
+                    </div>
+
+                    <div class="c__item_info">{{ .Params.infoFull }}</div>
+
+                </div>
+
+            </div>
+            {{ end }}
+
+        </div>
+
+    </div>
 
     {{ partial "mobile_form.html" . }}
 
